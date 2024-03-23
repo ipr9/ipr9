@@ -35,6 +35,8 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/722a9a9a-aa1f-4c92-ba8c-957f5206a80f)
 ![](https://github.com/ipr9/ipr9/assets/163503847/a8598fe7-b9ad-47ed-921a-d542d6c284a8)
 ![](https://github.com/ipr9/ipr9/assets/163503847/0c5e1c82-7a8c-467c-9358-67128718a92f)
+![](https://github.com/ipr9/ipr9/assets/163503847/3e3df749-fc36-4c9d-947a-fdc376758252)
+![](https://github.com/ipr9/ipr9/assets/163503847/3ca41a82-a33c-4834-aa54-8ec3263b7d85)
 
 ```
 我们的用户到底是谁？
@@ -186,6 +188,12 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/9ecb4b61-fea4-4a88-8a31-a43378ee80d9)
 ![](https://github.com/ipr9/ipr9/assets/163503847/05f8a66c-d58b-47a8-a87b-aef2d92c02e0)
 ![](https://github.com/ipr9/ipr9/assets/163503847/43376ecf-1f3c-480c-b4e4-c0624b3f4202)
+
+![ai vs mj](https://github.com/ipr9/ipr9/assets/163503847/03db8919-545a-4a3b-87f6-09628bdcc181)
+![jump shot](https://github.com/ipr9/ipr9/assets/163503847/b356767a-f977-4798-8a39-adcae5ba5a4b)
+![final last shot](https://github.com/ipr9/ipr9/assets/163503847/71538229-c341-42f6-9751-8d4b7fdeff4e)
+![star last shot](https://github.com/ipr9/ipr9/assets/163503847/02b09bd3-c600-4edc-960d-334b1fca5078)
+
 
 ```
 长沙
