@@ -191,8 +191,11 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/43376ecf-1f3c-480c-b4e4-c0624b3f4202)
 
 ![ai vs mj](https://github.com/ipr9/ipr9/assets/163503847/03db8919-545a-4a3b-87f6-09628bdcc181)
+
 ![jump shot](https://github.com/ipr9/ipr9/assets/163503847/b356767a-f977-4798-8a39-adcae5ba5a4b)
+
 ![final last shot](https://github.com/ipr9/ipr9/assets/163503847/71538229-c341-42f6-9751-8d4b7fdeff4e)
+
 ![star last shot](https://github.com/ipr9/ipr9/assets/163503847/02b09bd3-c600-4edc-960d-334b1fca5078)
 
 
@@ -220,6 +223,8 @@
 1. [Coolpad](https://coolpad.com/#/)
 2. [YOTA](https://news.mydrivers.com/1/549/549071.htm)
 3. [Transsion](https://transsion.com/)
+
+
 
 # Reference
 
