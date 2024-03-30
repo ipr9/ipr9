@@ -140,3 +140,8 @@
 6. [得到](https://www.dedao.cn/)
 7. [秘塔AI搜索](https://metaso.cn/)
 8. [perplexity](https://www.perplexity.ai/)
+9. [智爱法律大模型](https://www.zhiexa.com/index)
+10. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
+11. [Hulu AI](https://h5.cxyhub.com/home)
+12. [讯飞星火](https://xinghuo.xfyun.cn/)
+13. [文心一言](https://yiyan.baidu.com/)
