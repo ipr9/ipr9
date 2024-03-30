@@ -13,9 +13,18 @@
 2. **愿景**：成为产业界具有影响力的知识产权实务专家
 3. **价值观**：天道酬勤、人道酬善、商道酬信
 
-人活一世，草生一春，会当凌绝顶，一览众山小，无限风光在险处，**生活是海，工作是船**
+```
+收入=本金X(1+利率)<sup>时长</sup>
+```
 
 ## 用户是谁？
+
+```
+<details>
+<summary>用户是谁？</summary>
+Dropdown content (supports **markdown** ~~yay!~~)
+</details>
+```
 
 ————内部：业务，领导/老板，团队...
 
@@ -112,9 +121,14 @@
 
 # Journey
 
+一个人的心里同时存在两个角色，自己与他人，人的成长就是从**只有自我到成就他人**；
+一个人同时生活在两个世界，一个想象世界一个现实世界，人的成长就是不断提高这两个世界的**重合度**。
+
 ![](https://github.com/ipr9/ipr9/assets/163503847/92643d26-d2ed-4f33-9ac8-8ddc25164cfd)
 ![](https://github.com/ipr9/ipr9/assets/163503847/05f8a66c-d58b-47a8-a87b-aef2d92c02e0)
 ![](https://github.com/ipr9/ipr9/assets/163503847/43376ecf-1f3c-480c-b4e4-c0624b3f4202)
+![](https://github.com/ipr9/ipr9/assets/163503847/813b7efc-dc2c-48d6-b3b9-3cf443b969f1)
+![](https://github.com/ipr9/ipr9/assets/163503847/9ccacc09-b042-4367-9653-6f23c23e7fa1)
 ![](https://github.com/ipr9/ipr9/assets/163503847/1975c1c1-a35a-44cd-87a8-2a0743241733)
 > Just do it right now...
 
@@ -126,5 +140,5 @@
 4. [李笑来作品集](http://lixiaolai.com/#/)
 5. [科技爱好者周刊](https://github.com/ruanyf/weekly)
 6. [得到](https://www.dedao.cn/)
-7. [秘塔A搜索](https://metaso.cn/)
+7. [秘塔AI搜索](https://metaso.cn/)
 8. [perplexity](https://www.perplexity.ai/)
