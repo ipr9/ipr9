@@ -11,7 +11,9 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
 1. **使命**：创造和运用知识产权，助力公司经营及发展
 2. **愿景**：成为产业界具有影响力的知识产权实务专家
-3. **价值观**：<ins>天道酬勤</ins>、<ins>人道酬善</ins>、<ins>商道酬信</ins>
+3. **价值观**：<ins>天道酬勤:camel:</ins>、<ins>人道酬善</ins>、<ins>商道酬信</ins>
+
+***
 
 <details>
 <summary>用户是谁？</summary>
@@ -60,6 +62,8 @@
   </table>
 </details>
 
+***
+
 ![](https://github.com/ipr9/ipr9/assets/163503847/b537d0b8-e3b7-479f-b524-2b4835613875)
 ![](https://github.com/ipr9/ipr9/assets/163503847/8fbaae7e-a774-4598-a1f6-377b1e233736)
 ![](https://github.com/ipr9/ipr9/assets/163503847/bed4e3eb-213b-48c1-b1a6-7e04b060b273)
@@ -78,6 +82,13 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/0c5e1c82-7a8c-467c-9358-67128718a92f)
 ![](https://github.com/ipr9/ipr9/assets/163503847/3e3df749-fc36-4c9d-947a-fdc376758252)
 ![](https://github.com/ipr9/ipr9/assets/163503847/3ca41a82-a33c-4834-aa54-8ec3263b7d85)
+
+- [x] 日行6千步
+- [x] 夜眠7小时（R90周期）
+- [x] 冥想15分钟
+- [x] 午休25分钟
+
+***
 
 1. 少有、正确、价值
 2. 读书（阅读/思考），旅行（践行，见多识广），交友
@@ -122,6 +133,8 @@
 
 一个人同时生活在两个世界，一个想象世界一个现实世界，人的成长就是不断提高这两个世界的**重合度**。
 
+***
+
 ![](https://github.com/ipr9/ipr9/assets/163503847/92643d26-d2ed-4f33-9ac8-8ddc25164cfd)
 ![](https://github.com/ipr9/ipr9/assets/163503847/05f8a66c-d58b-47a8-a87b-aef2d92c02e0)
 ![](https://github.com/ipr9/ipr9/assets/163503847/43376ecf-1f3c-480c-b4e4-c0624b3f4202)
@@ -129,6 +142,11 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/9ccacc09-b042-4367-9653-6f23c23e7fa1)
 ![](https://github.com/ipr9/ipr9/assets/163503847/1975c1c1-a35a-44cd-87a8-2a0743241733)
 > 因相信而看见，因看见而行动及坚持，Just do it right now...
+
+| 年份  | 月份 | 周数 | 日数 |
+| ----- |  :------:  |  :------:  | :------:   |
+| 2024     | 3       | 4        | 30         |
+| 2024     | 3       | 4         | 31         |
 
 # Reference
 
@@ -145,3 +163,4 @@
 11. [Hulu AI](https://h5.cxyhub.com/home)
 12. [讯飞星火](https://xinghuo.xfyun.cn/)
 13. [文心一言](https://yiyan.baidu.com/)
+14. [Github语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
