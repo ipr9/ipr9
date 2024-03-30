@@ -164,4 +164,4 @@
 12. [讯飞星火](https://xinghuo.xfyun.cn/)
 13. [文心一言](https://yiyan.baidu.com/)
 14. [Github语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-15. [github-pages-themes](https://jekyllthemes.io/github-pages-themes)
+15. [GitHub Pages themes](https://github.com/pages-themes)
