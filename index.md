@@ -11,7 +11,9 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
 1. **使命**：创造和运用知识产权，助力公司经营及发展
 2. **愿景**：成为产业界具有影响力的知识产权实务专家
-3. **价值观**：<ins>天道酬勤:camel:</ins>、<ins>人道酬善</ins>、<ins>商道酬信</ins>
+3. **价值观**：<ins>天道酬勤</ins>、<ins>人道酬善</ins>、<ins>商道酬信</ins>
+
+:camel:
 
 ***
 
