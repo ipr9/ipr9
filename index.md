@@ -117,6 +117,7 @@
 # Journey
 
 一个人的心里同时存在两个角色，自己与他人，人的成长就是从**只有自我到成就他人**；
+
 一个人同时生活在两个世界，一个想象世界一个现实世界，人的成长就是不断提高这两个世界的**重合度**。
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/92643d26-d2ed-4f33-9ac8-8ddc25164cfd)
@@ -125,7 +126,7 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/813b7efc-dc2c-48d6-b3b9-3cf443b969f1)
 ![](https://github.com/ipr9/ipr9/assets/163503847/9ccacc09-b042-4367-9653-6f23c23e7fa1)
 ![](https://github.com/ipr9/ipr9/assets/163503847/1975c1c1-a35a-44cd-87a8-2a0743241733)
-> Just do it right now...
+> 因相信而看见，因看见而行动及坚持，Just do it right now...
 
 # Reference
 
