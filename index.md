@@ -135,6 +135,7 @@
 
 ***
 
+![](https://github.com/ipr9/ipr9/assets/163503847/aca770fe-ef29-4095-b471-61e8ad367817)
 ![](https://github.com/ipr9/ipr9/assets/163503847/92643d26-d2ed-4f33-9ac8-8ddc25164cfd)
 ![](https://github.com/ipr9/ipr9/assets/163503847/05f8a66c-d58b-47a8-a87b-aef2d92c02e0)
 ![](https://github.com/ipr9/ipr9/assets/163503847/43376ecf-1f3c-480c-b4e4-c0624b3f4202)
@@ -163,5 +164,3 @@
 11. [Hulu AI](https://h5.cxyhub.com/home)
 12. [讯飞星火](https://xinghuo.xfyun.cn/)
 13. [文心一言](https://yiyan.baidu.com/)
-14. [Github语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-15. [GitHub Pages themes](https://github.com/pages-themes)
