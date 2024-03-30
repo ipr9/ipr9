@@ -1,6 +1,15 @@
-remote_theme: pages-themes/minima # hacker@v0.2.0
+remote_theme: pages-themes/minimal # hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# GitHub Pages themes https://github.com/pages-themes
+# minimal
+# cayman
+# hacker
+# architect
+# slate
+# midnight
+
 
 title: 9ipr
 description: One
