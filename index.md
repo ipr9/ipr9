@@ -75,6 +75,11 @@
 
 # Model
 
+![](https://github.com/ipr9/ipr9/assets/163503847/d348f031-5688-4554-bd72-9b01b16326cb)
+![](https://github.com/ipr9/ipr9/assets/163503847/067b6b03-f7be-49f2-8db8-569b40b06ed2)
+![](https://github.com/ipr9/ipr9/assets/163503847/2610626f-10f3-423a-8254-557eb48e9295)
+![](https://github.com/ipr9/ipr9/assets/163503847/3cd235c8-efd7-42c5-9e0d-a3763be19426)
+![](https://github.com/ipr9/ipr9/assets/163503847/4a3fa07a-3b4b-4ddb-9eb5-d7318ae73aa4)
 ![](https://github.com/ipr9/ipr9/assets/163503847/43e5e89b-dc98-4e9d-8fc0-5ebe28f9bf5b)
 ![](https://github.com/ipr9/ipr9/assets/163503847/c2a62673-f2bd-41d2-9dca-ff0c0be9234f)
 ![](https://github.com/ipr9/ipr9/assets/163503847/722a9a9a-aa1f-4c92-ba8c-957f5206a80f)
@@ -161,6 +166,7 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/8f759c07-3190-4a0b-9348-126d0aa0428b)
 ![](https://github.com/ipr9/ipr9/assets/163503847/0378f5fb-cc76-4218-bdf5-011efe71d179)
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a267a07-4776-4d03-9b98-284fd220d1e1)
+![](https://github.com/ipr9/ipr9/assets/163503847/29b55285-ec69-4120-8eb0-1ae474c85ec3)
 > 因相信而看见，因看见而行动及坚持，Just do it right now...
 
 | 年份  | 月份 | 周数 | 日数 |
