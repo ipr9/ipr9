@@ -82,6 +82,9 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/0c5e1c82-7a8c-467c-9358-67128718a92f)
 ![](https://github.com/ipr9/ipr9/assets/163503847/3e3df749-fc36-4c9d-947a-fdc376758252)
 ![](https://github.com/ipr9/ipr9/assets/163503847/3ca41a82-a33c-4834-aa54-8ec3263b7d85)
+![](https://github.com/ipr9/ipr9/assets/163503847/67c435e3-f5ee-4a7a-a3e1-40efde98577a)
+![](https://github.com/ipr9/ipr9/assets/163503847/5e24232d-d448-47e6-a9ff-93709c8b32e4)
+![](https://github.com/ipr9/ipr9/assets/163503847/d2b163bf-2b03-4d72-9e22-20e0504d108f)
 
 - [x] 日行6千步
 - [x] 夜眠7小时（R90周期）
@@ -137,11 +140,22 @@
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/aca770fe-ef29-4095-b471-61e8ad367817)
 ![](https://github.com/ipr9/ipr9/assets/163503847/92643d26-d2ed-4f33-9ac8-8ddc25164cfd)
+![](https://github.com/ipr9/ipr9/assets/163503847/e8ed2438-af46-44f3-9505-a2e6452fe77e)
 ![](https://github.com/ipr9/ipr9/assets/163503847/05f8a66c-d58b-47a8-a87b-aef2d92c02e0)
 ![](https://github.com/ipr9/ipr9/assets/163503847/43376ecf-1f3c-480c-b4e4-c0624b3f4202)
 ![](https://github.com/ipr9/ipr9/assets/163503847/813b7efc-dc2c-48d6-b3b9-3cf443b969f1)
 ![](https://github.com/ipr9/ipr9/assets/163503847/9ccacc09-b042-4367-9653-6f23c23e7fa1)
 ![](https://github.com/ipr9/ipr9/assets/163503847/1975c1c1-a35a-44cd-87a8-2a0743241733)
+![](https://github.com/ipr9/ipr9/assets/163503847/f2503828-c64d-4857-a2bf-95c8ef225372)
+![](https://github.com/ipr9/ipr9/assets/163503847/74b84f1c-9a40-4314-95d8-60f5a7db080d)
+![](https://github.com/ipr9/ipr9/assets/163503847/50642529-f8fd-4dcb-bb2b-d3f14841c311)
+![](https://github.com/ipr9/ipr9/assets/163503847/c5a8b9e5-54e4-4bd2-a655-9c07fb803288)
+![](https://github.com/ipr9/ipr9/assets/163503847/14e99dcf-4b66-4410-b9c6-4f6f12b36a67)
+![](https://github.com/ipr9/ipr9/assets/163503847/9bd171d3-f479-4afc-827a-7bbafd927068)
+![](https://github.com/ipr9/ipr9/assets/163503847/51bea980-190f-43bf-b3b5-27f16439ede6)
+![](https://github.com/ipr9/ipr9/assets/163503847/5382a59e-7b83-41e4-9129-7ae2e2120c0e)
+![](https://github.com/ipr9/ipr9/assets/163503847/ee854d83-226b-4ad2-8ec9-1c4f0601b92b)
+![](https://github.com/ipr9/ipr9/assets/163503847/4fe024c6-e519-4e86-bbba-114e2efe7dc5)
 > 因相信而看见，因看见而行动及坚持，Just do it right now...
 
 | 年份  | 月份 | 周数 | 日数 |
