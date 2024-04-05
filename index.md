@@ -73,6 +73,19 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/66137469-0334-46f3-949f-5f91c5062421)
 > Make it Possible 通往山顶的路有很多，选择最难、也最有价值的一条。
 
+***
+
+![](https://github.com/ipr9/ipr9/assets/163503847/c64f770d-5091-4096-9106-402e654936a7)
+
+1. [《马馺·怎样用AI做PPT》](https://www.dedao.cn/course/article?id=dA5eO3NDrGk8KP0Y5zK2oxp9MRBzQP)
+2. [《快刀青衣·给职场人的AI写作课》](https://www.dedao.cn/course/detail?id=RnDwgL1k6EWX6kDsj7KpBjNq3Y2QAd)
+3. [《刘飞·怎样用AI绘画》](https://www.dedao.cn/course/detail?id=YxzjL7eA1amV5nOsNYJ94yBP5rNQOw)
+4. [《万维钢·AI前沿》](https://www.dedao.cn/course/detail?id=7A5gvRBmGlWVGdqsLAJZLpj9Mnow63)
+5. [《前沿课·吴军讲GPT》](https://www.dedao.cn/course/detail?id=ElLD8OrepAxVvGMsqgJ2oybGdmBnvM)
+6. [《卓克·怎样用AI高效学习》](https://www.dedao.cn/course/detail?id=zdev25Ro61ZXRQks6oJNQ4G809xMAw)
+7. [《WPS AI、腾讯文档、美图AI谁能帮你写年终总结》](https://www.dedao.cn/ebook/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23n2ylD3o6zvGDekj1QgA84VbpqJOPLgxEJl)
+8. [在手机上写PPT，夸克能反超WPS AI吗](https://www.dedao.cn/ebook/reader?id=pAVMknaY9VDA6M7OjdpEvLnKm85rPw9eBO1wZxykgeQJaRb4oBqNzGlX12boL1Nl)
+
 # Model
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/d348f031-5688-4554-bd72-9b01b16326cb)
@@ -173,6 +186,7 @@
 | ----- |  :------:  |  :------:  | :------:   |
 | 2024     | 3       | 4        | 30         |
 | 2024     | 3       | 4         | 31         |
+| 2024     | 4       | 1         | 5         |
 
 # Reference
 
