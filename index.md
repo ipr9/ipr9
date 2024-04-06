@@ -75,43 +75,25 @@
 
 ***
 
-![](https://github.com/ipr9/ipr9/assets/163503847/70595958-2be2-4b4c-b63a-bd6614acae9a)
-![](https://github.com/ipr9/ipr9/assets/163503847/6b553e63-8570-4602-bc53-fc1b08ba27b0)
-![](https://github.com/ipr9/ipr9/assets/163503847/3df49550-0e8c-457e-8091-b9e0ca0277c7)
-![](https://github.com/ipr9/ipr9/assets/163503847/13d05b75-351f-4a3d-9371-e5737abe51c8)
-![](https://github.com/ipr9/ipr9/assets/163503847/11795800-4911-486c-be6f-be42a1b69340)
-![](https://github.com/ipr9/ipr9/assets/163503847/38128674-0b1a-429c-856a-7a8fc308c7e3)
-![](https://github.com/ipr9/ipr9/assets/163503847/8c7b38b8-be68-4d8a-ab63-db64b7f6eb5f)
-![](https://github.com/ipr9/ipr9/assets/163503847/cf5def26-bd94-444f-ab1a-20aba7fe6e30)
-![](https://github.com/ipr9/ipr9/assets/163503847/2a92d8fb-ae7f-45c5-8441-9c25d3396966)
-![](https://github.com/ipr9/ipr9/assets/163503847/e8e37fd3-aef9-45ff-b617-f65cd4d0a0a7)
-![](https://github.com/ipr9/ipr9/assets/163503847/415ad4fe-ebf5-4206-a56e-bc0e643b89e9)
-![](https://github.com/ipr9/ipr9/assets/163503847/31cda500-7125-4330-830a-2f1c04ddd218)
-![](https://github.com/ipr9/ipr9/assets/163503847/bcac40b3-9174-4ee4-83ae-9af3460abf57)
-![](https://github.com/ipr9/ipr9/assets/163503847/c0ab2dea-1c8e-471b-b51b-04cf434c42e4)
-![](https://github.com/ipr9/ipr9/assets/163503847/0c2ed3c6-6004-40b7-bc65-a6d511161c6b)
-![](https://github.com/ipr9/ipr9/assets/163503847/d1d297e6-f220-410d-ae8b-44eb9f9e248a)
-![](https://github.com/ipr9/ipr9/assets/163503847/7de4677e-172a-4334-94eb-d9bbeabd5b5e)
-![](https://github.com/ipr9/ipr9/assets/163503847/1a54ddd6-c60c-4f29-88db-df7885ce0601)
-![](https://github.com/ipr9/ipr9/assets/163503847/9c54bfdb-0134-431c-a1c1-10e3bf42a42a)
-![](https://github.com/ipr9/ipr9/assets/163503847/4b45796f-3040-473e-a662-6a59a2837d44)
-![](https://github.com/ipr9/ipr9/assets/163503847/049687c8-624a-4947-8083-75daead0537e)
-![](https://github.com/ipr9/ipr9/assets/163503847/e35a3911-4cd7-4658-b7b3-bca59c4f6567)
-![](https://github.com/ipr9/ipr9/assets/163503847/3a613d80-81c3-4c74-9036-e023702c9eb4)
-> 我们能成为顶尖选手并没有什么秘诀，而是对可能是基本技能的东西有更深刻的理解。 技术、法律、商务、人性...
+![](https://github.com/ipr9/ipr9/assets/163503847/75ac74e9-b514-4e25-9c20-553b61e802d2)
+![](https://github.com/ipr9/ipr9/assets/163503847/8ac94fc5-dc31-4c0f-b476-265512a58489)
+![](https://github.com/ipr9/ipr9/assets/163503847/d2e1793b-5cd7-4c18-b468-431b01d029f7)
+![](https://github.com/ipr9/ipr9/assets/163503847/a052df2e-0f38-4470-95c8-4979c5b5fd4e)
+![](https://github.com/ipr9/ipr9/assets/163503847/56cb6322-cc28-422b-a783-b68db4a72ad6)
+![](https://github.com/ipr9/ipr9/assets/163503847/13ae0673-0249-45d0-9989-562bf3b9cdd7)
+![](https://github.com/ipr9/ipr9/assets/163503847/cfd9ae6d-83af-4f5d-a180-e8188e92ce13)
+![](https://github.com/ipr9/ipr9/assets/163503847/ee928864-c7d7-42d8-8e91-cf182606678c)
+![](https://github.com/ipr9/ipr9/assets/163503847/84769188-ef8c-4d80-a9f5-df8e8594dccf)
+![](https://github.com/ipr9/ipr9/assets/163503847/e6611a2d-c32f-447f-8aa3-d22fa633f5e0)
+![](https://github.com/ipr9/ipr9/assets/163503847/2d2b387c-a787-4b5e-acd3-d26050219d0a)
+![](https://github.com/ipr9/ipr9/assets/163503847/5bc8e9af-5d42-46d5-adf3-99e2489aacfe)
+![](https://github.com/ipr9/ipr9/assets/163503847/e725a483-2e16-45c8-a892-0cf3afbad4b2)
+![](https://github.com/ipr9/ipr9/assets/163503847/e2d8dbd6-d1a9-4f09-b99b-050912dcb2eb)
+![](https://github.com/ipr9/ipr9/assets/163503847/dc902492-34e0-478f-8288-396ea76969d7)
+![](https://github.com/ipr9/ipr9/assets/163503847/d7e739a2-5500-410f-b9e0-2565c26da9dd)
+> 能成为顶尖选手并没有什么秘诀，而是对可能是基本技能的东西有更深刻的理解，技术、法律、商务、人性...
 
 ***
-
-![](https://github.com/ipr9/ipr9/assets/163503847/c64f770d-5091-4096-9106-402e654936a7)
-
-1. [《马馺·怎样用AI做PPT》](https://www.dedao.cn/course/article?id=dA5eO3NDrGk8KP0Y5zK2oxp9MRBzQP)
-2. [《快刀青衣·给职场人的AI写作课》](https://www.dedao.cn/course/detail?id=RnDwgL1k6EWX6kDsj7KpBjNq3Y2QAd)
-3. [《刘飞·怎样用AI绘画》](https://www.dedao.cn/course/detail?id=YxzjL7eA1amV5nOsNYJ94yBP5rNQOw)
-4. [《万维钢·AI前沿》](https://www.dedao.cn/course/detail?id=7A5gvRBmGlWVGdqsLAJZLpj9Mnow63)
-5. [《前沿课·吴军讲GPT》](https://www.dedao.cn/course/detail?id=ElLD8OrepAxVvGMsqgJ2oybGdmBnvM)
-6. [《卓克·怎样用AI高效学习》](https://www.dedao.cn/course/detail?id=zdev25Ro61ZXRQks6oJNQ4G809xMAw)
-7. [《WPS AI、腾讯文档、美图AI谁能帮你写年终总结》](https://www.dedao.cn/ebook/reader?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23n2ylD3o6zvGDekj1QgA84VbpqJOPLgxEJl)
-8. [在手机上写PPT，夸克能反超WPS AI吗](https://www.dedao.cn/ebook/reader?id=pAVMknaY9VDA6M7OjdpEvLnKm85rPw9eBO1wZxykgeQJaRb4oBqNzGlX12boL1Nl)
 
 # Model
 
@@ -234,3 +216,9 @@
 11. [Hulu AI](https://h5.cxyhub.com/home)
 12. [讯飞星火](https://xinghuo.xfyun.cn/)
 13. [文心一言](https://yiyan.baidu.com/)
+14. [《马馺·怎样用AI做PPT》](https://www.dedao.cn/course/article?id=dA5eO3NDrGk8KP0Y5zK2oxp9MRBzQP)
+15. [《快刀青衣·给职场人的AI写作课》](https://www.dedao.cn/course/detail?id=RnDwgL1k6EWX6kDsj7KpBjNq3Y2QAd)
+16. [《刘飞·怎样用AI绘画》](https://www.dedao.cn/course/detail?id=YxzjL7eA1amV5nOsNYJ94yBP5rNQOw)
+17. [《万维钢·AI前沿》](https://www.dedao.cn/course/detail?id=7A5gvRBmGlWVGdqsLAJZLpj9Mnow63)
+18. [《前沿课·吴军讲GPT》](https://www.dedao.cn/course/detail?id=ElLD8OrepAxVvGMsqgJ2oybGdmBnvM)
+19. [《卓克·怎样用AI高效学习》](https://www.dedao.cn/course/detail?id=zdev25Ro61ZXRQks6oJNQ4G809xMAw)
