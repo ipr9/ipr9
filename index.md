@@ -75,6 +75,33 @@
 
 ***
 
+![](https://github.com/ipr9/ipr9/assets/163503847/70595958-2be2-4b4c-b63a-bd6614acae9a)
+![](https://github.com/ipr9/ipr9/assets/163503847/6b553e63-8570-4602-bc53-fc1b08ba27b0)
+![](https://github.com/ipr9/ipr9/assets/163503847/3df49550-0e8c-457e-8091-b9e0ca0277c7)
+![](https://github.com/ipr9/ipr9/assets/163503847/13d05b75-351f-4a3d-9371-e5737abe51c8)
+![](https://github.com/ipr9/ipr9/assets/163503847/11795800-4911-486c-be6f-be42a1b69340)
+![](https://github.com/ipr9/ipr9/assets/163503847/38128674-0b1a-429c-856a-7a8fc308c7e3)
+![](https://github.com/ipr9/ipr9/assets/163503847/8c7b38b8-be68-4d8a-ab63-db64b7f6eb5f)
+![](https://github.com/ipr9/ipr9/assets/163503847/cf5def26-bd94-444f-ab1a-20aba7fe6e30)
+![](https://github.com/ipr9/ipr9/assets/163503847/2a92d8fb-ae7f-45c5-8441-9c25d3396966)
+![](https://github.com/ipr9/ipr9/assets/163503847/e8e37fd3-aef9-45ff-b617-f65cd4d0a0a7)
+![](https://github.com/ipr9/ipr9/assets/163503847/415ad4fe-ebf5-4206-a56e-bc0e643b89e9)
+![](https://github.com/ipr9/ipr9/assets/163503847/31cda500-7125-4330-830a-2f1c04ddd218)
+![](https://github.com/ipr9/ipr9/assets/163503847/bcac40b3-9174-4ee4-83ae-9af3460abf57)
+![](https://github.com/ipr9/ipr9/assets/163503847/c0ab2dea-1c8e-471b-b51b-04cf434c42e4)
+![](https://github.com/ipr9/ipr9/assets/163503847/0c2ed3c6-6004-40b7-bc65-a6d511161c6b)
+![](https://github.com/ipr9/ipr9/assets/163503847/d1d297e6-f220-410d-ae8b-44eb9f9e248a)
+![](https://github.com/ipr9/ipr9/assets/163503847/7de4677e-172a-4334-94eb-d9bbeabd5b5e)
+![](https://github.com/ipr9/ipr9/assets/163503847/1a54ddd6-c60c-4f29-88db-df7885ce0601)
+![](https://github.com/ipr9/ipr9/assets/163503847/9c54bfdb-0134-431c-a1c1-10e3bf42a42a)
+![](https://github.com/ipr9/ipr9/assets/163503847/4b45796f-3040-473e-a662-6a59a2837d44)
+![](https://github.com/ipr9/ipr9/assets/163503847/049687c8-624a-4947-8083-75daead0537e)
+![](https://github.com/ipr9/ipr9/assets/163503847/e35a3911-4cd7-4658-b7b3-bca59c4f6567)
+![](https://github.com/ipr9/ipr9/assets/163503847/3a613d80-81c3-4c74-9036-e023702c9eb4)
+> 我们能成为顶尖选手并没有什么秘诀，而是对可能是基本技能的东西有更深刻的理解。 技术、法律、商务、人性...
+
+***
+
 ![](https://github.com/ipr9/ipr9/assets/163503847/c64f770d-5091-4096-9106-402e654936a7)
 
 1. [《马馺·怎样用AI做PPT》](https://www.dedao.cn/course/article?id=dA5eO3NDrGk8KP0Y5zK2oxp9MRBzQP)
@@ -108,6 +135,25 @@
 - [x] 夜眠7小时（R90周期）
 - [x] 冥想15分钟
 - [x] 午休25分钟
+
+![](https://github.com/ipr9/ipr9/assets/163503847/1975c1c1-a35a-44cd-87a8-2a0743241733)
+![](https://github.com/ipr9/ipr9/assets/163503847/f2503828-c64d-4857-a2bf-95c8ef225372)
+![](https://github.com/ipr9/ipr9/assets/163503847/74b84f1c-9a40-4314-95d8-60f5a7db080d)
+![](https://github.com/ipr9/ipr9/assets/163503847/50642529-f8fd-4dcb-bb2b-d3f14841c311)
+![](https://github.com/ipr9/ipr9/assets/163503847/c5a8b9e5-54e4-4bd2-a655-9c07fb803288)
+![](https://github.com/ipr9/ipr9/assets/163503847/14e99dcf-4b66-4410-b9c6-4f6f12b36a67)
+![](https://github.com/ipr9/ipr9/assets/163503847/9bd171d3-f479-4afc-827a-7bbafd927068)
+![](https://github.com/ipr9/ipr9/assets/163503847/51bea980-190f-43bf-b3b5-27f16439ede6)
+![](https://github.com/ipr9/ipr9/assets/163503847/5382a59e-7b83-41e4-9129-7ae2e2120c0e)
+![](https://github.com/ipr9/ipr9/assets/163503847/ee854d83-226b-4ad2-8ec9-1c4f0601b92b)
+![](https://github.com/ipr9/ipr9/assets/163503847/4fe024c6-e519-4e86-bbba-114e2efe7dc5)
+![](https://github.com/ipr9/ipr9/assets/163503847/28e20d8e-731e-40c6-af1f-1d49c98229d0)
+![](https://github.com/ipr9/ipr9/assets/163503847/8cb83dc1-16dd-4105-be23-ae1b6b7a800f)
+![](https://github.com/ipr9/ipr9/assets/163503847/8f759c07-3190-4a0b-9348-126d0aa0428b)
+![](https://github.com/ipr9/ipr9/assets/163503847/0378f5fb-cc76-4218-bdf5-011efe71d179)
+![](https://github.com/ipr9/ipr9/assets/163503847/1a267a07-4776-4d03-9b98-284fd220d1e1)
+![](https://github.com/ipr9/ipr9/assets/163503847/29b55285-ec69-4120-8eb0-1ae474c85ec3)
+> 因相信而看见，因看见而行动及坚持，Just do it right now...
 
 ***
 
@@ -163,30 +209,15 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/43376ecf-1f3c-480c-b4e4-c0624b3f4202)
 ![](https://github.com/ipr9/ipr9/assets/163503847/813b7efc-dc2c-48d6-b3b9-3cf443b969f1)
 ![](https://github.com/ipr9/ipr9/assets/163503847/9ccacc09-b042-4367-9653-6f23c23e7fa1)
-![](https://github.com/ipr9/ipr9/assets/163503847/1975c1c1-a35a-44cd-87a8-2a0743241733)
-![](https://github.com/ipr9/ipr9/assets/163503847/f2503828-c64d-4857-a2bf-95c8ef225372)
-![](https://github.com/ipr9/ipr9/assets/163503847/74b84f1c-9a40-4314-95d8-60f5a7db080d)
-![](https://github.com/ipr9/ipr9/assets/163503847/50642529-f8fd-4dcb-bb2b-d3f14841c311)
-![](https://github.com/ipr9/ipr9/assets/163503847/c5a8b9e5-54e4-4bd2-a655-9c07fb803288)
-![](https://github.com/ipr9/ipr9/assets/163503847/14e99dcf-4b66-4410-b9c6-4f6f12b36a67)
-![](https://github.com/ipr9/ipr9/assets/163503847/9bd171d3-f479-4afc-827a-7bbafd927068)
-![](https://github.com/ipr9/ipr9/assets/163503847/51bea980-190f-43bf-b3b5-27f16439ede6)
-![](https://github.com/ipr9/ipr9/assets/163503847/5382a59e-7b83-41e4-9129-7ae2e2120c0e)
-![](https://github.com/ipr9/ipr9/assets/163503847/ee854d83-226b-4ad2-8ec9-1c4f0601b92b)
-![](https://github.com/ipr9/ipr9/assets/163503847/4fe024c6-e519-4e86-bbba-114e2efe7dc5)
-![](https://github.com/ipr9/ipr9/assets/163503847/28e20d8e-731e-40c6-af1f-1d49c98229d0)
-![](https://github.com/ipr9/ipr9/assets/163503847/8cb83dc1-16dd-4105-be23-ae1b6b7a800f)
-![](https://github.com/ipr9/ipr9/assets/163503847/8f759c07-3190-4a0b-9348-126d0aa0428b)
-![](https://github.com/ipr9/ipr9/assets/163503847/0378f5fb-cc76-4218-bdf5-011efe71d179)
-![](https://github.com/ipr9/ipr9/assets/163503847/1a267a07-4776-4d03-9b98-284fd220d1e1)
-![](https://github.com/ipr9/ipr9/assets/163503847/29b55285-ec69-4120-8eb0-1ae474c85ec3)
-> 因相信而看见，因看见而行动及坚持，Just do it right now...
+![](https://github.com/ipr9/ipr9/assets/163503847/831a9923-41de-4882-b46c-fda6197794fa)
+> 被淋湿 vs 感受到雨...
 
 | 年份  | 月份 | 周数 | 日数 |
 | ----- |  :------:  |  :------:  | :------:   |
 | 2024     | 3       | 4        | 30         |
 | 2024     | 3       | 4         | 31         |
 | 2024     | 4       | 1         | 5         |
+| 2024     | 4       | 1         | 6         |
 
 # Reference
 
