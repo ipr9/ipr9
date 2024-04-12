@@ -1,3 +1,5 @@
+![](https://github.com/ipr9/ipr9/assets/163503847/813b7efc-dc2c-48d6-b3b9-3cf443b969f1)
+![](https://github.com/ipr9/ipr9/assets/163503847/9ccacc09-b042-4367-9653-6f23c23e7fa1)
 ![](https://github.com/ipr9/ipr9/assets/163503847/dda4e226-3877-49c1-9405-5650e23259ad)
 ![](https://github.com/ipr9/ipr9/assets/163503847/e28c487d-2830-47bd-8e38-e981f1751fee)
 ![](https://github.com/ipr9/ipr9/assets/163503847/79319eb5-cf6f-4d11-a289-ba9cc00c2c4d)
@@ -111,7 +113,7 @@
 16. 同频、同心、同行
 17. 修己安人，严于律己，宽以待人
 18. 独立自主，强强联合，协作共赢
-19. 有话好好说，有事好好做
+19. 有话好好说，有事好好做，保持简单，真诚善良
 20. 工作界面、沟通界面（**语言的力量**，沟通频道/语言，点亮个人/他人）、交互界面
 21. 观念、思维、行为、习惯、选择、机会、命运、人生
 22. 人只需，有且仅要，也只能为自己的选择负责
@@ -143,9 +145,8 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/e8ed2438-af46-44f3-9505-a2e6452fe77e)
 ![](https://github.com/ipr9/ipr9/assets/163503847/05f8a66c-d58b-47a8-a87b-aef2d92c02e0)
 ![](https://github.com/ipr9/ipr9/assets/163503847/43376ecf-1f3c-480c-b4e4-c0624b3f4202)
-![](https://github.com/ipr9/ipr9/assets/163503847/813b7efc-dc2c-48d6-b3b9-3cf443b969f1)
-![](https://github.com/ipr9/ipr9/assets/163503847/9ccacc09-b042-4367-9653-6f23c23e7fa1)
 ![](https://github.com/ipr9/ipr9/assets/163503847/831a9923-41de-4882-b46c-fda6197794fa)
+![](https://github.com/ipr9/ipr9/assets/163503847/cc5ef2b2-a8c1-40f9-a84c-eb17612fe68a)
 > 被淋湿 vs 感受到雨...
 
 | 年份  | 月份 | 周数 | 日数 |
