@@ -4,7 +4,8 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/dda4e226-3877-49c1-9405-5650e23259ad)
 ![](https://github.com/ipr9/ipr9/assets/163503847/e28c487d-2830-47bd-8e38-e981f1751fee)
 ![](https://github.com/ipr9/ipr9/assets/163503847/79319eb5-cf6f-4d11-a289-ba9cc00c2c4d)
-> ahaip<sup>TM</sup> 人生是旅行，多结伴同行，且行且珍惜...
+![](https://github.com/ipr9/ipr9/assets/163503847/9a59ab09-6b25-44fb-9a3b-5ff3e02e5e7d)
+> ahaip<sup>TM</sup> 人生是旅行，多结伴同行，缘分一场，且行且珍惜...
 
 # Evolution
 
@@ -70,7 +71,6 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/6f844307-a264-4071-a1f6-f8144956a549)
 ![](https://github.com/ipr9/ipr9/assets/163503847/de08b8eb-357c-4cf8-8035-77b1b08d7c6f)
 ![](https://github.com/ipr9/ipr9/assets/163503847/ff8da39c-6c5f-4b7a-84fe-29a33c5c6f74)
-![](https://github.com/ipr9/ipr9/assets/163503847/66137469-0334-46f3-949f-5f91c5062421)
 > Make it Possible 通往山顶的路有很多，选择最难、也最有价值的一条。
 
 ***
@@ -141,6 +141,7 @@
 
 ***
 
+![](https://github.com/ipr9/ipr9/assets/163503847/be382454-b97f-4106-b5e4-e5f70c49e460)
 ![](https://github.com/ipr9/ipr9/assets/163503847/aca770fe-ef29-4095-b471-61e8ad367817)
 ![](https://github.com/ipr9/ipr9/assets/163503847/92643d26-d2ed-4f33-9ac8-8ddc25164cfd)
 ![](https://github.com/ipr9/ipr9/assets/163503847/e8ed2438-af46-44f3-9505-a2e6452fe77e)
@@ -160,6 +161,7 @@
 | 2024     | 4       | 1         | 6         |
 | 2024     | 4       | 2         | 13         |
 | 2024     | 4       | 2         | 14         |
+| 2024     | 4       | 3         | 15         |
 
 # Reference
 
