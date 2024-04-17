@@ -77,6 +77,7 @@
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/d348f031-5688-4554-bd72-9b01b16326cb)
 ![](https://github.com/ipr9/ipr9/assets/163503847/1975c1c1-a35a-44cd-87a8-2a0743241733)
+![](https://github.com/ipr9/ipr9/assets/163503847/09ed1ab7-bede-4427-8cb5-5b2f05a3d314)
 > 能成为顶尖选手并没有什么秘诀，而是对可能是基本技能的东西有更深刻的理解，技术、法律、商务、人性...
 
 ***
