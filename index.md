@@ -143,10 +143,11 @@
 
 ***
 
-![](https://github.com/ipr9/ipr9/assets/163503847/be382454-b97f-4106-b5e4-e5f70c49e460)
+![Earth-BlueMarble-1997](https://github.com/ipr9/ipr9/assets/163503847/31da0108-ba71-4f60-8c02-1d4120a8e801)
 ![](https://github.com/ipr9/ipr9/assets/163503847/aca770fe-ef29-4095-b471-61e8ad367817)
 ![](https://github.com/ipr9/ipr9/assets/163503847/92643d26-d2ed-4f33-9ac8-8ddc25164cfd)
 ![](https://github.com/ipr9/ipr9/assets/163503847/e8ed2438-af46-44f3-9505-a2e6452fe77e)
+![](https://github.com/ipr9/ipr9/assets/163503847/be382454-b97f-4106-b5e4-e5f70c49e460)
 ![](https://github.com/ipr9/ipr9/assets/163503847/05f8a66c-d58b-47a8-a87b-aef2d92c02e0)
 ![](https://github.com/ipr9/ipr9/assets/163503847/43376ecf-1f3c-480c-b4e4-c0624b3f4202)
 ![](https://github.com/ipr9/ipr9/assets/163503847/831a9923-41de-4882-b46c-fda6197794fa)
