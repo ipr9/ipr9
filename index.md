@@ -143,7 +143,7 @@
 一个人同时生活在两个世界，一个想象世界一个现实世界，人的成长就是不断提高这两个世界的**重合度**。
 
 ***
-
+![](https://github.com/ipr9/ipr9/assets/163503847/8cd33880-e968-4d44-9570-b7571e6fcec0)
 ![Earth-BlueMarble-1997](https://github.com/ipr9/ipr9/assets/163503847/31da0108-ba71-4f60-8c02-1d4120a8e801)
 ![](https://github.com/ipr9/ipr9/assets/163503847/aca770fe-ef29-4095-b471-61e8ad367817)
 ![](https://github.com/ipr9/ipr9/assets/163503847/92643d26-d2ed-4f33-9ac8-8ddc25164cfd)
@@ -156,6 +156,8 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/204ce62d-0704-4d59-b2c0-32c7ab6c04fd)
 ![](https://github.com/ipr9/ipr9/assets/163503847/6aa8caf8-0ea3-4f81-8ed9-693a7d416a5f)
 ![](https://github.com/ipr9/ipr9/assets/163503847/33e99e21-06fe-431e-b23a-c384871ab997)
+![](https://github.com/ipr9/ipr9/assets/163503847/08daa41a-1679-43f7-a20d-3792a5ad746d)
+![](https://github.com/ipr9/ipr9/assets/163503847/20624ce8-94ef-4b3e-9224-085c32739bb6)
 > 发现、体验及创造美...
 
 | 年份  | 月份 | 周数 | 日数 |
