@@ -10,6 +10,7 @@
 # Evolution
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
+<img width="1207" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/d0ef663a-b01a-42e7-aa33-484d824d1e0d">
 1. **使命**：创造和运用知识产权，助力公司经营及发展
 2. **愿景**：成为产业界具有影响力的知识产权实务专家
 3. **价值观**：<ins>天道酬勤</ins>、<ins>人道酬善</ins>、<ins>商道酬信</ins>
@@ -78,6 +79,7 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/d348f031-5688-4554-bd72-9b01b16326cb)
 ![](https://github.com/ipr9/ipr9/assets/163503847/1975c1c1-a35a-44cd-87a8-2a0743241733)
 ![](https://github.com/ipr9/ipr9/assets/163503847/09ed1ab7-bede-4427-8cb5-5b2f05a3d314)
+<img width="1215" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/c6609d3a-d5fa-4b23-892b-735591250f14">
 > 能成为顶尖选手并没有什么秘诀，而是对可能是基本技能的东西有更深刻的理解，技术、法律、商务、人性...
 
 ***
@@ -160,6 +162,9 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/33e99e21-06fe-431e-b23a-c384871ab997)
 ![](https://github.com/ipr9/ipr9/assets/163503847/08daa41a-1679-43f7-a20d-3792a5ad746d)
 ![](https://github.com/ipr9/ipr9/assets/163503847/20624ce8-94ef-4b3e-9224-085c32739bb6)
+![](https://github.com/ipr9/ipr9/assets/163503847/8c467727-540f-4644-9ac1-5bf3636dfd13)
+<img width="1212" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/7ff07914-f3de-46bc-b2d7-40d2197c2285">
+<img width="1202" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/28a9e6a9-cbc9-4a3f-98a9-edf55d638c87">
 > 发现、体验及创造美...
 
 | 年份  | 月份 | 周数 | 日数 |
