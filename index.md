@@ -133,7 +133,7 @@
 20. 修己安人，严于律己，宽以待人
 21. 独立自主，强强联合，协作共赢
 22. 入眼、入耳、入脑，放空自己，流动情绪，人性洞察
-23. 有话好好说，有事好好做，保持简单，真诚善良
+23. 有话好好说，有事好好做，保持简单，真诚善良，正大光明，光明正大
 24. 工作界面、沟通界面（**语言的力量**，沟通频道/语言，点亮个人/他人）、交互界面
 25. 观念、思维、行为、习惯、选择、机会、命运、人生
 26. 人只需，有且仅要，也只能为自己的选择负责
@@ -187,6 +187,7 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/f41d80c7-a0d4-4743-8234-311659f0ba5b)
 ![](https://github.com/ipr9/ipr9/assets/163503847/45de5e6a-dd29-4d4f-9035-f24a0a5fd385)
 ![](https://github.com/ipr9/ipr9/assets/163503847/09735e4a-7915-49fd-832c-b72e335e3049)
+![](https://github.com/ipr9/ipr9/assets/163503847/8939bcf8-c868-4dc9-ad27-1f23cfe59e71)
 > 发现、体验及创造美...
 
 | 年份  | 月份 | 周数 | 日数 |
@@ -203,21 +204,36 @@
 | 2024     | 4       | 4         | 27         |
 | 2024     | 4       | 5         | 30         |
 | 2024     | 5       | 1         | 1         |
+| 2024     | 5       | 1         | 3         |
 
 # Reference
 
+## Experience
 1. [Coolpad](https://coolpad.com/#/)
 2. [YOTA](https://news.mydrivers.com/1/549/549071.htm)
 3. [Transsion](https://transsion.com/)
 4. [李笑来作品集](http://lixiaolai.com/#/)
 5. [科技爱好者周刊](https://github.com/ruanyf/weekly)
 6. [得到](https://www.dedao.cn/)
-7. [秘塔AI搜索](https://metaso.cn/)
-8. [kimi](https://kimi.moonshot.cn/)
-9. [OpenAI](https://chat.openai.com/)
-10. [perplexity](https://www.perplexity.ai/)
-11. [智爱法律大模型](https://www.zhiexa.com/index)
-12. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
-13. [Hulu AI](https://h5.cxyhub.com/home)
-14. [讯飞星火](https://xinghuo.xfyun.cn/)
-15. [文心一言](https://yiyan.baidu.com/)
+
+## AI
+1. [秘塔AI搜索](https://metaso.cn/)
+2. [kimi](https://kimi.moonshot.cn/)
+3. [OpenAI](https://chat.openai.com/)
+4. [perplexity](https://www.perplexity.ai/)
+5. [智爱法律大模型](https://www.zhiexa.com/index)
+6. [智谱清言](https://chatglm.cn/main/alltoolsdetail)
+7. [Hulu AI](https://h5.cxyhub.com/home)
+8. [讯飞星火](https://xinghuo.xfyun.cn/)
+9. [文心一言](https://yiyan.baidu.com/)
+
+## Tools
+1. [HUAWEI WATCH 4 Pro](https://consumer.huawei.com/cn/wearables/watch-4-series/)
+2. [HUAWEI Mate X5 ](https://consumer.huawei.com/cn/phones/mate-x5/)
+
+## IP
+1. [大岭IP：微信号: DalingIP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3MjQ1MjE4NA==&scene=124#wechat_redirect)
+2. [企业专利观察：微信号：EPO-China](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNzc4NzI5NQ==&scene=124#wechat_redirect)
+3. [百科君的IP杂谈 微信号: IP-BlaBla](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxNzAyNjcxNQ==&scene=124#wechat_redirect)
+4. [知识产权理想国 微信号: IPRepublic](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU0MDE4MDQyNg==&scene=124#wechat_redirect)
+5. [赢在IP 微信号: cosmosip186](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3NDE3NzMzMA==&scene=124#wechat_redirect)
