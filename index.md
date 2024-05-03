@@ -229,7 +229,11 @@
 
 ## Tools
 1. [HUAWEI WATCH 4 Pro](https://consumer.huawei.com/cn/wearables/watch-4-series/)
-2. [HUAWEI Mate X5 ](https://consumer.huawei.com/cn/phones/mate-x5/)
+2. [HUAWEI Mate X5](https://consumer.huawei.com/cn/phones/mate-x5/)
+3. [AirPods Pro](https://www.apple.com.cn/airpods-pro/)
+4. [MacBook Air](https://www.apple.com.cn/macbook-air/)
+5. [Everything](https://www.voidtools.com/zh-cn/)
+6. [uTools](https://www.u.tools/)
 
 ## IP
 1. [大岭IP：微信号: DalingIP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3MjQ1MjE4NA==&scene=124#wechat_redirect)
