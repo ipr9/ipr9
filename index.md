@@ -37,9 +37,9 @@
 <details>
 <summary>需要你有什么能力/经验/人脉？</summary>
   <table>
-  <tr><td>高级程序员（技术）</td></tr>
-  <tr><td>专利代理师（法律）</td></tr>
-  <tr><td>职业经理人（商务）</td></tr>  
+  <tr><td>高级程序员（技术）📱</td></tr>
+  <tr><td>专利代理师（法律）⚖️</td></tr>
+  <tr><td>职业经理人（商务）🤝</td></tr>  
   <tr><td>打造高价值专利资产（通信/音视频sep业务）</td></tr>
   <tr><td>欧美印PCT等涉外业务</td></tr>
   <tr><td>IP风险防控</td></tr>  
@@ -72,7 +72,7 @@
   <tr><td>数码📷摄影</td></tr>
   <tr><td>徒步✈️旅行</td></tr>   
   <tr><td>篮球🏀</td></tr>  
-  <tr><td>军事</td></tr> 
+  <tr><td>军事🚢</td></tr> 
   </table>
 </details>
 
@@ -193,6 +193,9 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/d7321be9-8213-405c-a944-77f1b7a5c98b)
 ![](https://github.com/ipr9/ipr9/assets/163503847/242a6ff2-e350-4214-a909-2bbeb9d5d1ee)
 ![](https://github.com/ipr9/ipr9/assets/163503847/026e2b49-15f0-4bed-932b-a938127561ed)
+![](https://github.com/ipr9/ipr9/assets/163503847/fc3db62e-7c17-437d-8436-6b93ef2738dc)
+![](https://github.com/ipr9/ipr9/assets/163503847/cbdbc161-4505-4fba-ac9b-aa4f826fabc7)
+![](https://github.com/ipr9/ipr9/assets/163503847/6acb1c62-0a51-4920-bfa4-671544fa00f0)
 > 发现、体验及创造美...
 
 | 年份  | 月份 | 周数 | 日数 |
@@ -211,6 +214,7 @@
 | 2024     | 5       | 1         | 1         |
 | 2024     | 5       | 1         | 3         |
 | 2024     | 5       | 1         | 4         |
+| 2024     | 5       | 1         | 5         |
 
 # Reference
 
