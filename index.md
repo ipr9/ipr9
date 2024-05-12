@@ -76,6 +76,16 @@
   </table>
 </details>
 
+<details>
+<summary>心流事项</summary>
+  <table>
+  <tr><td>沉浸式读书思考</td></tr>
+  <tr><td>头脑风暴</td></tr>
+  <tr><td>专利撰写/审核</td></tr>
+  <tr><td>报告/资讯撰写</td></tr>   
+  </table>
+</details>
+
 ***
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b537d0b8-e3b7-479f-b524-2b4835613875)
@@ -135,32 +145,39 @@
 22. 独立自主，强强联合，协作共赢
 23. 入眼、入耳、入脑，放空自己，流动情绪，人性洞察，百花筒，平行世界
 24. 有话好好说，有事好好做，保持简单，真诚善良，正大光明，光明正大
-25. 工作界面、沟通界面（**语言的力量**，沟通频道/语言，点亮个人/他人）、交互界面
-26. 观念、思维、行为、习惯、选择、机会、命运、人生
-27. 人只需，有且仅要，也只能为自己的选择负责
-28. 合作：大家各自放弃一小部分安全感，并把那一部分安全感交由合作方来保障
-29. 信任：相信对方不会利用自己主动放弃的那一部分安全感
-30. **恐惧来自想象，源自无知**，表现的根源，在于缺乏安全感及自信，自信来自于实战胜利，来自于综合实力
-31. 贫穷和忙碌并不是简单地因为缺少金钱和时间，而是一种心态和能力的匮乏
-32. 个人精力，人生经历，社会阅历
-33. 万丈高楼平地起，基础不牢，地动山摇
-34. 实事求是，相信科学，尊重常识（概率） 
-35. 沟通是一场无限游戏，人是所有社会关系的总和
-36. 钥匙不在锁头上，走老路到不了新目的地
-37. 奋斗的道路上永远不孤单，你永远不是一个人在战斗
-38. 教是最好的学，教学相长
-39. 向内生长，才能抵抗成长路上的阻碍
-40. 顺势而安，趁势而起，造势而雄，顺势而为
-41. 尽力而为，顺其自然，知足常乐，感恩长存
-42. 饿了就吃，困了就睡，累了放松，多体验...
-43. 机会主义者只能得到暂时性的胜利，实用主义者会获得阶段性的胜利，长期主义者才能赢得持续性的胜利
-44. 如何成为长期主义者？很简单，做难而正确的事情。管理、人生皆如此。
+25. 自我进化，长期主义，相互成就，协作共赢
+26. 工作界面、沟通界面（**语言的力量**，沟通频道/语言，点亮个人/他人）、交互界面
+27. 观念、思维、行为、习惯、选择、机会、命运、人生
+28. 人只需，有且仅要，也只能为自己的选择负责
+29. 合作：大家各自放弃一小部分安全感，并把那一部分安全感交由合作方来保障
+30. 信任：相信对方不会利用自己主动放弃的那一部分安全感
+31. **恐惧来自想象，源自无知**，表现的根源，在于缺乏安全感及自信，自信来自于实战胜利，来自于综合实力
+32. 问题一具体就好办，一定有办法可以解决，行就行，不行我再想想办法，任何时候都来得及
+33. 好好说话和表达自己的需求及想法，各抒己见，集思广益，疏导而非封堵
+34. 贫穷和忙碌并不是简单地因为缺少金钱和时间，而是一种心态和能力的匮乏
+35. 个人精力，人生经历，社会阅历
+36. 专业权威，人格魅力，岗位权力
+37. 万丈高楼平地起，基础不牢，地动山摇
+38. 实事求是，相信科学，尊重常识（概率） 
+39. 沟通是一场无限游戏，人是所有社会关系的总和
+40. 钥匙不在锁头上，走老路到不了新目的地
+41. 奋斗的道路上永远不孤单，你永远不是一个人在战斗
+42. 教是最好的学，教学相长，化繁为简，抽丝剥茧
+43. 向内生长，才能抵抗成长路上的阻碍
+44. 顺势而安，趁势而起，造势而雄，顺势而为
+45. 尽力而为，顺其自然，知足常乐，感恩长存
+46. 饿了就吃，困了就睡，累了放松，多体验...
+47. 原来如此，不过如此，钢铁是如何炼成的
+48. 机会主义者只能得到暂时性的胜利，实用主义者会获得阶段性的胜利，长期主义者才能赢得持续性的胜利
+49. 如何成为长期主义者？很简单，做难而正确的事情。管理、人生皆如此。
 
 # Journey
 
 一个人的心里同时存在两个角色，自己与他人，人的成长就是从**只有自我到成就他人**；
 
-一个人同时生活在两个世界，一个想象世界一个现实世界，人的成长就是不断提高这两个世界的**重合度**。
+一个人同时生活在两个世界，一个想象世界一个现实世界，人的成长就是不断提高这两个世界的**重合度**；
+
+因相信而看见，从量变到质变，持续不断记录，意义自然浮现...
 
 ***
 ![](https://github.com/ipr9/ipr9/assets/163503847/8cd33880-e968-4d44-9570-b7571e6fcec0)
@@ -196,6 +213,7 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/fc3db62e-7c17-437d-8436-6b93ef2738dc)
 ![](https://github.com/ipr9/ipr9/assets/163503847/cbdbc161-4505-4fba-ac9b-aa4f826fabc7)
 ![](https://github.com/ipr9/ipr9/assets/163503847/6acb1c62-0a51-4920-bfa4-671544fa00f0)
+![](https://github.com/ipr9/ipr9/assets/163503847/f84205d5-8039-4e9b-835c-c660d6e5bb64)
 > 发现、体验及创造美...
 
 | 年份  | 月份 | 周数 | 日数 |
@@ -215,6 +233,7 @@
 | 2024     | 5       | 1         | 3         |
 | 2024     | 5       | 1         | 4         |
 | 2024     | 5       | 1         | 5         |
+| 2024     | 5       | 1         | 12         |
 
 # Reference
 
@@ -240,18 +259,21 @@
 ## Tools
 1. [HUAWEI WATCH 4 Pro](https://consumer.huawei.com/cn/wearables/watch-4-series/)
 2. [HUAWEI Mate X5](https://consumer.huawei.com/cn/phones/mate-x5/)
-3. [AirPods Pro](https://www.apple.com.cn/airpods-pro/)
-4. [MacBook Air](https://www.apple.com.cn/macbook-air/)
-5. [Everything](https://www.voidtools.com/zh-cn/)
-6. [uTools](https://www.u.tools/)
+3. [HUAWEI Pura 70 Ultra](https://consumer.huawei.com/cn/phones/pura70-ultra/)
+4. [AirPods Pro](https://www.apple.com.cn/airpods-pro/)
+5. [MacBook Air](https://www.apple.com.cn/macbook-air/)
+6. [Everything](https://www.voidtools.com/zh-cn/)
+7. [uTools](https://www.u.tools/)
+8. [flomo](https://flomoapp.com/)
 
 ## IP
 1. [大岭IP：微信号: DalingIP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3MjQ1MjE4NA==&scene=124#wechat_redirect)
 2. [企业专利观察：微信号：EPO-China](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNzc4NzI5NQ==&scene=124#wechat_redirect)
 3. [百科君的IP杂谈 微信号: IP-BlaBla](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxNzAyNjcxNQ==&scene=124#wechat_redirect)
 4. [知识产权理想国 微信号: IPRepublic](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU0MDE4MDQyNg==&scene=124#wechat_redirect)
-5. [知财梁言](https://mp.weixin.qq.com/s/o8CX_i-oDpCgxF4BW28R1g)  
-6. [赢在IP 微信号: cosmosip186](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3NDE3NzMzMA==&scene=124#wechat_redirect)
+5. [知财梁言](https://mp.weixin.qq.com/s/o8CX_i-oDpCgxF4BW28R1g)
+6. [佑斌]() 
+7. [赢在IP 微信号: cosmosip186](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3NDE3NzMzMA==&scene=124#wechat_redirect)
 
 ## Technology
 1. [鲜枣课堂](https://mp.weixin.qq.com/s/14Yrb0wXWRrL4rM26amzLw)
