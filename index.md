@@ -70,6 +70,7 @@
   <table>
   <tr><td>读书📚思考🤔</td></tr>
   <tr><td>数码📷摄影</td></tr>
+  <tr><td>音乐🎵</td></tr>
   <tr><td>徒步✈️旅行</td></tr>   
   <tr><td>篮球🏀</td></tr>  
   <tr><td>军事🚢</td></tr> 
