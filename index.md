@@ -224,6 +224,8 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/0e77d20b-bc72-4629-9bf1-e9d3f7710372)
 ![](https://github.com/ipr9/ipr9/assets/163503847/1efeb29a-9631-4882-9319-2a66da3f6e4c)
 ![](https://github.com/ipr9/ipr9/assets/163503847/7b1150ae-5090-4c92-b1ef-201b5f9705d4)
+![](https://github.com/ipr9/ipr9/assets/163503847/45b4e612-8834-434a-80f8-633c2e7405b0)
+![](https://github.com/ipr9/ipr9/assets/163503847/d1a53cb1-480b-4b3e-bd54-ee7facc17d89)
 > 发现、体验及创造美...
 
 | 年份  | 月份 | 周数 | 日数 |
@@ -273,18 +275,19 @@
 3. [HUAWEI Pura 70 Ultra](https://consumer.huawei.com/cn/phones/pura70-ultra/)
 4. [AirPods Pro](https://www.apple.com.cn/airpods-pro/)
 5. [MacBook Air](https://www.apple.com.cn/macbook-air/)
-6. [Everything](https://www.voidtools.com/zh-cn/)
-7. [uTools](https://www.u.tools/)
-8. [flomo](https://flomoapp.com/)
+6. [iPad Pro](https://www.apple.com.cn/ipad-pro/)
+7. [Everything](https://www.voidtools.com/zh-cn/)
+8. [uTools](https://www.u.tools/)
+9. [flomo](https://flomoapp.com/)
 
 ## IP
-1. [大岭IP：微信号: DalingIP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3MjQ1MjE4NA==&scene=124#wechat_redirect)
-2. [企业专利观察：微信号：EPO-China](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNzc4NzI5NQ==&scene=124#wechat_redirect)
-3. [百科君的IP杂谈 微信号: IP-BlaBla](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxNzAyNjcxNQ==&scene=124#wechat_redirect)
-4. [知识产权理想国 微信号: IPRepublic](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU0MDE4MDQyNg==&scene=124#wechat_redirect)
+1. [大岭IP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3MjQ1MjE4NA==&scene=124#wechat_redirect)
+2. [企业专利观察](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNzc4NzI5NQ==&scene=124#wechat_redirect)
+3. [百科君的IP杂谈](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUxNzAyNjcxNQ==&scene=124#wechat_redirect)
+4. [知识产权理想国](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU0MDE4MDQyNg==&scene=124#wechat_redirect)
 5. [知财梁言](https://mp.weixin.qq.com/s/o8CX_i-oDpCgxF4BW28R1g)
 6. [佑斌]() 
-7. [赢在IP 微信号: cosmosip186](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3NDE3NzMzMA==&scene=124#wechat_redirect)
+7. [赢在IP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3NDE3NzMzMA==&scene=124#wechat_redirect)
 
 ## Technology
 1. [鲜枣课堂](https://mp.weixin.qq.com/s/14Yrb0wXWRrL4rM26amzLw)
