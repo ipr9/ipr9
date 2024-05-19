@@ -173,8 +173,9 @@
 49. 饿了就吃，困了就睡，累了放松，多体验...
 50. 原来如此，不过如此，钢铁是如何炼成的
 51. 人脑，电脑，手机，应用，不停地迭代升级
-52. 机会主义者只能得到暂时性的胜利，实用主义者会获得阶段性的胜利，长期主义者才能赢得持续性的胜利
-53. 如何成为长期主义者？很简单，做难而正确的事情。管理、人生皆如此。
+52. 写专栏的第一步是取得想法，而想法来自头脑风暴、调研和读书。头脑风暴可以借助ChatGPT，调研可以用Perplexity，而读书，严格说来，还得是自己的功夫
+53. 机会主义者只能得到暂时性的胜利，实用主义者会获得阶段性的胜利，长期主义者才能赢得持续性的胜利
+54. 如何成为长期主义者？很简单，做难而正确的事情。管理、人生皆如此。
 
 # Journey
 
@@ -272,6 +273,7 @@
 7. [Hulu AI](https://h5.cxyhub.com/home)
 8. [讯飞星火](https://xinghuo.xfyun.cn/)
 9. [文心一言](https://yiyan.baidu.com/)
+10. [万维刚：我怎样使用AI（2024）](https://www.dedao.cn/course/article?id=rykaNlMY5gn3Jq1eadJ7EAROW0DLje)
 
 ## Tools
 1. [HUAWEI WATCH 4 Pro](https://consumer.huawei.com/cn/wearables/watch-4-series/)
