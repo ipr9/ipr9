@@ -5,7 +5,7 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/e28c487d-2830-47bd-8e38-e981f1751fee)
 ![](https://github.com/ipr9/ipr9/assets/163503847/79319eb5-cf6f-4d11-a289-ba9cc00c2c4d)
 ![](https://github.com/ipr9/ipr9/assets/163503847/4d6083de-634b-46f6-b895-e7295ee2ee21)
-> ahaip<sup>TM</sup> 人生是旅行，多结伴同行，缘分一场，且行且珍惜，多体验及品味人生百态，人生如歌，专利如诗...
+> ahaip<sup>TM</sup> 人生是旅行，多结伴同行，缘分一场，且行且珍惜，多沉浸式深度体验及品味人生百态，人生如歌，专利如诗...
 
 # Evolution
 
