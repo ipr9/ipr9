@@ -8,14 +8,13 @@
 > ahaip<sup>TM</sup> 人生是旅行，多结伴同行，缘分一场，且行且珍惜，多沉浸式深度体验及品味人生百态
 > 人生如歌，专利如诗...
 
-![](https://github.com/ipr9/ipr9/assets/163503847/e0955730-3e76-4f98-b77e-ded9b08f568f)
-![](https://github.com/ipr9/ipr9/assets/163503847/ba63be0e-e9e2-48b3-800b-3e48a50bb2f0)
 ![](https://github.com/ipr9/ipr9/assets/163503847/6e02ee89-1b48-4bd7-9844-089a6e799a77)
 ![](https://github.com/ipr9/ipr9/assets/163503847/35635701-c4a7-477e-be9b-56f463c7aae7)
 ![](https://github.com/ipr9/ipr9/assets/163503847/ee1611ca-fe16-4cf7-beb5-baeb9d4cdec9)
 ![](https://github.com/ipr9/ipr9/assets/163503847/7b876d92-fe5c-469a-b9c3-8bd13bd8f257)
 ![](https://github.com/ipr9/ipr9/assets/163503847/75ffe6ac-d05b-46b8-b716-a3d7c6b10790)
 ![](https://github.com/ipr9/ipr9/assets/163503847/8c7e8d26-0f0f-4e40-bb8d-81d24d29c722)
+![](https://github.com/ipr9/ipr9/assets/163503847/ba63be0e-e9e2-48b3-800b-3e48a50bb2f0)
 > 一切都是大脑神经🔗，构建及刷新
 > 一切都会过去，一切都会来到
 
