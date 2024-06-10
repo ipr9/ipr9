@@ -307,6 +307,7 @@
 4. [李笑来作品集](http://lixiaolai.com/#/)
 5. [科技爱好者周刊](https://github.com/ruanyf/weekly)
 6. [得到](https://www.dedao.cn/)
+7. [非睡眠深度休息法](https://www.dedao.cn/course/article?id=a8QZdRM1OmLxVvGenlJG69rgYPjqWp)
 
 ## AI
 1. [秘塔AI搜索](https://metaso.cn/)
