@@ -9,6 +9,14 @@
 
 > 人生如歌，专利如诗，四十不惑，选择及坚持，不关注什么不要什么>关注什么要什么...
 
+```
+选择美好和感恩
+理性沉浸于当下
+感受更多的体验
+好策略现在行动
+好办法就是自己
+```
+
 ![](https://github.com/ipr9/ipr9/assets/163503847/7b876d92-fe5c-469a-b9c3-8bd13bd8f257)
 ![](https://github.com/ipr9/ipr9/assets/163503847/75ffe6ac-d05b-46b8-b716-a3d7c6b10790)
 ![](https://github.com/ipr9/ipr9/assets/163503847/8c7e8d26-0f0f-4e40-bb8d-81d24d29c722)
