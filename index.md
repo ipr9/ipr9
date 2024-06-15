@@ -329,7 +329,9 @@
 5. [科技爱好者周刊](https://github.com/ruanyf/weekly)
 6. [得到](https://www.dedao.cn/)
 7. [非睡眠深度休息法](https://www.dedao.cn/course/article?id=a8QZdRM1OmLxVvGenlJG69rgYPjqWp)
-8. 
+8. [杨立新·民法典200讲 ](https://www.dedao.cn/course/detail?id=qBr4kj5gLNYKNdPsgEJdemExy36GaA)
+9. [张明楷·刑法学100讲 ](https://www.dedao.cn/course/detail?id=9LnlWEqDj76VzmMsMxKmOA4epMBPxa)
+10. [刘晗·法律思维30讲 ](https://www.dedao.cn/course/detail?id=5L9DznlwYyOVdwasoYKmbWABv0Zk4a)
 
 ## AI
 1. [秘塔AI搜索](https://metaso.cn/)
