@@ -5,7 +5,7 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/e28c487d-2830-47bd-8e38-e981f1751fee)
 ![](https://github.com/ipr9/ipr9/assets/163503847/79319eb5-cf6f-4d11-a289-ba9cc00c2c4d)
 ![](https://github.com/ipr9/ipr9/assets/163503847/4d6083de-634b-46f6-b895-e7295ee2ee21)
-> ahaip<sup>TM</sup> 人生是旅行，多结伴同行，缘分一场，且行且珍惜，多沉浸式深度体验及品味人生百态，从 ego 到 eco...
+> ahaip<sup>TM</sup> 人生是旅行，多结伴同行，从 ego 到 eco...缘分一场，且行且珍惜，多沉浸式深度体验及品味人生百态
 
 ```
 一定有办法可以解决
@@ -15,7 +15,15 @@
 ->整合资源（协作共赢，集思广益，身先士卒）
 ->拿出结果（复盘改进，系统体系，流程模板）
 创造价值（全局长远）
+
+从感性到理性，再到理性感性
+从视觉到听觉，再到综合感知
 ```
+
+![](https://github.com/ipr9/ipr9/assets/163503847/2628727c-62e6-4fc9-aea1-1613a81688a7)
+![](https://github.com/ipr9/ipr9/assets/163503847/4ee116ff-b972-441a-acf2-3cef5e2d4948)
+![](https://github.com/ipr9/ipr9/assets/163503847/259c8944-f131-4a77-92ab-44a47afbc655)
+> 胸怀梦想及美好，全局长远，脚踏实地，深度思考及体验...
 
 ```
 理性、沉浸、当下
@@ -359,12 +367,13 @@
 1. [HUAWEI WATCH 4 Pro](https://consumer.huawei.com/cn/wearables/watch-4-series/)
 2. [HUAWEI Mate X5](https://consumer.huawei.com/cn/phones/mate-x5/)
 3. [HUAWEI Pura 70 Ultra](https://consumer.huawei.com/cn/phones/pura70-ultra/)
-4. [AirPods Pro](https://www.apple.com.cn/airpods-pro/)
-5. [MacBook Air](https://www.apple.com.cn/macbook-air/)
-6. [iPad Pro](https://www.apple.com.cn/ipad-pro/)
-7. [Everything](https://www.voidtools.com/zh-cn/)
-8. [uTools](https://www.u.tools/)
-9. [flomo](https://flomoapp.com/)
+4. [iPhone 15 Pro Max](https://www.apple.com.cn/iphone-15-pro/)
+5. [AirPods Pro](https://www.apple.com.cn/airpods-pro/)
+6. [MacBook Air](https://www.apple.com.cn/macbook-air/)
+7. [iPad Pro](https://www.apple.com.cn/ipad-pro/)
+8. [Everything](https://www.voidtools.com/zh-cn/)
+9. [uTools](https://www.u.tools/)
+10. [flomo](https://flomoapp.com/)
 
 ## IP
 1. [大岭IP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3MjQ1MjE4NA==&scene=124#wechat_redirect)
