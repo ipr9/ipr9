@@ -12,6 +12,11 @@
 ---
 
 ```
+
+此时此地此人
+入眼入耳入脑
+理性沉浸当下
+
 一定有办法可以解决
 ->自己就是最好的办法
 ->先解决他人的问题
@@ -339,6 +344,20 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/d13ae651-66a3-4a2a-bdc1-6d4fd206b03f)
 ![](https://github.com/ipr9/ipr9/assets/163503847/9823d789-7eeb-4fa7-a1eb-9b1e287b1300)
 ![](https://github.com/ipr9/ipr9/assets/163503847/a44d7da0-1b06-4386-83f3-fc35efc2723b)
+
+![](https://github.com/ipr9/ipr9/assets/163503847/954b9448-9c93-4367-947f-c7eeb36b00b3)
+![](https://github.com/ipr9/ipr9/assets/163503847/7fdec062-1241-4ccb-adfc-c5243f5a8d3c)
+![](https://github.com/ipr9/ipr9/assets/163503847/659d2b52-4d0f-44be-8a06-73bdbf02a8c4)
+![](https://github.com/ipr9/ipr9/assets/163503847/2c5ac104-adab-47a8-a80e-6f9ccfd0f80a)
+![](https://github.com/ipr9/ipr9/assets/163503847/75b7bd22-dc1c-464e-8437-a4f78509bc12)
+![](https://github.com/ipr9/ipr9/assets/163503847/b376a853-d769-400f-83f1-be3b6ae73a01)
+![](https://github.com/ipr9/ipr9/assets/163503847/3db82c00-6010-4a51-bee6-a679610d9b38)
+![](https://github.com/ipr9/ipr9/assets/163503847/418ed190-0550-4ba8-99eb-d6469064a6c5)
+![](https://github.com/ipr9/ipr9/assets/163503847/1922ca71-44c7-4b61-9c9c-1095ebe590c0)
+![](https://github.com/ipr9/ipr9/assets/163503847/96d70ead-a178-4ccc-a8fd-979354722946)
+![](https://github.com/ipr9/ipr9/assets/163503847/a9553062-ad02-45c3-a14a-ccd06ab119b9)
+
+
 > 发现、体验及创造美...
 
 ---
