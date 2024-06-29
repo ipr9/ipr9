@@ -13,6 +13,8 @@
 
 ```
 
+全力以赴沉浸当下
+
 此时此地此人
 入眼入耳入脑
 理性沉浸当下
@@ -366,7 +368,10 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/f4601a86-7296-40fc-85b4-f15cf3959e81)
 ![](https://github.com/ipr9/ipr9/assets/163503847/fcef0b97-939c-4e0c-88bb-c85c436a552d)
 
-
+<img width="1221" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/bbd041e3-6f16-44f2-9c68-811b69d4411b">
+![](https://github.com/ipr9/ipr9/assets/163503847/198504ee-c0f5-4aa2-9327-03100a89d7f7)
+![](https://github.com/ipr9/ipr9/assets/163503847/72977242-c50f-4a46-8d36-7417650e166b)
+![](https://github.com/ipr9/ipr9/assets/163503847/227e99c1-364c-4c28-af19-2b05dacc1a6d)
 > 发现、体验及创造美...
 
 ---
@@ -430,6 +435,7 @@
 | 2024     | 6       | 2         | 16         |
 | 2024     | 6       | 3         | 22         |
 | 2024     | 6       | 3         | 23         |
+| 2024     | 6       | 4         | 29         |
 
 # Reference
 
@@ -461,13 +467,15 @@
 1. [HUAWEI WATCH 4 Pro](https://consumer.huawei.com/cn/wearables/watch-4-series/)
 2. [HUAWEI Mate X5](https://consumer.huawei.com/cn/phones/mate-x5/)
 3. [HUAWEI Pura 70 Ultra](https://consumer.huawei.com/cn/phones/pura70-ultra/)
-4. [iPhone 15 Pro Max](https://www.apple.com.cn/iphone-15-pro/)
-5. [AirPods Pro](https://www.apple.com.cn/airpods-pro/)
-6. [MacBook Air](https://www.apple.com.cn/macbook-air/)
-7. [iPad Pro](https://www.apple.com.cn/ipad-pro/)
-8. [Everything](https://www.voidtools.com/zh-cn/)
-9. [uTools](https://www.u.tools/)
-10. [flomo](https://flomoapp.com/)
+4. [Galaxy S24+](https://www.samsung.com.cn/smartphones/galaxy-s24/)
+5. [Honor Magic V2](https://www.honor.com/cn/phones/honor-magic-v2/)
+6. [iPhone 15 Pro Max](https://www.apple.com.cn/iphone-15-pro/)
+7. [AirPods Pro](https://www.apple.com.cn/airpods-pro/)
+8. [MacBook Air](https://www.apple.com.cn/macbook-air/)
+9. [iPad Pro](https://www.apple.com.cn/ipad-pro/)
+10. [Everything](https://www.voidtools.com/zh-cn/)
+11. [uTools](https://www.u.tools/)
+12. [flomo](https://flomoapp.com/)
 
 ## IP
 1. [大岭IP](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3MjQ1MjE4NA==&scene=124#wechat_redirect)
