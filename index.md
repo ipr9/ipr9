@@ -100,6 +100,8 @@
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
 <img width="1207" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/d0ef663a-b01a-42e7-aa33-484d824d1e0d">
+![image](https://github.com/ipr9/ipr9/assets/163503847/5cf93b4a-9548-48dd-8c78-826641f5bf65)
+
 1. **使命**：创造和运用知识产权，助力公司经营及发展
 2. **愿景**：成为产业界具有影响力的知识产权实务专家
 3. **价值观**：<ins>天道酬勤</ins>、<ins>人道酬善</ins>、<ins>商道酬信</ins>
@@ -178,7 +180,8 @@
 
 ***
 
-
+![image](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
+![image](https://github.com/ipr9/ipr9/assets/163503847/8b7e1a6f-b4e6-4fbe-9eeb-db4e664a696d)
 > Make it Possible 通往山顶的路有很多，选择最难、也最有价值的一条。
 
 ***
