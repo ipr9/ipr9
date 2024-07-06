@@ -68,4 +68,65 @@
 ![image](https://github.com/ipr9/ipr9/assets/163503847/f9885f30-f7a2-4c17-a42d-087208aab580)
 > 强盗逻辑
 
+![image](https://github.com/ipr9/ipr9/assets/163503847/2e80651e-e9af-42df-b8fd-0062b1a7fc52)
+![image](https://github.com/ipr9/ipr9/assets/163503847/d35b3a10-8ad7-4b24-b182-758112950364)
+![image](https://github.com/ipr9/ipr9/assets/163503847/748c5fcf-7235-4b33-b24e-4185da40557f)
+![image](https://github.com/ipr9/ipr9/assets/163503847/8cd4e14b-71ba-493b-b1d2-4cd87e72a14c)
+![image](https://github.com/ipr9/ipr9/assets/163503847/b25f8fd9-8a34-42b0-8956-3d27ed61ab70)
+![image](https://github.com/ipr9/ipr9/assets/163503847/bafeba95-9e56-444b-a1ca-d41975464b2f)
+> 法律
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/7617f49b-a8cb-4155-8c2c-a8230ce29370)
+![image](https://github.com/ipr9/ipr9/assets/163503847/e9ed3c4c-648c-4722-979d-5cfea43a3ba6)
+![image](https://github.com/ipr9/ipr9/assets/163503847/5c8441e9-dd46-47ad-81bf-586b6aad1c6b)
+![image](https://github.com/ipr9/ipr9/assets/163503847/4eba8b23-7c0a-4b78-a3b5-4f87b757870b)
+![image](https://github.com/ipr9/ipr9/assets/163503847/204cfda0-0b94-407b-a872-cf9a6ad7732b)
+![image](https://github.com/ipr9/ipr9/assets/163503847/70ca5b9e-e60f-418c-98b4-40eb043b81bb)
+![image](https://github.com/ipr9/ipr9/assets/163503847/87226316-4049-42e3-9deb-f6ed5d1b8e87)
+![image](https://github.com/ipr9/ipr9/assets/163503847/7735e605-aaa5-499f-9fb6-e5fb336fff0e)
+![image](https://github.com/ipr9/ipr9/assets/163503847/d436936e-21b5-4c45-8e45-0c43d38c6e07)
+![image](https://github.com/ipr9/ipr9/assets/163503847/e3aa71be-87da-4979-a554-5a4680c37c4c)
+![image](https://github.com/ipr9/ipr9/assets/163503847/bbc52865-cbb5-48f4-97d5-75373c627a2c)
+![image](https://github.com/ipr9/ipr9/assets/163503847/ae756a06-7a51-4848-a8f5-23af891a1312)
+![image](https://github.com/ipr9/ipr9/assets/163503847/628675e7-0003-4505-b85b-6c82f66c7274)
+![image](https://github.com/ipr9/ipr9/assets/163503847/bcce57f7-7e5c-4aad-b7af-e8d73012b027)
+![image](https://github.com/ipr9/ipr9/assets/163503847/40dc4732-c575-4e02-bdd8-c8bc243331fb)
+![image](https://github.com/ipr9/ipr9/assets/163503847/fd31ade6-5b56-4db3-ad70-325117c18c99)
+![image](https://github.com/ipr9/ipr9/assets/163503847/ef071d1f-95d0-486e-bb43-b00fcf17e5b0)
+![image](https://github.com/ipr9/ipr9/assets/163503847/444506ba-9f91-4ba2-8d72-d8924a59e9af)
+> 窄门
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/57a9c6cb-e14f-4f9d-a0fd-295e3d2865ba)
+![image](https://github.com/ipr9/ipr9/assets/163503847/7894ca79-e2b9-46b1-8951-7c68a3850c4f)
+![image](https://github.com/ipr9/ipr9/assets/163503847/9fa8bb7e-ebee-4c4e-b6a6-9f7a2a0eac11)
+> 爬井
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/8c243f8e-8aad-4676-8828-98433b4f640d)
+![image](https://github.com/ipr9/ipr9/assets/163503847/c3468636-df32-4f2a-8244-f5253032cba6)
+![image](https://github.com/ipr9/ipr9/assets/163503847/77373dc8-2fbd-44d5-965a-d1ec058a7fcc)
+![image](https://github.com/ipr9/ipr9/assets/163503847/e5d9d43e-24c3-4e66-85a0-0023e62afd44)
+![image](https://github.com/ipr9/ipr9/assets/163503847/94116cf4-2c26-4bb6-8200-889641201719)
+![image](https://github.com/ipr9/ipr9/assets/163503847/3bdbb0bb-dbd7-40f7-ae13-d495ff93b911)
+![image](https://github.com/ipr9/ipr9/assets/163503847/f65819d5-9eb2-4657-a79e-908ae010f980)
+![image](https://github.com/ipr9/ipr9/assets/163503847/f6e061f0-f277-4428-8db7-e2c94b0c3875)
+![image](https://github.com/ipr9/ipr9/assets/163503847/4abdc78b-2bb0-4a1c-81a5-ccf9f81d18ed)
+![image](https://github.com/ipr9/ipr9/assets/163503847/072decfa-9b1a-485b-b133-ddcf6338db4e)
+![image](https://github.com/ipr9/ipr9/assets/163503847/1c97c68e-7881-4ef3-af0f-76082e8eabe5)
+![image](https://github.com/ipr9/ipr9/assets/163503847/de411c37-2417-4884-b9d9-ca189269f0d1)
+> 真爱
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/8b031362-523f-403b-b28e-b7425ab6813d)
+> 忍与能之间就是我们的生存空间
+
+
+
+
+
+
+
+
+
+
+
+
 
