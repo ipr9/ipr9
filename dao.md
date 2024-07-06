@@ -55,6 +55,8 @@
 ![image](https://github.com/ipr9/ipr9/assets/163503847/35609a0c-d9d2-438b-9e3a-457a8ceb6009)
 ![image](https://github.com/ipr9/ipr9/assets/163503847/5a4f929f-dca9-49ac-9e8a-108674981a5e)
 ![image](https://github.com/ipr9/ipr9/assets/163503847/03a5cb08-8bc1-4e14-8da4-4ad489f5be5f)
+![image](https://github.com/ipr9/ipr9/assets/163503847/9d5e9b41-2195-4422-bc9e-52bfe5868ef6)
+![image](https://github.com/ipr9/ipr9/assets/163503847/5624bdc1-67ec-466a-a1b0-5fc847adbf83)
 > 其他
 
 ![image](https://github.com/ipr9/ipr9/assets/163503847/a67e6342-4ad8-434f-a0bf-c3cbe4afbbd1)
@@ -75,6 +77,14 @@
 ![image](https://github.com/ipr9/ipr9/assets/163503847/b25f8fd9-8a34-42b0-8956-3d27ed61ab70)
 ![image](https://github.com/ipr9/ipr9/assets/163503847/bafeba95-9e56-444b-a1ca-d41975464b2f)
 > 法律
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/bc4946fd-d485-4048-a2ee-7f7fac77863f)
+![image](https://github.com/ipr9/ipr9/assets/163503847/26d8e186-3f90-434a-8a22-2c1c6b8cef77)
+![image](https://github.com/ipr9/ipr9/assets/163503847/dfb50f5a-3d62-41bb-aac4-b0f1c9f91e0b)
+![image](https://github.com/ipr9/ipr9/assets/163503847/38465e98-8127-47e4-a08b-be42ba3b762b)
+![image](https://github.com/ipr9/ipr9/assets/163503847/f9f870b8-6bb3-43ad-a5d3-461c94b9816a)
+> 专利保护
+
 
 ![image](https://github.com/ipr9/ipr9/assets/163503847/7617f49b-a8cb-4155-8c2c-a8230ce29370)
 ![image](https://github.com/ipr9/ipr9/assets/163503847/e9ed3c4c-648c-4722-979d-5cfea43a3ba6)
@@ -116,9 +126,126 @@
 > 真爱
 
 ![image](https://github.com/ipr9/ipr9/assets/163503847/8b031362-523f-403b-b28e-b7425ab6813d)
+![image](https://github.com/ipr9/ipr9/assets/163503847/bd45d0b7-7f01-47d7-9b8b-7913b7e4332f)
+![image](https://github.com/ipr9/ipr9/assets/163503847/a33c5974-84f1-445d-b44d-2b26fc555f4d)
+![image](https://github.com/ipr9/ipr9/assets/163503847/6b37290b-3467-475c-b5bb-eae63c4656af)
+![image](https://github.com/ipr9/ipr9/assets/163503847/6e856829-03d9-4649-b45d-7f43a0a23b43)
+![image](https://github.com/ipr9/ipr9/assets/163503847/5b266aa8-cb96-4e15-b70a-9b84eb86f51a)
+![image](https://github.com/ipr9/ipr9/assets/163503847/e2535214-1c52-4b8d-981d-c49dd167e7bf)
+![image](https://github.com/ipr9/ipr9/assets/163503847/4a273ba0-6eb3-44a3-8b37-2bdb74779ce6)
+![image](https://github.com/ipr9/ipr9/assets/163503847/94ba2e10-19a0-46d2-80f3-e57fd48d537a)
+![image](https://github.com/ipr9/ipr9/assets/163503847/193c402e-0ed6-4965-a32a-0bff3b278b9a)
+![image](https://github.com/ipr9/ipr9/assets/163503847/08dbc652-eb2c-4a8f-a8a4-88ca3cca8aad)
+![image](https://github.com/ipr9/ipr9/assets/163503847/5f059f92-5a81-444f-ba95-24bf84e09c15)
+![image](https://github.com/ipr9/ipr9/assets/163503847/c70a60d5-17c0-4f0f-8cf6-5d799d682d2a)
+![image](https://github.com/ipr9/ipr9/assets/163503847/20d401a3-ef51-4b06-b2b6-d986308095fd)
+![image](https://github.com/ipr9/ipr9/assets/163503847/79361840-20cc-441d-9a08-05b29ec2c295)
+![image](https://github.com/ipr9/ipr9/assets/163503847/408c7553-5328-424e-b80d-73931c70a887)
 > 忍与能之间就是我们的生存空间
 
 
+![image](https://github.com/ipr9/ipr9/assets/163503847/fdb5d379-d87c-496b-b179-9eedf00254e6)
+![image](https://github.com/ipr9/ipr9/assets/163503847/88fe4494-4b11-48bc-b4d4-9304bf39414b)
+![image](https://github.com/ipr9/ipr9/assets/163503847/e57cb681-a0b1-45bd-b315-e49c873d4bd2)
+![image](https://github.com/ipr9/ipr9/assets/163503847/e628b1c9-f965-44bd-8628-53b87bba82d5)
+![image](https://github.com/ipr9/ipr9/assets/163503847/5ac31287-4579-49f4-bb64-b7d57915de97)
+![image](https://github.com/ipr9/ipr9/assets/163503847/978965ab-1fa8-4aef-b959-560f103a6637)
+![image](https://github.com/ipr9/ipr9/assets/163503847/85a95ace-0830-467a-b516-53d0e1d631d0)
+![image](https://github.com/ipr9/ipr9/assets/163503847/a9b13d21-bea4-4e23-bc76-e3607c102d23)
+![image](https://github.com/ipr9/ipr9/assets/163503847/c87d748f-6556-4560-ad4d-7a2a35427504)
+![image](https://github.com/ipr9/ipr9/assets/163503847/31aa7e0e-802d-4635-bd3c-38470b7f518a)
+![image](https://github.com/ipr9/ipr9/assets/163503847/dd345434-a4db-4ec5-9ac9-c28241349e91)
+> 佛性
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/44975731-a6f5-420a-9a86-13c1113e21a8)
+![image](https://github.com/ipr9/ipr9/assets/163503847/553def63-4c36-4f65-a7ae-ae346231ce4c)
+![image](https://github.com/ipr9/ipr9/assets/163503847/6992e3ef-b4fc-4da2-bbd7-970599fdd3e2)
+![image](https://github.com/ipr9/ipr9/assets/163503847/4e84cb33-0599-4213-8e03-c3e5535b5aac)
+![image](https://github.com/ipr9/ipr9/assets/163503847/a97f41ff-eb22-4901-8677-dfa9cc768197)
+![image](https://github.com/ipr9/ipr9/assets/163503847/449bc8ef-9337-45d0-9c1b-d808886169d8)
+![image](https://github.com/ipr9/ipr9/assets/163503847/f7e9f00c-74bc-4e3b-8d80-3ed6204835c1)
+![image](https://github.com/ipr9/ipr9/assets/163503847/bc356b9a-9c2d-43e1-8603-762761528def)
+> 靠
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/dd3d9c3d-c0ac-4c8a-a12d-f5e6952542de)
+![image](https://github.com/ipr9/ipr9/assets/163503847/34030b47-4f76-4358-b13c-64cc6d27071f)
+![image](https://github.com/ipr9/ipr9/assets/163503847/3daa1bd5-fe38-4c99-8869-542389a18f53)
+![image](https://github.com/ipr9/ipr9/assets/163503847/54b43017-70a6-4bcd-9a43-d21fb6a80078)
+![image](https://github.com/ipr9/ipr9/assets/163503847/fc1f3b4c-fd82-47a7-bca8-35deb8069c3c)
+![image](https://github.com/ipr9/ipr9/assets/163503847/12e8fc9c-a85d-40d1-8c11-76f4c86a5ec9)
+![image](https://github.com/ipr9/ipr9/assets/163503847/145b42da-f7cc-4dae-976a-2726a99932c9)
+![image](https://github.com/ipr9/ipr9/assets/163503847/6d8427ff-0117-4106-a74c-21d56c499d28)
+![image](https://github.com/ipr9/ipr9/assets/163503847/9e4c3d03-a820-4fd4-9a26-394d00c22585)
+![image](https://github.com/ipr9/ipr9/assets/163503847/4d262672-5ff2-4ec9-bfe9-5cb0d953a81c)
+> 静气，贵气，杀气，痞气
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/d6371461-5e97-4987-a81f-0574426a9461)
+![image](https://github.com/ipr9/ipr9/assets/163503847/a35afa62-59a6-446d-a71b-2f4c17caf816)
+![image](https://github.com/ipr9/ipr9/assets/163503847/34eae94b-075a-4696-b960-5cca6a16b09b)
+![image](https://github.com/ipr9/ipr9/assets/163503847/33a53bc6-dbbc-4d52-9042-e221efa1b159)
+> 生活
+
+
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/f5fb8ddc-71cd-4ed6-8fd2-3e7cdb427e69)
+![image](https://github.com/ipr9/ipr9/assets/163503847/04d6a0a9-006d-45dd-9b52-6ee96dfa75ed)
+![image](https://github.com/ipr9/ipr9/assets/163503847/a4079df2-2157-4b5e-bff4-38b22c89dc2e)
+![image](https://github.com/ipr9/ipr9/assets/163503847/742481c8-3516-49df-bc93-e4b95711fefc)
+> 严于律己，宽以待人
+
+
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/1f1deacf-02e1-452c-8d92-105f341843b6)
+![image](https://github.com/ipr9/ipr9/assets/163503847/63c38876-c1f7-43f0-b109-65a91645296e)
+![image](https://github.com/ipr9/ipr9/assets/163503847/e6224d9d-da86-4a83-a251-b7a898b093f6)
+![image](https://github.com/ipr9/ipr9/assets/163503847/97c12fe2-ecc0-4064-b623-80734e7ea8d8)
+![image](https://github.com/ipr9/ipr9/assets/163503847/12b55ba0-8d09-473b-ab25-e0cb966eb4bd)
+> 聪明与智慧
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/5c399b1a-ac21-4960-815e-3b95c6f30cb7)
+![image](https://github.com/ipr9/ipr9/assets/163503847/6a03338f-8a71-44b5-8e9e-311e41f078f6)
+![image](https://github.com/ipr9/ipr9/assets/163503847/af8b8667-b173-4137-ad6e-2f2e4fc7d9f1)
+![image](https://github.com/ipr9/ipr9/assets/163503847/8e808bb6-d68c-445d-8977-4ed2f9f611a7)
+![image](https://github.com/ipr9/ipr9/assets/163503847/a53475b1-e44e-497a-9f14-6dbb7f99b3c2)
+![image](https://github.com/ipr9/ipr9/assets/163503847/87e2d0b1-0629-4a18-b2f1-cfbc4b71a7cf)
+![image](https://github.com/ipr9/ipr9/assets/163503847/c7749b1b-9c1d-42d1-87e3-da9668553266)
+> 投资
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/1533c2c7-2e39-42ab-a55e-522fbb1ada7f)
+![image](https://github.com/ipr9/ipr9/assets/163503847/fc939e96-6a5a-439b-a9e5-7634926a2e7b)
+![image](https://github.com/ipr9/ipr9/assets/163503847/e56af3f4-6b4f-4348-bab3-43d2b62a5626)
+![image](https://github.com/ipr9/ipr9/assets/163503847/07981097-2184-48bb-90ea-4c377c214e42)
+![image](https://github.com/ipr9/ipr9/assets/163503847/bb7925f0-2f06-4d22-bb09-c1f3d164bf6f)
+![image](https://github.com/ipr9/ipr9/assets/163503847/bcd73f48-5124-47fa-b12d-d10a4654157b)
+![image](https://github.com/ipr9/ipr9/assets/163503847/9aa02bf0-7aa6-4aeb-9d30-044f1e6892a5)
+> 明白是福
+
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/c810014e-5571-4f8c-9c6e-25e164057a41)
+![image](https://github.com/ipr9/ipr9/assets/163503847/9f2add0d-3201-42f0-90b4-39d7c21cab59)
+![image](https://github.com/ipr9/ipr9/assets/163503847/4d64749d-18f6-455a-b845-9a9623b17a97)
+![image](https://github.com/ipr9/ipr9/assets/163503847/0b00d20c-c814-4564-85ca-027cb27bf279)
+![image](https://github.com/ipr9/ipr9/assets/163503847/cdcc378c-5f59-421c-9bae-96b2921288dc)
+![image](https://github.com/ipr9/ipr9/assets/163503847/dffd655d-d002-470b-8822-b3889d42df57)
+![image](https://github.com/ipr9/ipr9/assets/163503847/3f5be639-7e3c-450b-b49d-ff40c453b679)
+> 经营与投机
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/fe738110-9bdc-41aa-b537-3bf0f1781472)
+![image](https://github.com/ipr9/ipr9/assets/163503847/975d8b85-6439-43e3-ba2e-5bfb07aa03ad)
+![image](https://github.com/ipr9/ipr9/assets/163503847/cf9f44d2-df63-4517-9cff-ff86cdc5b2fd)
+![image](https://github.com/ipr9/ipr9/assets/163503847/8c8f89ed-f112-4b72-9559-7e0df085d972)
+![image](https://github.com/ipr9/ipr9/assets/163503847/fbcb29c4-7b1b-4260-84e8-e014b464e97a)
+![image](https://github.com/ipr9/ipr9/assets/163503847/77d40e63-0bd5-405f-a817-6c6e7db14e70)
+![image](https://github.com/ipr9/ipr9/assets/163503847/c08e503c-44ca-4d3e-a7a4-91d861f94b3a)
+![image](https://github.com/ipr9/ipr9/assets/163503847/71eec9dc-d77c-4617-a33c-406f9f1e8d42)
+> 法律与道德，损失厌恶
+
+![image](https://github.com/ipr9/ipr9/assets/163503847/eaa6f1f1-4001-4844-94c4-dc452492ee07)
+![image](https://github.com/ipr9/ipr9/assets/163503847/12f387e8-d255-460e-8697-572a524f29ff)
+![image](https://github.com/ipr9/ipr9/assets/163503847/66375828-245a-4b90-9354-77f6780ecc49)
+![image](https://github.com/ipr9/ipr9/assets/163503847/1fc211da-63a4-4927-bcb3-545511cfb258)
+![image](https://github.com/ipr9/ipr9/assets/163503847/3e6dc3f6-7ca9-440a-98c8-0c433b0b80f0)
+> 你晕我倒
 
 
 
