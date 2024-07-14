@@ -1,5 +1,11 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
-> ahaip<sup>TM</sup> HWPM，人生是旅行，多结伴同行，全力以赴沉浸当下，从 ego 到 eco...
+> ahaip<sup>TM</sup>，人生是旅行，多结伴同行...
+
+![](https://github.com/user-attachments/assets/66c69044-9d68-4ac2-91de-393ce45e08ae)
+> HWPM<sup>TM</sup>，全力以赴沉浸当下，从 ego 到 eco...
+
+![](https://github.com/user-attachments/assets/b1e0c86b-a2df-4d85-8141-fb6d7635b9c3)
+> 相信、整合及依赖众人的力量，敢用师者霸，善用友者王，仅用徒者亡...
 
 ---
 
@@ -14,20 +20,26 @@
 为人搭台，补台及成人之美
 相信科学，尊重常识
 格局，品味，气质
-回甘，简洁，优雅...
+回甘，简洁，优雅
+...
 ```
 
 ---
 
 # Evolution
 
+![](https://github.com/user-attachments/assets/ff640c56-97c1-42d3-859e-1465e3b4d4f6)
 > 一切都是大脑神经连接🔗，持续构建及刷新
 
-> 一切都会过去，一切都会来到，好产品不愁卖，好作品会说话
+![](https://github.com/user-attachments/assets/eddc065f-44bd-40d2-bf83-582a73ca2924)
+> 一切都会过去，一切都会来到
+
+![](https://github.com/user-attachments/assets/c44dac35-012c-4a39-912d-3e3682f8407c)
+> 好产品不愁卖，好作品会说话，化整为零，各个击破，模块：有成熟的解决方案的局部
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
 <img width="1207" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/d0ef663a-b01a-42e7-aa33-484d824d1e0d">
-![image](https://github.com/ipr9/ipr9/assets/163503847/5cf93b4a-9548-48dd-8c78-826641f5bf65)
+![](https://github.com/ipr9/ipr9/assets/163503847/5cf93b4a-9548-48dd-8c78-826641f5bf65)
 
 1. **使命**：创造和运用知识产权，助力公司经营及发展
 2. **愿景**：成为产业界具有影响力的知识产权实务专家
@@ -108,10 +120,11 @@
 
 ---
 
-![image](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
-![image](https://github.com/ipr9/ipr9/assets/163503847/8b7e1a6f-b4e6-4fbe-9eeb-db4e664a696d)
+![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
+![](https://github.com/ipr9/ipr9/assets/163503847/8b7e1a6f-b4e6-4fbe-9eeb-db4e664a696d)
 > Make it Possible 通往山顶的路有很多，选择最难、也最有价值的一条。
 
+![](https://github.com/user-attachments/assets/5ed821ee-3c9f-4277-82e3-75c3c4286d72)
 > 能成为顶尖选手并没有什么秘诀，而是对可能是基本技能的东西有更深刻的理解，技术、法律、商务、人性...
 
 ---
