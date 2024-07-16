@@ -1,8 +1,8 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
-> ahaip<sup>TM</sup>，人生是旅行，多结伴同行...
+> ahaip<sup>TM</sup>，人生是**旅行**，多**结伴同行**...
 
 ![](https://github.com/user-attachments/assets/66c69044-9d68-4ac2-91de-393ce45e08ae)
-> HWPM<sup>TM</sup>，全力以赴沉浸当下，从 ego 到 eco...
+> HWPM<sup>TM</sup>，全力以赴**沉浸当下**<sub>TM</sub>，从 ego 到 **eco**...
 
 ![](https://github.com/user-attachments/assets/b1e0c86b-a2df-4d85-8141-fb6d7635b9c3)
 > 相信、整合及依赖众人的力量，敢用师者霸，善用友者王，仅用徒者亡...
@@ -29,13 +29,13 @@
 # Evolution
 
 ![](https://github.com/user-attachments/assets/ff640c56-97c1-42d3-859e-1465e3b4d4f6)
-> 一切都是大脑神经连接🔗，持续构建及刷新
+> 一切都是**大脑神经连接**🔗，从 0 到 1，持续构建及刷新，复杂事情**简单**化，简单事情**重复**做，复利的力量
 
 ![](https://github.com/user-attachments/assets/eddc065f-44bd-40d2-bf83-582a73ca2924)
-> 一切都会过去，一切都会来到
+> 一切都会过去，一切都会来到，跳出来**思考**，走出去**行动**，化整为零，各个击破，**模块**：有成熟的解决方案的局部
 
 ![](https://github.com/user-attachments/assets/c44dac35-012c-4a39-912d-3e3682f8407c)
-> 好产品不愁卖，好作品会说话，化整为零，各个击破，模块：有成熟的解决方案的局部
+> 好**产品**不愁卖，好**作品**会说话
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
 <img width="1207" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/d0ef663a-b01a-42e7-aa33-484d824d1e0d">
@@ -82,7 +82,7 @@
   <table>
   <tr><td>自己就是最好的解决方案，唯手熟尔</td></tr>
   <tr><td>选择维度：行业，公司，领导，机会</td></tr>
-  <tr><td>体系/类比：如四位一体、三步六法...插头与插座、登山与布局...</td></tr>  
+  <tr><td>体系/类比：如五位一体、三步六法...插头与插座、登山与布局...</td></tr>  
   <tr><td>价值交换：人生的价值在于奉献，金钱/成功只是价值的副产品，而不是目标</td></tr>
   <tr><td>化繁为简，静水流深，深度思考，积蓄能量，三思而行，整合资源，聚焦于目标及快速达成，领导力是动员群众解决难题...</td></tr>
   <tr><td>管理的本质：激发和释放每一个人的善意，通过成就他人来成就自己，故事力，通过讲故事来影响及启发团队，从事到人，从实到虚，从近到远，从令到辅</td></tr>  
@@ -98,13 +98,10 @@
 <details>
 <summary>个人爱好，生活乐趣</summary>
   <table>
-  <tr><td>读书📚思考🤔</td></tr>
-  <tr><td>数码📷摄影</td></tr>
-  <tr><td>音乐🎵</td></tr>
-  <tr><td>徒步✈️旅行</td></tr>   
-  <tr><td>篮球🏀</td></tr> 
-  <tr><td>游泳🏊‍♀️</td></tr> 
-  <tr><td>军事🚢</td></tr> 
+  <tr><td>读书📚思考🤔，穿越时代，跨越东西，打开心窗，读自己</td></tr>
+  <tr><td>数码📷摄影，见证及记录美好瞬间</td></tr>
+  <tr><td>音乐🎵篮球🏀，时代记录，直击灵魂，青春激情❤️‍🔥</td></tr>
+  <tr><td>徒步✈️旅行，见多识广</td></tr>   
   </table>
 </details>
 
@@ -112,9 +109,9 @@
 <summary>心流事项</summary>
   <table>
   <tr><td>沉浸式读书思考</td></tr>
+  <tr><td>解决难题或挑战</td></tr>
   <tr><td>培训分享/头脑风暴</td></tr>
-  <tr><td>专利撰写/审核</td></tr>
-  <tr><td>报告/资讯撰写</td></tr>   
+  <tr><td>专利/报告/资讯撰写</td></tr>   
   </table>
 </details>
 
