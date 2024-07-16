@@ -1,10 +1,9 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 > ahaip<sup>TM</sup>，人生是**旅行**，多**结伴同行**...
 
-![](https://github.com/user-attachments/assets/66c69044-9d68-4ac2-91de-393ce45e08ae)
 > HWPM<sup>TM</sup>，全力以赴**沉浸当下**<sub>TM</sub>，从 ego 到 **eco**...
 
-![](https://github.com/user-attachments/assets/b1e0c86b-a2df-4d85-8141-fb6d7635b9c3)
+![](https://github.com/user-attachments/assets/c44dac35-012c-4a39-912d-3e3682f8407c)
 > 相信、整合及依赖众人的力量，敢用师者霸，善用友者王，仅用徒者亡...
 
 ---
@@ -21,6 +20,7 @@
 相信科学，尊重常识
 格局，品味，气质
 回甘，简洁，优雅
+体验颗粒度，精细化
 ...
 ```
 
@@ -28,13 +28,10 @@
 
 # Evolution
 
-![](https://github.com/user-attachments/assets/ff640c56-97c1-42d3-859e-1465e3b4d4f6)
 > 一切都是**大脑神经连接**🔗，从 0 到 1，持续构建及刷新，复杂事情**简单**化，简单事情**重复**做，复利的力量
 
-![](https://github.com/user-attachments/assets/eddc065f-44bd-40d2-bf83-582a73ca2924)
 > 一切都会过去，一切都会来到，跳出来**思考**，走出去**行动**，化整为零，各个击破，**模块**：有成熟的解决方案的局部
 
-![](https://github.com/user-attachments/assets/c44dac35-012c-4a39-912d-3e3682f8407c)
 > 好**产品**不愁卖，好**作品**会说话
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
@@ -122,6 +119,7 @@
 > Make it Possible 通往山顶的路有很多，选择最难、也最有价值的一条。
 
 ![](https://github.com/user-attachments/assets/5ed821ee-3c9f-4277-82e3-75c3c4286d72)
+![](https://github.com/user-attachments/assets/ff640c56-97c1-42d3-859e-1465e3b4d4f6)
 > 能成为顶尖选手并没有什么秘诀，而是对可能是基本技能的东西有更深刻的理解，技术、法律、商务、人性...
 
 ---
