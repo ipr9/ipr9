@@ -129,6 +129,10 @@
 
 # Record
 
+![](https://github.com/user-attachments/assets/03cc9862-98ce-477f-97cf-44f7b1fc8296)
+![](https://github.com/user-attachments/assets/185af5ef-9d5b-43d0-b547-d859d26ec396)
+
+
 | 年份  | 月份 | 周数 | 日数 |
 | ----- |  :------:  |  :------:  | :------:   |
 | 2024     | 3       | 4        | 30         |
