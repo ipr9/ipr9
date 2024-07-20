@@ -1,7 +1,8 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 > ahaip<sup>TM</sup>，人生是**旅行**，多**结伴同行**...
 
-> HWPM<sup>TM</sup>，全力以赴**沉浸当下**<sub>TM</sub>，从 ego 到 **eco**...
+![](https://github.com/user-attachments/assets/0e1fdb6b-80af-47a0-b5b5-d26c78c6ed16)
+> HWPM<sup>TM</sup>，WWH、MVP...全力以赴**沉浸当下**<sub>TM</sub>，从 ego 到 **eco**...
 
 ![](https://github.com/user-attachments/assets/c44dac35-012c-4a39-912d-3e3682f8407c)
 > **实事求是**，**知己知彼**，相信、整合及依赖众人的力量，敢用师者霸，善用友者王，仅用徒者亡...
@@ -49,8 +50,8 @@
 <details>
 <summary>用户是谁？</summary>
   <table>
-  <tr><td>内部：业务，领导/老板，团队，客户...</td></tr>
-  <tr><td>外部：官方/服务机构...</td></tr>
+  <tr><td>内部：业务，领导，老板，团队，客户...</td></tr>
+  <tr><td>外部：官方，服务机构...</td></tr>
   </table>
 </details>
 
@@ -161,6 +162,7 @@
 | 2024     | 7       | 1         | 06         |
 | 2024     | 7       | 1         | 07         |
 | 2024     | 7       | 2         | 14         |
+| 2024     | 7       | 3         | 20         |
 
 # Reference
 
