@@ -22,6 +22,7 @@
 格局，品味，气质
 回甘，简洁，优雅
 体验颗粒度，精细化
+视觉、听觉及味觉层次感，品味
 井底蛙，池中鱼，空中鹰
 自信乐观，平等尊重，谦卑豁达
 ...
@@ -132,6 +133,10 @@
 ![](https://github.com/user-attachments/assets/03cc9862-98ce-477f-97cf-44f7b1fc8296)
 ![](https://github.com/user-attachments/assets/185af5ef-9d5b-43d0-b547-d859d26ec396)
 > 7月第3周21号，[3721](https://aha3721.com)
+
+<img width="1303" alt="image" src="https://github.com/user-attachments/assets/f53ef96f-1c1c-4b5b-8a63-0e8e1ea131c7">
+<img width="1303" alt="image" src="https://github.com/user-attachments/assets/b179606b-f5a0-4ec1-a7e3-b3bee0bc581f">
+> It‘s my relax time
 
 | 年份  | 月份 | 周数 | 日数 |
 | ----- |  :------:  |  :------:  | :------:   |
