@@ -38,6 +38,8 @@
 
 > 好**产品**不愁卖，好**作品**会说话，不故意犯错，错不二犯
 
+> 走出去行动，跳出来思考，抽离出来，去思考，去观察，去体验，工作是生活的一部分，是为了让自己及家人生活得更美好
+
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
 <img width="1207" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/d0ef663a-b01a-42e7-aa33-484d824d1e0d">
 ![](https://github.com/ipr9/ipr9/assets/163503847/5cf93b4a-9548-48dd-8c78-826641f5bf65)
