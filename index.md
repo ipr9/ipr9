@@ -134,8 +134,9 @@
 ![](https://github.com/user-attachments/assets/185af5ef-9d5b-43d0-b547-d859d26ec396)
 > 7月第3周21号，[3721](https://aha3721.com)
 
-<img width="1577" alt="image" src="https://github.com/user-attachments/assets/9ff15d10-f29b-4dfc-bf94-7f09b7de3e38">
-<img width="1303" alt="image" src="https://github.com/user-attachments/assets/b179606b-f5a0-4ec1-a7e3-b3bee0bc581f">
+
+![](https://github.com/user-attachments/assets/9ff15d10-f29b-4dfc-bf94-7f09b7de3e38)
+![](https://github.com/user-attachments/assets/b179606b-f5a0-4ec1-a7e3-b3bee0bc581f)
 > relax, moment of calm
 
 
