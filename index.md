@@ -19,6 +19,10 @@
 ![](https://github.com/user-attachments/assets/849e4140-5bc7-49dc-8e07-a1bab938cb0a)
 > 以简驭繁，真心诚意，以行践言...
 
+![](https://github.com/user-attachments/assets/0263f0e6-4209-46bc-8fde-ca4a10ef1354)
+![](https://github.com/user-attachments/assets/5eb39510-bb45-453d-b227-620b02f1b320)
+> 心有笃定，知行合一...
+
 ---
 
 ```
