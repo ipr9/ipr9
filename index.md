@@ -154,6 +154,10 @@
 > relax, moment of calm
 
 
+![](https://github.com/user-attachments/assets/9a68b6df-3b5e-4a1e-9b2f-7101b1733e66)
+> 所谓自由，就是一次超越自我的机会...
+
+
 | 年份  | 月份 | 周数 | 日数 |
 | ----- |  :------:  |  :------:  | :------:   |
 | 2024     | 3       | 4        | 30         |
