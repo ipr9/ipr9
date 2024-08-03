@@ -1,8 +1,10 @@
+
+
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 > ahaip<sup>TM</sup>，人生是**旅行**，多**结伴同行**，体验人间更多美好...
 
 ![](https://github.com/user-attachments/assets/0e1fdb6b-80af-47a0-b5b5-d26c78c6ed16)
-> HWPM<sup>TM</sup>，WWH、MVP...全力以赴**沉浸当下**<sub>TM</sub>，从 ego 到 **eco**...
+> HWPM<sup>TM</sup>，WWH、MVP、XYZ...全力以赴**沉浸当下**<sub>TM</sub>，从 ego 到 **eco**...
 
 ![](https://github.com/user-attachments/assets/25513b3c-297e-4cb5-bb05-3b0cb4ec8d5a)
 > **身心合一，知行合一，言行合一**，勇气...
@@ -11,7 +13,7 @@
 > **实事求是**，**知己知彼**，**以教促学，教学相长**，相信、整合及依赖众人的力量，敢用师者霸，善用友者王，仅用徒者亡...
 
 ![](https://github.com/user-attachments/assets/4764d59a-3db7-4869-a1d9-b85d7052711c)
-> 星光⭐✨不负赶路人...
+> 一切都会过去，一切都会来到，星光⭐✨不负赶路人...
 
 ![](https://github.com/user-attachments/assets/200e3006-f3f7-4bdf-b13b-c80426ff2108)
 <img width="1231" alt="image" src="https://github.com/user-attachments/assets/1d053cd6-8a1a-4640-b94a-2ca08cbaf4f8">
@@ -26,7 +28,7 @@
 ---
 
 ```
-观念，选择，行动
+信念/观念，选择，行动
 理性，沉浸，当下
 入眼，入耳，入脑
 坚持做难而正确的事
@@ -50,11 +52,11 @@
 
 > 一切都是**大脑神经连接**🔗，从 0 到 1，持续构建及刷新，复杂事情**简单**化，简单事情**重复**做，复利的力量
 
-> 一切都会过去，一切都会来到，跳出来**思考**，走出去**行动**，化整为零，各个击破，**模块**：有成熟的解决方案的局部
+> 跳出来**思考**，走出去**行动**，化整为零，各个击破，**模块**：有成熟的解决方案的局部
 
 > 好**产品**不愁卖，好**作品**会说话，不故意犯错，错不二犯
 
-> 走出去行动，跳出来思考，抽离出来，去思考，去观察，去体验，工作是生活的一部分，是为了让自己及家人生活得更美好
+> 抽离出来，去思考，去观察，去体验，工作是生活的一部分，是为了让自己及家人生活得更美好
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
 <img width="1207" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/d0ef663a-b01a-42e7-aa33-484d824d1e0d">
@@ -67,15 +69,15 @@
 ---
 
 <details>
-<summary>用户是谁？</summary>
+<summary>Who用户是谁？</summary>
   <table>
-  <tr><td>内部：业务，领导，老板，团队，客户...</td></tr>
-  <tr><td>外部：官方，服务机构...</td></tr>
+  <tr><td>内部：客户，业务，领导，团队...</td></tr>
+  <tr><td>外部：官方，服务机构，盟友...</td></tr>
   </table>
 </details>
 
 <details>
-<summary>为用户创造的价值/行业核心价值是什么？</summary>
+<summary>Why能创造的价值是什么？</summary>
   <table>
   <tr><td>风险防控</td></tr>
   <tr><td>商业竞争</td></tr>
@@ -84,20 +86,20 @@
 </details>
 
 <details>
-<summary>需要什么能力/经验/人脉？</summary>
+<summary>What需要什么能力/经验/人脉？</summary>
   <table>
   <tr><td>高级程序员（技术）📱</td></tr>
   <tr><td>专利代理师（法律）⚖️</td></tr>
   <tr><td>职业经理人（商务）🤝</td></tr>  
-  <tr><td>打造高价值专利资产</td></tr>
-  <tr><td>欧美印PCT等涉外业务</td></tr>
-  <tr><td>IP风险防控</td></tr>  
-  <tr><td>许可诉讼</td></tr>  
+  <tr><td>IP储备：打造SEP、国内及海外高价值专利资产</td></tr>
+  <tr><td>IP运营：许可诉讼、并购、专项需求</td></tr>
+  <tr><td>IP风控：内部（研发、销售、采购、人力等）、外部（展会、海关、认证等）</td></tr>  
+  <tr><td></td></tr>  
   </table>
 </details>
 
 <details>
-<summary>如何获得相应的能力/经验/人脉？</summary>
+<summary>How如何获得相应的能力/经验/人脉？</summary>
   <table>
   <tr><td>自己就是最好的解决方案，唯手熟尔</td></tr>
   <tr><td>选择维度：行业，公司，领导，机会</td></tr>
@@ -199,6 +201,7 @@
 | 2024     | 7       | 3         | 21         |
 | 2024     | 7       | 4         | 27         |
 | 2024     | 7       | 4         | 28         |
+| 2024     | 8       | 1         | 3         |
 
 # Reference
 
