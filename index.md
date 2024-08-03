@@ -23,6 +23,7 @@
 
 ![](https://github.com/user-attachments/assets/0263f0e6-4209-46bc-8fde-ca4a10ef1354)
 ![](https://github.com/user-attachments/assets/5eb39510-bb45-453d-b227-620b02f1b320)
+![](https://github.com/user-attachments/assets/7bb00379-95a5-4399-ae53-7e2fce55ea72)
 > 心有笃定，知行合一...
 
 ---
@@ -62,6 +63,7 @@ Only One, One by One
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
 <img width="1207" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/d0ef663a-b01a-42e7-aa33-484d824d1e0d">
 ![](https://github.com/ipr9/ipr9/assets/163503847/5cf93b4a-9548-48dd-8c78-826641f5bf65)
+![](https://github.com/user-attachments/assets/f0fd0f1c-fdc0-40c5-a162-eff0f3f92a74)
 
 1. **使命**：创造和运用知识产权，助力公司经营及发展
 2. **愿景**：成为产业界具有影响力的知识产权实务专家
