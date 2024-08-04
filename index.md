@@ -24,6 +24,8 @@
 ![](https://github.com/user-attachments/assets/0263f0e6-4209-46bc-8fde-ca4a10ef1354)
 ![](https://github.com/user-attachments/assets/5eb39510-bb45-453d-b227-620b02f1b320)
 ![](https://github.com/user-attachments/assets/7bb00379-95a5-4399-ae53-7e2fce55ea72)
+![](https://github.com/user-attachments/assets/ee94a870-ee46-40b5-b04d-2885a79ec0c9)
+![](https://github.com/user-attachments/assets/1ce2ae12-b45e-43b7-82a9-fb927065c542)
 > 心有笃定，知行合一...
 
 ---
@@ -206,6 +208,7 @@ Only One, One by One
 | 2024     | 7       | 4         | 27         |
 | 2024     | 7       | 4         | 28         |
 | 2024     | 8       | 1         | 3         |
+| 2024     | 8       | 1         | 4         |
 
 # Reference
 
