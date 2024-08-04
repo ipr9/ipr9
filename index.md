@@ -167,6 +167,7 @@ Only One, One by One
 
 ![](https://github.com/user-attachments/assets/e65dcaf0-d372-41ac-855c-4f6275e010bc)
 ![](https://github.com/user-attachments/assets/9a68b6df-3b5e-4a1e-9b2f-7101b1733e66)
+![](https://github.com/user-attachments/assets/566517a6-8c82-423b-a282-15eff926327d)
 > 所谓自由，就是一次超越自我的机会...
 
 
