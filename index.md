@@ -26,7 +26,11 @@
 ![](https://github.com/user-attachments/assets/7bb00379-95a5-4399-ae53-7e2fce55ea72)
 ![](https://github.com/user-attachments/assets/ee94a870-ee46-40b5-b04d-2885a79ec0c9)
 ![](https://github.com/user-attachments/assets/1ce2ae12-b45e-43b7-82a9-fb927065c542)
-> 心有笃定，知行合一...
+![](https://github.com/user-attachments/assets/c7254109-5315-48ab-9000-bc17f1e41a0f)
+![](https://github.com/user-attachments/assets/df39d425-68db-4d54-89fa-d270aeb3b217)
+![](https://github.com/user-attachments/assets/e34fb7ae-333f-4363-9aa0-0d1fea1857c2)
+![](https://github.com/user-attachments/assets/bf984cbb-50a6-4a44-8a09-862e14bdb069)
+> 心有笃定，知行合一，稳住能赢...
 
 ---
 
