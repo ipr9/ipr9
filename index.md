@@ -51,6 +51,16 @@ Only One, One by One
 视觉、听觉及味觉层次感，品味
 井底蛙，池中鱼，空中鹰
 自信乐观，平等尊重，谦卑豁达
+定位，分寸，通透
+识不足则多虑
+威不足则多怒
+信不足则多言
+不谋万世者，不足谋一时
+不谋全局者，不足谋一域
+君子求诸己，小人求诸人
+井蛙不可以语于海者，拘于虚也
+夏虫不可以语于冰者，笃于时也
+曲士不可以语于道者，束于教也
 ...
 ```
 
@@ -62,7 +72,7 @@ Only One, One by One
 
 > 三思而后行，思危思变思退，人财务，跳出来**思考**，走出去**行动**，化整为零，各个击破，**模块**：有成熟的解决方案的局部
 
-> 好**产品**不愁卖，好**作品**会说话，不故意犯错，错不二犯
+> 好**产品**不愁卖，好**作品**会说话，不故意犯错，错不二犯，成年人，心中只有目标。自己想办法拆解、推进、交付结果。开诚布公，实话实说，交付结果。
 
 > 抽离出来，去思考，去观察，去体验，工作是生活的一部分，是为了让自己及家人生活得更美好
 
@@ -169,11 +179,20 @@ Only One, One by One
 ![](https://github.com/user-attachments/assets/b179606b-f5a0-4ec1-a7e3-b3bee0bc581f)
 > relax, moment of calm
 
-
+![](https://github.com/user-attachments/assets/83b1337c-c18e-43e2-ba3d-023ddfe3d24e)
 ![](https://github.com/user-attachments/assets/e65dcaf0-d372-41ac-855c-4f6275e010bc)
 ![](https://github.com/user-attachments/assets/9a68b6df-3b5e-4a1e-9b2f-7101b1733e66)
 ![](https://github.com/user-attachments/assets/566517a6-8c82-423b-a282-15eff926327d)
+![](https://github.com/user-attachments/assets/23ab9563-5c4d-437b-9e36-3a62d45f02c0)
 > 所谓自由，就是一次超越自我的机会...
+
+![](https://github.com/user-attachments/assets/45b2bfd8-f769-4d46-9b2f-e24487ec4404)
+![](https://github.com/user-attachments/assets/ced84d15-8ad9-487c-93de-520cd08756da)
+> Mr.Time，时间的朋友，一起见证aha 时刻
+
+![](https://github.com/user-attachments/assets/cc91715b-c61e-4c01-8ea7-ce1e41c64c6d)
+![](https://github.com/user-attachments/assets/df9e3a5c-d003-4129-8d8b-280d09482c30)
+> 不忘初心，方得始终
 
 
 | 年份  | 月份 | 周数 | 日数 |
@@ -215,6 +234,7 @@ Only One, One by One
 | 2024     | 7       | 4         | 28         |
 | 2024     | 8       | 1         | 3         |
 | 2024     | 8       | 1         | 4         |
+| 2024     | 8       | 2         | 10         |
 
 # Reference
 
