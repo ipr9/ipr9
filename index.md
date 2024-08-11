@@ -32,6 +32,13 @@
 ![](https://github.com/user-attachments/assets/bf984cbb-50a6-4a44-8a09-862e14bdb069)
 > 心有笃定，知行合一，稳住能赢...
 
+![](https://github.com/user-attachments/assets/35c2984b-90d6-4f0e-bfbe-37b99a519cf2)
+![](https://github.com/user-attachments/assets/455f9028-3b24-4e05-a92e-476e0bb610e4)
+![](https://github.com/user-attachments/assets/1390163e-505e-4562-9588-4a7455d14040)
+![](https://github.com/user-attachments/assets/6bb7b97f-3f33-4c70-8c02-cbd69eaa4771)
+![](https://github.com/user-attachments/assets/b99fb9b9-7bb8-4e7b-9800-42e592b49476)
+> 能量场，Charge，Refresh，日拱一卒，功不唐捐，天道酬勤
+
 ---
 
 ```
@@ -75,6 +82,8 @@ Only One, One by One
 > 好**产品**不愁卖，好**作品**会说话，不故意犯错，错不二犯，成年人，心中只有目标。自己想办法拆解、推进、交付结果。开诚布公，实话实说，交付结果。
 
 > 抽离出来，去思考，去观察，去体验，工作是生活的一部分，是为了让自己及家人生活得更美好
+
+> 简单是最极致的美，简洁美 
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
 <img width="1207" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/d0ef663a-b01a-42e7-aa33-484d824d1e0d">
@@ -235,6 +244,7 @@ Only One, One by One
 | 2024     | 8       | 1         | 3         |
 | 2024     | 8       | 1         | 4         |
 | 2024     | 8       | 2         | 10         |
+| 2024     | 8       | 2         | 11         |
 
 # Reference
 
