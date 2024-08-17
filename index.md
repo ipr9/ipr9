@@ -86,10 +86,6 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/8b7e1a6f-b4e6-4fbe-9eeb-db4e664a696d)
 > Make it Possible 通往山顶的路有很多，选择最难、也最有价值的一条。
 
-![](https://github.com/user-attachments/assets/5ed821ee-3c9f-4277-82e3-75c3c4286d72)
-![](https://github.com/user-attachments/assets/ff640c56-97c1-42d3-859e-1465e3b4d4f6)
-> 能成为顶尖选手并没有什么秘诀，而是对可能是基本技能的东西有更深刻的理解，技术、法律、商务、人性...
-
 ---
 
 # Record
