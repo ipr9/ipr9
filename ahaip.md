@@ -1,3 +1,123 @@
+
+
+![](https://github.com/user-attachments/assets/0e1fdb6b-80af-47a0-b5b5-d26c78c6ed16)
+> HWPM<sup>TM</sup>，WWH、MVP、XYZ...全力以赴**沉浸当下**<sub>TM</sub>，从 ego 到 **eco**...
+
+![](https://github.com/user-attachments/assets/9273f5ae-c30b-4096-af1e-791f05b70c20)
+![](https://github.com/user-attachments/assets/1a396343-beda-4308-80d9-017b04b50d7a)
+![](https://github.com/user-attachments/assets/e34cc888-f953-4ae6-b52e-792f736a8030)
+![](https://github.com/user-attachments/assets/8c1cf323-00d8-470f-bba9-9fa6f8ffad21)
+> 运动多巴胺——微醺，鹰骨鸽形，胸怀境界...
+
+![](https://github.com/user-attachments/assets/25513b3c-297e-4cb5-bb05-3b0cb4ec8d5a)
+> **身心合一，知行合一，言行合一**，勇气...
+
+![](https://github.com/user-attachments/assets/c44dac35-012c-4a39-912d-3e3682f8407c)
+> **实事求是**，**知己知彼**，**以教促学，教学相长**，相信、整合及依赖众人的力量，敢用师者霸，善用友者王，仅用徒者亡...
+
+![](https://github.com/user-attachments/assets/4764d59a-3db7-4869-a1d9-b85d7052711c)
+> 一切都会过去，一切都会来到，something bigger than yourself, 星光⭐✨不负赶路人...
+
+![](https://github.com/user-attachments/assets/200e3006-f3f7-4bdf-b13b-c80426ff2108)
+<img width="1231" alt="image" src="https://github.com/user-attachments/assets/1d053cd6-8a1a-4640-b94a-2ca08cbaf4f8">
+![](https://github.com/user-attachments/assets/5a80c75f-68ee-487f-bb2d-7e6a92f0d810)
+![](https://github.com/user-attachments/assets/849e4140-5bc7-49dc-8e07-a1bab938cb0a)
+> 以简驭繁，真心诚意，以行践言...
+
+![](https://github.com/user-attachments/assets/0263f0e6-4209-46bc-8fde-ca4a10ef1354)
+![](https://github.com/user-attachments/assets/5eb39510-bb45-453d-b227-620b02f1b320)
+![](https://github.com/user-attachments/assets/7bb00379-95a5-4399-ae53-7e2fce55ea72)
+![](https://github.com/user-attachments/assets/ee94a870-ee46-40b5-b04d-2885a79ec0c9)
+![](https://github.com/user-attachments/assets/1ce2ae12-b45e-43b7-82a9-fb927065c542)
+![](https://github.com/user-attachments/assets/c7254109-5315-48ab-9000-bc17f1e41a0f)
+![](https://github.com/user-attachments/assets/df39d425-68db-4d54-89fa-d270aeb3b217)
+![](https://github.com/user-attachments/assets/e34fb7ae-333f-4363-9aa0-0d1fea1857c2)
+![](https://github.com/user-attachments/assets/bf984cbb-50a6-4a44-8a09-862e14bdb069)
+> 心有笃定，知行合一，稳住能赢...
+
+![](https://github.com/user-attachments/assets/35c2984b-90d6-4f0e-bfbe-37b99a519cf2)
+![](https://github.com/user-attachments/assets/455f9028-3b24-4e05-a92e-476e0bb610e4)
+![](https://github.com/user-attachments/assets/1390163e-505e-4562-9588-4a7455d14040)
+![](https://github.com/user-attachments/assets/6bb7b97f-3f33-4c70-8c02-cbd69eaa4771)
+![](https://github.com/user-attachments/assets/b99fb9b9-7bb8-4e7b-9800-42e592b49476)
+> 能量场，Charge，Refresh，日拱一卒，功不唐捐，天道酬勤
+
+---
+
+```
+信念/观念，选择，行动
+理性，沉浸，当下
+入眼，入耳，入脑
+Only One, One by One
+坚持做难而正确的事
+少有，正确，价值
+先帮他人解决问题
+强者温柔、平和及谦卑
+为人搭台，补台及成人之美
+相信科学，尊重常识
+格局，品味，气质
+回甘，简洁，优雅
+体验颗粒度，精细化
+视觉、听觉及味觉层次感，品味
+井底蛙，池中鱼，空中鹰
+自信乐观，平等尊重，谦卑豁达
+定位，分寸，通透
+识不足则多虑
+威不足则多怒
+信不足则多言
+不谋万世者，不足谋一时
+不谋全局者，不足谋一域
+君子求诸己，小人求诸人
+井蛙不可以语于海者，拘于虚也
+夏虫不可以语于冰者，笃于时也
+曲士不可以语于道者，束于教也
+真诚，成事
+...
+```
+
+---
+
+> 一切都是**大脑神经连接**🔗，从 0 到 1，持续构建及刷新，复杂事情**简单**化，简单事情**重复**做，复利的力量
+
+> 三思而后行，思危思变思退，人财务，跳出来**思考**，走出去**行动**，化整为零，各个击破，**模块**：有成熟的解决方案的局部
+
+> 好**产品**不愁卖，好**作品**会说话，不故意犯错，错不二犯，成年人，心中只有目标。自己想办法拆解、推进、交付结果。开诚布公，实话实说，交付结果。
+
+> 抽离出来，去思考，去观察，去体验，工作是生活的一部分，是为了让自己及家人生活得更美好
+
+> 简单是最极致的美，简洁美 
+
+![](https://github.com/ipr9/ipr9/assets/163503847/b5ef24d8-6bd9-43ab-bde3-7856cdfa5f31)
+<img width="1207" alt="image" src="https://github.com/ipr9/ipr9/assets/163503847/d0ef663a-b01a-42e7-aa33-484d824d1e0d">
+![](https://github.com/ipr9/ipr9/assets/163503847/5cf93b4a-9548-48dd-8c78-826641f5bf65)
+![](https://github.com/user-attachments/assets/f0fd0f1c-fdc0-40c5-a162-eff0f3f92a74)
+
+
+![](https://github.com/user-attachments/assets/03cc9862-98ce-477f-97cf-44f7b1fc8296)
+![](https://github.com/user-attachments/assets/185af5ef-9d5b-43d0-b547-d859d26ec396)
+> 7月第3周21号，[3721](https://aha3721.com)
+
+
+![](https://github.com/user-attachments/assets/9ff15d10-f29b-4dfc-bf94-7f09b7de3e38)
+![](https://github.com/user-attachments/assets/b179606b-f5a0-4ec1-a7e3-b3bee0bc581f)
+> relax, moment of calm
+
+![](https://github.com/user-attachments/assets/83b1337c-c18e-43e2-ba3d-023ddfe3d24e)
+![](https://github.com/user-attachments/assets/e65dcaf0-d372-41ac-855c-4f6275e010bc)
+![](https://github.com/user-attachments/assets/9a68b6df-3b5e-4a1e-9b2f-7101b1733e66)
+![](https://github.com/user-attachments/assets/566517a6-8c82-423b-a282-15eff926327d)
+![](https://github.com/user-attachments/assets/23ab9563-5c4d-437b-9e36-3a62d45f02c0)
+> 所谓自由，就是一次超越自我的机会...
+
+![](https://github.com/user-attachments/assets/45b2bfd8-f769-4d46-9b2f-e24487ec4404)
+![](https://github.com/user-attachments/assets/ced84d15-8ad9-487c-93de-520cd08756da)
+> Mr.Time，时间的朋友，一起见证aha 时刻
+
+![](https://github.com/user-attachments/assets/cc91715b-c61e-4c01-8ea7-ce1e41c64c6d)
+![](https://github.com/user-attachments/assets/df9e3a5c-d003-4129-8d8b-280d09482c30)
+> 不忘初心，方得始终
+
+
 > 缘分一场，且行且珍惜，多沉浸式、深度体验及品味人生百态，酸甜苦辣，五颜六色，丰富多彩
 
 ---
