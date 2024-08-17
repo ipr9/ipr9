@@ -10,7 +10,6 @@
 ![](https://github.com/user-attachments/assets/1a396343-beda-4308-80d9-017b04b50d7a)
 ![](https://github.com/user-attachments/assets/e34cc888-f953-4ae6-b52e-792f736a8030)
 ![](https://github.com/user-attachments/assets/8c1cf323-00d8-470f-bba9-9fa6f8ffad21)
-![](https://github.com/user-attachments/assets/f244d478-cde6-49a3-be7e-e70e4b78d108)
 > 运动多巴胺——微醺，鹰骨鸽形，胸怀境界...
 
 ![](https://github.com/user-attachments/assets/25513b3c-297e-4cb5-bb05-3b0cb4ec8d5a)
@@ -75,6 +74,7 @@ Only One, One by One
 井蛙不可以语于海者，拘于虚也
 夏虫不可以语于冰者，笃于时也
 曲士不可以语于道者，束于教也
+真诚，成事
 ...
 ```
 
@@ -252,6 +252,7 @@ Only One, One by One
 | 2024     | 8       | 1         | 4         |
 | 2024     | 8       | 2         | 10         |
 | 2024     | 8       | 2         | 11         |
+| 2024     | 8       | 3         | 17         |
 
 # Reference
 
