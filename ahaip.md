@@ -162,6 +162,10 @@ Only One, One by One
 
 ---
 
+![](https://github.com/user-attachments/assets/5ed821ee-3c9f-4277-82e3-75c3c4286d72)
+![](https://github.com/user-attachments/assets/ff640c56-97c1-42d3-859e-1465e3b4d4f6)
+> 能成为顶尖选手并没有什么秘诀，而是对可能是基本技能的东西有更深刻的理解，技术、法律、商务、人性...
+
 
 > 胸怀梦想及美好，全局长远，脚踏实地，深度思考及体验...
 
