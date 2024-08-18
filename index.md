@@ -1,7 +1,7 @@
 
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
-> ahaip<sup>TM</sup>，人生是**旅行**，多**结伴同行**，体验人间更多美好...
+> ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，体验人间更多美好...
 
 # Evolution
 
