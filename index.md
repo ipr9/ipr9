@@ -90,6 +90,9 @@
 
 # Record
 
+![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
+![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
+> 理性沉浸当下，化整为零各个击破，你不是一个人在战斗，一切都会过去...
 
 
 | 年份  | 月份 | 周数 | 日数 |
