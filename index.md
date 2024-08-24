@@ -30,9 +30,8 @@
 ![](https://github.com/user-attachments/assets/fbf9585f-f8ce-49de-b59b-bf034089f09e)
 >  “Is there a way to get X done without doing this work at all?” Surprisingly, sometimes the answer is “yes”.
 
-慢就是稳，稳就是快。（Slow is smooth, smooth is fast.）
--- [海豹突击队的口号](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
-
+![](https://github.com/user-attachments/assets/23ab9563-5c4d-437b-9e36-3a62d45f02c0)
+> [慢就是稳，稳就是快。Slow is smooth, smooth is fast.](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
 
 # Reference
 
