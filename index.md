@@ -27,6 +27,9 @@
 3. 运动产生多巴胺，冥想带回注意力
 4. 秩序，节奏，人性，少就是多，快就是慢...
 
+慢就是稳，稳就是快。（Slow is smooth, smooth is fast.）
+-- [海豹突击队的口号](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
+
 
 # Reference
 
