@@ -1,5 +1,4 @@
 
-
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 > ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，更精细体验人间更多美好...
 
@@ -35,6 +34,9 @@
 
 ![](https://github.com/user-attachments/assets/23ab9563-5c4d-437b-9e36-3a62d45f02c0)
 > [慢就是稳，稳就是快。Slow is smooth, smooth is fast.](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
+
+![](https://github.com/user-attachments/assets/347e3535-9d75-4e9c-bab9-6b2ff84aedfb)
+
 
 # Reference
 
