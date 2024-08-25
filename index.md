@@ -1,6 +1,6 @@
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
-> ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，更精细体验人间更多美好...
+> ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，更深度体验人间更多美好...
 
 # Evolution
 
@@ -15,7 +15,7 @@
 ---
 
 ![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
-> 理性沉浸当下，化整为零各个击破，你不是一个人在战斗，一切都会过去...
+> 理性沉浸当下，化整为零各个击破，凡事预则立不预则废，不打无准备之仗，天助自助者，你不是一个人在战斗，一切都会过去...
 
 ![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
 > 事情关系利益，领导力：动员群众解决难题；管理的本质：激发和释放每一个人的善意，通过成就他人来成就自己...
@@ -35,8 +35,10 @@
 ![](https://github.com/user-attachments/assets/23ab9563-5c4d-437b-9e36-3a62d45f02c0)
 > [慢就是稳，稳就是快。Slow is smooth, smooth is fast.](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
 
+![](https://github.com/user-attachments/assets/2f422a19-5891-423a-849e-1f234c84deef)
 ![](https://github.com/user-attachments/assets/347e3535-9d75-4e9c-bab9-6b2ff84aedfb)
-
+![](https://github.com/user-attachments/assets/5173eff7-c003-4bdf-8c90-c1a729f1b0a0)
+> 自律自控，注意力，言行举止，空白gap，跳出来思考，走出去行动，一张一弛，张弛有度，达之道也...
 
 # Reference
 
