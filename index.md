@@ -27,7 +27,8 @@
 1. 进化大脑，放松的本质：思维模式的切换
 2. 激发善意，导向行动，创造价值：信任，支持及授权（欣赏的激励）
 3. 运动产生多巴胺，冥想带回注意力
-4. 秩序，节奏，人性，少就是多，快就是慢...
+4. 激荡情怀，志向不改，信念不衰，逍遥自在
+5. 秩序，节奏，人性，少就是多，快就是慢...
 
 ![](https://github.com/user-attachments/assets/fbf9585f-f8ce-49de-b59b-bf034089f09e)
 >  “Is there a way to get X done without doing this work at all?” Surprisingly, sometimes the answer is “yes”.
