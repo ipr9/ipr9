@@ -121,13 +121,64 @@
 
 ---
 
+
+![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
+![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
+> 理性沉浸当下，Now，此时、此地、此人、此事，你眼里的他人才是自己，一切都会过去，一切都会来到
+
+进化大脑，升级OS
+放松的本质：思维模式的切换
+运动产生多巴胺，冥想带回注意力
+Only One & No.1，一天干好一件事，把最为重要的事情闭环好
+二八原则，若无必要，勿增实体，不在非战略地方浪费战略资源
+这是我的事情（经历成长，价值意义，业绩回报），最困难的我先打个样板（定海神针）
+缓缓，沉浸，专注，冥想，深度，事情关系利益，战略，战术，先想通透，身先士卒，扬长避短
+平等及尊重任何人，深度思考，高效执行，建设性沟通，就事论事，通透平和
+721原则，持续突破上限，这是最为重要及开心的事情
+人是社会学动物，人是所有社会关系的总和，格局高度，远见卓识，健康家人事业（人和人的关系）
+人终归一死：价值奉献，基因传承，品质生活，大胸怀，大格局，大手笔，上山下山埋山
+沟通及信任成本，有话好好说，人性，抓住要害
+一步一步，一件一件，一口一口，一天一天
+自律自控，注意力，言行举止，空白gap，跳出来思考，走出去行动，一张一弛，张弛有度，达之道也...
+激荡情怀，志向不改，信念不衰，逍遥自在
+秩序，节奏，人性，少就是多，快就是慢
+底蕴，底气，笑容，宽容，温柔是强者的特征
+
+
+![](https://github.com/user-attachments/assets/9165cb31-dcd3-4c8f-9799-fef213c1c0e7)
+![](https://github.com/user-attachments/assets/e335e050-bd23-49b7-9c06-db13859f071f)
+> 执行者(做事)-->操盘手(做人)-->决策者(做局)，排兵布阵，调兵遣将，运筹帷幄，决胜千里
+
+管理的本质：激发和释放每一个人的善意，通过成就他人来成就自己
+领导力：动员群众解决难题，激发善意，导向行动，创造价值：信任，支持及授权（欣赏的激励）
+事情关系利益，化整为零各个击破
+破局：自求外求而非他求
+凡事预则立不预则废，铺垫，节奏，趁势
+不打无准备之仗，天助自助者
+你不是一个人在战斗，也不是个人的私事，每个人都想参与，这是底层驱动力，事情关系利益（成长，名利）
+错失机会，是成长必备的条件
+永远不缺好的机会，只缺人才
+士气，习惯及行为，体系化，流程化，模板化
+多投资少消费，蓄水池
+ 整理手机，思路，策略，行动
+
+> 系统思考是整体地、动态地、连续地思考问题的思维模式，是在复杂动态系统中的一种以简驭繁的智慧。决策者唯有深刻领悟系统思考的精髓，才能在正确的时间、正确的地点，做正确的事情。
+
+![](https://github.com/user-attachments/assets/fbf9585f-f8ce-49de-b59b-bf034089f09e)
+>  “Is there a way to get X done without doing this work at all?” Surprisingly, sometimes the answer is “yes”.
+
+![](https://github.com/user-attachments/assets/23ab9563-5c4d-437b-9e36-3a62d45f02c0)
+> [慢就是稳，稳就是快。Slow is smooth, smooth is fast.](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
+
+![](https://github.com/user-attachments/assets/2f422a19-5891-423a-849e-1f234c84deef)
+![](https://github.com/user-attachments/assets/347e3535-9d75-4e9c-bab9-6b2ff84aedfb)
+![](https://github.com/user-attachments/assets/5173eff7-c003-4bdf-8c90-c1a729f1b0a0)
+
+
 ![](https://github.com/user-attachments/assets/b719fe20-f68f-45d3-9d08-49352043d77d)
 ![](https://github.com/user-attachments/assets/919e58dd-9f2d-4dfc-be61-b85320681623)
 ![](https://github.com/user-attachments/assets/5d7258a2-4f1d-4f7b-b505-75513140ed16)
 > bee & flower
-
-
-
 
 ![](https://github.com/user-attachments/assets/0e1fdb6b-80af-47a0-b5b5-d26c78c6ed16)
 > HWPM<sup>TM</sup>，WWH、MVP、XYZ...全力以赴**沉浸当下**<sub>TM</sub>，从 ego 到 **eco**...
