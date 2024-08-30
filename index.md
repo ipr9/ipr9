@@ -14,32 +14,34 @@
 
 ---
 
-![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
-> 理性沉浸当下，化整为零各个击破，凡事预则立不预则废，不打无准备之仗，天助自助者，你不是一个人在战斗，一切都会过去...
+![](https://github.com/user-attachments/assets/03b0afe8-bb9c-4212-a600-570a3b5f21c7)
+> 系统思考是整体地、动态地、连续地思考问题的思维模式，是在复杂动态系统中的一种以简驭繁的智慧。决策者唯有深刻领悟系统思考的精髓，才能在正确的时间、正确的地点，做正确的事情。
 
+![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
 ![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
-> 事情关系利益，领导力：动员群众解决难题；管理的本质：激发和释放每一个人的善意，通过成就他人来成就自己...
+> 理性沉浸当下，Now，此时、此地、此人、此事，Only One & No.1，这是我的事情，就事论事，深度思考，高效执行，gap节奏
+
+
+1. 你眼里的他人才是自己
+2. 一切都会过去，一切都会来到
+3. 进化大脑，升级OS
+4. 放松的本质：思维模式的切换
+5. 运动产生多巴胺，冥想带回注意力
+
 
 ![](https://github.com/user-attachments/assets/9165cb31-dcd3-4c8f-9799-fef213c1c0e7)
 ![](https://github.com/user-attachments/assets/e335e050-bd23-49b7-9c06-db13859f071f)
-> 执行者-->操盘手-->决策者
+> 执行者(做事)-->操盘手(做人)-->决策者(做局)，破局：自求外求而非他求,敢用师者霸，善用友者王，仅用徒者亡
 
-1. 进化大脑，放松的本质：思维模式的切换
-2. 激发善意，导向行动，创造价值：信任，支持及授权（欣赏的激励）
-3. 运动产生多巴胺，冥想带回注意力
-4. 激荡情怀，志向不改，信念不衰，逍遥自在
-5. 秩序，节奏，人性，少就是多，快就是慢...
+1. 人是社会动物，是所有社会关系的总和
+2. 管理的本质：激发和释放每一个人的善意，通过成就他人来成就自己,信任，支持及授权（欣赏的激励）
+3. 领导力：动员群众解决难题，激发善意，导向行动，创造价值
+4. 事情关系利益，化整为零各个击破
+5. 凡事预则立不预则废，不打无准备之仗，天助自助者,铺垫，节奏，趁势
+6. 你不是一个人在战斗，也不是个人的私事，每个人都想参与，这是底层驱动力
+7. 错失机会，是成长必备的条件，永远不缺好的机会，只缺人才
+8. 士气，习惯及行为，体系化，流程化，模板化
 
-![](https://github.com/user-attachments/assets/fbf9585f-f8ce-49de-b59b-bf034089f09e)
->  “Is there a way to get X done without doing this work at all?” Surprisingly, sometimes the answer is “yes”.
-
-![](https://github.com/user-attachments/assets/23ab9563-5c4d-437b-9e36-3a62d45f02c0)
-> [慢就是稳，稳就是快。Slow is smooth, smooth is fast.](https://www.navyseal.com/slow-is-smooth-smooth-is-fast/)
-
-![](https://github.com/user-attachments/assets/2f422a19-5891-423a-849e-1f234c84deef)
-![](https://github.com/user-attachments/assets/347e3535-9d75-4e9c-bab9-6b2ff84aedfb)
-![](https://github.com/user-attachments/assets/5173eff7-c003-4bdf-8c90-c1a729f1b0a0)
-> 自律自控，注意力，言行举止，空白gap，跳出来思考，走出去行动，一张一弛，张弛有度，达之道也...
 
 # Reference
 
