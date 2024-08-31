@@ -15,7 +15,10 @@
 ---
 
 ![](https://github.com/user-attachments/assets/03b0afe8-bb9c-4212-a600-570a3b5f21c7)
-> 系统思考是整体地、动态地、连续地思考问题的思维模式，是在复杂动态系统中的一种以简驭繁的智慧。决策者唯有深刻领悟系统思考的精髓，才能在正确的时间、正确的地点，做正确的事情。
+> 系统思考是整体地、动态地、连续地思考问题的思维模式，是在复杂动态系统中的一种以简驭繁的智慧。
+
+![](https://github.com/user-attachments/assets/f07d76af-35e6-437a-aec1-dbe6b9e248f6)
+> 极简主义Minimalism，Less is more，简洁优雅，接纳，欣赏，协作，平和，宽容，笑容...
 
 ![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
 ![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
