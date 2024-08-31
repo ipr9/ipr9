@@ -30,6 +30,7 @@
 3. 进化大脑，升级OS
 4. 放松的本质：思维模式的切换
 5. 运动产生多巴胺，冥想带回注意力
+6. 持续挑战自己，扩展自己的学习区
 
 
 ![](https://github.com/user-attachments/assets/9165cb31-dcd3-4c8f-9799-fef213c1c0e7)
