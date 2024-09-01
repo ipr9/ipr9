@@ -46,6 +46,8 @@
 7. 错失机会，是成长必备的条件，永远不缺好的机会，只缺人才
 8. 士气，习惯及行为，体系化，流程化，模板化
 
+![](https://github.com/user-attachments/assets/c896e17c-8f04-4d66-98bc-e366887fe019)
+> one by one，day by day，家人、书、自然、友...携手同行，少有正确价值之旅...
 
 # Reference
 
