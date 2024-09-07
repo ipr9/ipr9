@@ -1,6 +1,6 @@
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
-> ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，更深度体验人间更多美好，此时此地此人此事...
+> ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，更深度体验人间更多美好...
 
 # Evolution
 
@@ -48,6 +48,10 @@
 
 ![](https://github.com/user-attachments/assets/c896e17c-8f04-4d66-98bc-e366887fe019)
 > one by one，day by day，家人、书、自然、友...携手同行，少有正确价值之旅...
+
+![](https://github.com/user-attachments/assets/a5f7d758-9095-4634-891e-b1789e082184)
+![](https://github.com/user-attachments/assets/d07303b2-97a2-4e32-855c-b97f19eeea98)
+> 此时此地此人此事
 
 # Reference
 
