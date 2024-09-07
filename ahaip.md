@@ -47,6 +47,7 @@
 | 2024     | 8       | 4         | 24         |
 | 2024     | 8       | 4         | 25         |
 | 2024     | 8       | 5         | 31         |
+| 2024     | 9       | 1         | 7         |
 
 ---
 
@@ -160,7 +161,16 @@ Only One & No.1，一天干好一件事，把最为重要的事情闭环好
 永远不缺好的机会，只缺人才
 士气，习惯及行为，体系化，流程化，模板化
 多投资少消费，蓄水池
- 整理手机，思路，策略，行动
+整理手机，思路，策略，行动
+
+![](https://github.com/user-attachments/assets/34b4865d-f06d-4858-875b-5e493b9b50e1)
+![](https://github.com/user-attachments/assets/97026764-7a93-407f-89d6-08f4cfd90abf)
+![](https://github.com/user-attachments/assets/6bb4db36-cd96-4b3d-abfd-897575016164)
+![](https://github.com/user-attachments/assets/69f91cb8-ecf1-49e0-9c40-9cd5b8dc7058)
+![](https://github.com/user-attachments/assets/18f4a069-cff1-4667-a73b-b2c50ab7ae5c)
+![](https://github.com/user-attachments/assets/7592ef77-7aa8-4987-b430-495efd52b8c3)
+![](https://github.com/user-attachments/assets/5175328f-6899-47cf-8ede-08927366bb02)
+> 一句顶一万句，此时此地此人此事...
 
 > 系统思考是整体地、动态地、连续地思考问题的思维模式，是在复杂动态系统中的一种以简驭繁的智慧。决策者唯有深刻领悟系统思考的精髓，才能在正确的时间、正确的地点，做正确的事情。
 
