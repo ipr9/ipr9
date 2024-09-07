@@ -15,6 +15,7 @@
 ---
 
 ![](https://github.com/user-attachments/assets/03b0afe8-bb9c-4212-a600-570a3b5f21c7)
+![](https://github.com/user-attachments/assets/20d56b64-22a2-4d7b-a66a-91234ba508d1)
 > 系统思考是整体地、动态地、连续地思考问题的思维模式，是在复杂动态系统中的一种以简驭繁的智慧。
 
 ![](https://github.com/user-attachments/assets/f07d76af-35e6-437a-aec1-dbe6b9e248f6)
@@ -50,8 +51,14 @@
 > one by one，day by day，家人、书、自然、友...携手同行，少有正确价值之旅...
 
 ![](https://github.com/user-attachments/assets/a5f7d758-9095-4634-891e-b1789e082184)
+![](https://github.com/user-attachments/assets/e111f68a-341e-4c92-bbcd-459c80cbc6b7)
+> 北上广深...
+
+
 ![](https://github.com/user-attachments/assets/d07303b2-97a2-4e32-855c-b97f19eeea98)
-> 此时此地此人此事
+![](https://github.com/user-attachments/assets/c8e20cec-c47c-461f-a816-50120c032595)
+![](https://github.com/user-attachments/assets/8d046d10-871a-4422-8a7c-0a2b83ba2ce8)
+> 此时此地此人此事...
 
 # Reference
 
