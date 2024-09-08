@@ -124,6 +124,10 @@
 ---
 
 
+![](https://github.com/user-attachments/assets/d07303b2-97a2-4e32-855c-b97f19eeea98)
+![](https://github.com/user-attachments/assets/c8e20cec-c47c-461f-a816-50120c032595)
+![](https://github.com/user-attachments/assets/8d046d10-871a-4422-8a7c-0a2b83ba2ce8)
+
 ![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
 ![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
 > 理性沉浸当下，Now，此时、此地、此人、此事，你眼里的他人才是自己，一切都会过去，一切都会来到
