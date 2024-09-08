@@ -1,12 +1,14 @@
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
-> ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，更深度体验人间更多美好...
+> ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，深度体验人间美好...
 
 ```
 1. 个人 vs 团队
 2. 局部 vs 全局
 3. 当前 vs 长远
-生命的长度、事业的高度、人性的温度
+4. 过程 vs 结果
+5. 事情 vs 关系
+4. 生命的长度、事业的高度、人性的温度
 ```
 
 # Evolution
@@ -18,7 +20,7 @@
 ---
 
 ![](https://github.com/user-attachments/assets/03b0afe8-bb9c-4212-a600-570a3b5f21c7)
-> 系统思考是整体地、动态地、连续地思考问题的思维模式，一种以简驭繁的智慧
+> 系统思考，以简驭繁的智慧，是整体地、动态地、连续地思考问题的思维模式
 
 ![](https://github.com/user-attachments/assets/20d56b64-22a2-4d7b-a66a-91234ba508d1)
 > 极简主义Minimalism，Less is more
@@ -45,7 +47,11 @@
 > 执行者(做事)-->操盘手(做人)-->决策者(做局)
 
 ![](https://github.com/user-attachments/assets/e335e050-bd23-49b7-9c06-db13859f071f)
-> 破局：自求外求而非他求,敢用师者霸，善用友者王，仅用徒者亡
+> 破局：自求外求而非他求
+
+![](https://github.com/user-attachments/assets/ff528d26-6d49-43d3-a187-bbfe57839095)
+> 敢用师者霸，善用友者王，仅用徒者亡
+
 
 ```
 1. 人是社会动物，是所有社会关系的总和
