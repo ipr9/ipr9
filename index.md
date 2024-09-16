@@ -2,13 +2,22 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 > ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，深度体验人间美好...
 
+![](https://github.com/user-attachments/assets/e02a0612-1585-49e3-9048-f7ab5ca7e2ce)
+![](https://github.com/user-attachments/assets/a1bfa5f4-8510-4edf-b2db-192c71fd7ddb)
+![](https://github.com/user-attachments/assets/32ed03ad-181d-481e-8caf-258dd33b5553)
+> 此时此地，此人此事...
+
+
 ```
 1. 个人 vs 团队
 2. 局部 vs 全局
 3. 当前 vs 长远
 4. 过程 vs 结果
 5. 事情 vs 关系
-4. 生命的长度、事业的高度、人性的温度
+6. 生命的长度、事业的高度、人性的温度
+7. 识不足则多虑
+8. 威不足则多怒
+9. 信不足则多言
 ```
 
 # Evolution
@@ -44,14 +53,13 @@
 ```
 
 ![](https://github.com/user-attachments/assets/9165cb31-dcd3-4c8f-9799-fef213c1c0e7)
-> 执行者(做事)-->操盘手(做人)-->决策者(做局)
+> 执行者(做事)-->操盘手(做人)-->决策者(做势)
 
 ![](https://github.com/user-attachments/assets/e335e050-bd23-49b7-9c06-db13859f071f)
 > 破局：自求外求而非他求
 
 ![](https://github.com/user-attachments/assets/ff528d26-6d49-43d3-a187-bbfe57839095)
-> 敢用师者霸，善用友者王，仅用徒者亡
-
+> 敢用师者王，善用友者强，仅用徒者亡
 
 ```
 1. 人是社会动物，是所有社会关系的总和
@@ -65,11 +73,10 @@
 ```
 
 ![](https://github.com/user-attachments/assets/c896e17c-8f04-4d66-98bc-e366887fe019)
-> one by one，day by day，家人、书、自然、友...携手同行，少有正确价值之旅...
-
 ![](https://github.com/user-attachments/assets/a5f7d758-9095-4634-891e-b1789e082184)
 ![](https://github.com/user-attachments/assets/e111f68a-341e-4c92-bbcd-459c80cbc6b7)
-> 此时此地此人此事...
+> one by one，day by day，家人、书、自然、友...携手同行，少有正确价值之旅...
+
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
 ![](https://github.com/ipr9/ipr9/assets/163503847/8b7e1a6f-b4e6-4fbe-9eeb-db4e664a696d)
