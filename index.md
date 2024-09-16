@@ -1,12 +1,16 @@
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
-> ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，深度体验人间美好...
+> ahaip<sup>TM</sup>，人生是**修行**，也是**旅行**，多**结伴同行**，深度体验人间美好，此时此地，此人此事...
 
-![](https://github.com/user-attachments/assets/e02a0612-1585-49e3-9048-f7ab5ca7e2ce)
-![](https://github.com/user-attachments/assets/a1bfa5f4-8510-4edf-b2db-192c71fd7ddb)
-![](https://github.com/user-attachments/assets/32ed03ad-181d-481e-8caf-258dd33b5553)
-> 此时此地，此人此事...
+---
 
+# Evolution
+
+1. **使命**：创造和运用知识产权，助力公司经营及发展
+2. **愿景**：成为产业界具有影响力的知识产权实务专家
+3. **价值观**：<ins>天道酬勤</ins>、<ins>人道酬善</ins>、<ins>商道酬信</ins>
+
+---
 
 ```
 1. 个人 vs 团队
@@ -14,17 +18,11 @@
 3. 当前 vs 长远
 4. 过程 vs 结果
 5. 事情 vs 关系
-6. 生命的长度、事业的高度、人性的温度
-7. 识不足则多虑
-8. 威不足则多怒
-9. 信不足则多言
+6. 识不足则多虑
+7. 威不足则多怒
+8. 信不足则多言
+9. 强者温柔，鹰骨鸽风
 ```
-
-# Evolution
-
-1. **使命**：创造和运用知识产权，助力公司经营及发展
-2. **愿景**：成为产业界具有影响力的知识产权实务专家
-3. **价值观**：<ins>天道酬勤</ins>、<ins>人道酬善</ins>、<ins>商道酬信</ins>
 
 ---
 
@@ -37,11 +35,14 @@
 ![](https://github.com/user-attachments/assets/f07d76af-35e6-437a-aec1-dbe6b9e248f6)
 > 简洁优雅，接纳，欣赏，协作，平和，宽容，笑容...
 
-![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
-> 理性沉浸当下，Now，此时、此地、此人、此事，Only One & No.1
+![](https://github.com/user-attachments/assets/e02a0612-1585-49e3-9048-f7ab5ca7e2ce)
+![](https://github.com/user-attachments/assets/a1bfa5f4-8510-4edf-b2db-192c71fd7ddb)
+![](https://github.com/user-attachments/assets/32ed03ad-181d-481e-8caf-258dd33b5553)
+> 理性沉浸当下，Now，Only One & No.1
 
+![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
 ![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
-> 这是我的事情，就事论事，深度思考，高效执行，gap节奏
+> 这是我的事，就事论事，深度思考，高效执行，gap节奏
 
 ```
 1. 你眼里的他人才是自己
@@ -53,7 +54,13 @@
 ```
 
 ![](https://github.com/user-attachments/assets/9165cb31-dcd3-4c8f-9799-fef213c1c0e7)
-> 执行者(做事)-->操盘手(做人)-->决策者(做势)
+> 执行者(做事)-->操盘手(做人)-->决策者(造势)
+
+```
+顺势而安
+趁势而起
+造势而雄
+```
 
 ![](https://github.com/user-attachments/assets/e335e050-bd23-49b7-9c06-db13859f071f)
 > 破局：自求外求而非他求
@@ -77,6 +84,7 @@
 ![](https://github.com/user-attachments/assets/e111f68a-341e-4c92-bbcd-459c80cbc6b7)
 > one by one，day by day，家人、书、自然、友...携手同行，少有正确价值之旅...
 
+---
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
 ![](https://github.com/ipr9/ipr9/assets/163503847/8b7e1a6f-b4e6-4fbe-9eeb-db4e664a696d)
