@@ -52,6 +52,7 @@
 | 2024     | 9       | 2         | 16         |
 | 2024     | 9       | 3         | 21         |
 | 2024     | 9       | 3         | 22         |
+| 2024     | 9       | 3         | 28         |
 
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
@@ -287,6 +288,13 @@
 </details>
 
 ---
+
+
+![](https://github.com/user-attachments/assets/ff06a747-1183-416b-b1f3-ee5cff81aaac)
+![](https://github.com/user-attachments/assets/8030da63-1eb0-43a2-957b-f1429b70e28b)
+![](https://github.com/user-attachments/assets/0fab86e0-0c1f-43c2-94e0-385d29d0fa8f)
+![](https://github.com/user-attachments/assets/2406057b-d2d3-4336-bbb9-76d169e3234c)
+> AI 助手大阅兵
 
 ![](https://github.com/user-attachments/assets/60a2c5fb-677b-4b09-b151-979dfa5081bc)
 ![](https://github.com/user-attachments/assets/78e152c8-76a1-4c21-ac74-258282a63d7f)
