@@ -59,13 +59,9 @@
 4. 做难而正确的事情，复杂事情简单化，简单事情重复做
 5. 一切都是**大脑神经连接**🔗，从 0 到 1，持续构建及刷新
 
-
-```
-1. 专业事业
-2. 社会关系
-3. 价值回报
-4. 健康生活
-```
+![](https://github.com/user-attachments/assets/ea2a9880-9027-478e-b5bf-9a9ccf2e05dc)
+![](https://github.com/user-attachments/assets/760b34e6-ddb0-443b-be0a-8b74dd71e03a)
+> 脚踏实地，why work：专业事业、社会关系、价值回报、健康生活...
 
 ---
 
