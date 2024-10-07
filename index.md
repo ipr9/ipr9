@@ -21,7 +21,7 @@
 4. 智者搭台、强者补台、弱者拆台
 5. 修己安人，严于律己，宽以待人
 6. 独立自主，强强联合，协作共赢
-7. 专业权威，人格魅力，岗位权力；
+7. 专业权威，人格魅力，岗位权力
 8. 士气，习惯及行为
 9. 实事求是，相信科学，尊重常识（概率）
 10. one by one，day by day
@@ -74,6 +74,11 @@
 ![](https://github.com/user-attachments/assets/ea2a9880-9027-478e-b5bf-9a9ccf2e05dc)
 ![](https://github.com/user-attachments/assets/760b34e6-ddb0-443b-be0a-8b74dd71e03a)
 > why work：专业事业、社会关系、价值回报、健康生活、投资理财...
+
+
+![](https://github.com/user-attachments/assets/04e45325-b5f3-44f9-9f33-0231391fc297)
+![](https://github.com/user-attachments/assets/e9ebafc9-caf1-4fee-acd3-3b4801b9cd69)
+> 成为、寻找及信赖专业人士
 
 ---
 
