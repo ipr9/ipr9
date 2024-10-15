@@ -1,6 +1,11 @@
 ![](https://github.com/user-attachments/assets/241a0b47-6812-483f-a4fa-2fcb52842182)
 ![](https://github.com/user-attachments/assets/2c851bda-be09-49f4-9afe-089ed1a6c1dc)
 
+1.领导评价一个人，经常挂在口头的两个词，一个叫这个人“不够成熟”，一个叫这个人“不够全面”，请问，这两个评价到底是什么意思？。
+2.不够成熟的意思，是这个人的情绪管理出了问题，比如聊工作聊哭了，比如和同事公开冲突，比如怼了领导等等。这都是职场大忌。不是说具体的是非对错，而是一个人不能管理自己的情绪，都不堪大用。
+3.那不够全面呢？其实不是能力不够全面，任何人的能力都是有欠缺的。不够全面指的是一个人眼里只有事，而没有人。眼里没人，就会到处得罪人，好事也能办砸了。而眼里有人，即使能力有欠缺，也可以学。所以不够全面的意思，是不能很好地处理多方关系。
+4.你看，不够成熟和不够全面，这是一个人职场进步的大忌啊。
+
 ![image](https://github.com/user-attachments/assets/317b21cd-135b-4141-83e9-ea32050b8dbf)
 ![image](https://github.com/user-attachments/assets/25e6b33b-59b8-49e9-b892-e45ceeff4d67)
 ![image](https://github.com/user-attachments/assets/62b18e29-3f72-45a6-a15c-3dae74cfde66)
