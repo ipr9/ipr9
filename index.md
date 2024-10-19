@@ -8,7 +8,8 @@
 ![](https://github.com/user-attachments/assets/7a6b96be-7cf1-41e7-b399-a8fc1bc9a94d)
 ![](https://github.com/user-attachments/assets/008bf1bc-fa0f-4f48-90ab-e84ca96484c1)
 ![](https://github.com/user-attachments/assets/9ef3d87f-fde4-4cb8-b73c-de0191c51a3e)
-> AHA：人事分离，恍然大悟，醍醐灌顶...
+![](https://github.com/user-attachments/assets/4032725e-7414-4bc3-8998-f4708576b2b6)
+> AHA：人事分离，从事到人，恍然大悟，醍醐灌顶...
 
 ---
 
