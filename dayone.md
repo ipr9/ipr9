@@ -6,6 +6,28 @@
 2. kpi目标
 3. 投资理财
 
+### 10.19
+
+```mermaid
+
+sequenceDiagram
+
+Alice->>+John: Hello John, how are you?
+
+Alice->>+John: John, can you hear me?
+
+John-->>-Alice: Hi Alice, I can hear you!
+
+John-->>-Alice: I feel great!
+
+```
+
+
+The length of the hypotenuse: $c=\sqrt{a^2+b^2}$
+Chemical formula of water: $\ce{H2O}$
+The determinant of 2-by-2 matrices is given by
+
+
 ### 10.8
 
 脚踏实地
