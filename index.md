@@ -5,6 +5,10 @@
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > ahaip<sup>TM</sup> 此时此地，此人此事，修己安人...
 
+![](https://github.com/user-attachments/assets/008bf1bc-fa0f-4f48-90ab-e84ca96484c1)
+![](https://github.com/user-attachments/assets/9ef3d87f-fde4-4cb8-b73c-de0191c51a3e)
+> AHA：人事分离，恍然大悟，醍醐灌顶...
+
 ---
 
 # Evolution
@@ -39,6 +43,9 @@
 21. 睡眠，书店，大自然
 22. 知足，长乐，感恩
 23. Why，What，How
+24. 通透，豁达，开朗
+25. 相信自己，信任他人，真诚协作及持续共赢
+26. 胸怀美好，重塑大脑，兼容升级
 ```
 
 
@@ -49,6 +56,8 @@
 4. 过程 vs 结果
 5. 事情 vs 关系
 6. 关系 vs 利益
+7. 本事 vs 脾气
+8. 奉献 vs 索取
 ```
 
 
@@ -70,7 +79,7 @@
 运动产生多巴胺，冥想带回注意力
 合适的人及正确的方法（pitaka）
 错失机会，是成长条件，不缺好机会，缺人才
-有话好好说
+有话好好说（卡塔尔）
 有事好好做
 缘分好好珍惜
 ```
@@ -172,6 +181,7 @@
 
 ---
 
+![](https://github.com/user-attachments/assets/dc326fba-d9a8-42d8-87d5-81d7250cdbed)
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
 > 选择最难、也最有价值的路通往山顶...
 
