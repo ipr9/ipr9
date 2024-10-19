@@ -5,6 +5,7 @@
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > ahaip<sup>TM</sup> 此时此地，此人此事，修己安人...
 
+![](https://github.com/user-attachments/assets/7a6b96be-7cf1-41e7-b399-a8fc1bc9a94d)
 ![](https://github.com/user-attachments/assets/008bf1bc-fa0f-4f48-90ab-e84ca96484c1)
 ![](https://github.com/user-attachments/assets/9ef3d87f-fde4-4cb8-b73c-de0191c51a3e)
 > AHA：人事分离，恍然大悟，醍醐灌顶...
