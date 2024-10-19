@@ -230,4 +230,14 @@ graph TD;
 
 # Record
 
+- [x] 24年3月
+- [x] 24年4月
+- [x] 24年5月
+- [x] 24年6月
+- [x] 24年7月
+- [x] 24年8月
+- [x] 24年9月
+- [ ] 24年10月
+- [ ] :tada: :tada: :tada:
+
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
