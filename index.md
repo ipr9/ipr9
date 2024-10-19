@@ -166,11 +166,17 @@
 17. 启发：特殊的知识，温和，不对抗，但充满建设性
 18. 顶尖选手：持久稳定，更深刻理解基本技能
 19. 知识产权：走钢丝，界定（具体与抽象），保护（国家担保）及分配知识（使用知识的范围）
+20. [产权三原则](https://www.dedao.cn/course/article?id=g258WANERjwQJDz1grKbOMG1rZqkPl)：自我所有权、先占先得和互不侵犯产权
+21. 经济：本质就是人类的劳动和价值的互换
+22. 可持续发展：有限需求、价值排序和权衡收益
 
 ---
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
 > 选择最难、也最有价值的路通往山顶...
+
+![](https://github.com/user-attachments/assets/64f3d816-672f-4298-887e-f9851cf16951)
+> Refresh Update Taste...
 
 # Record
 
