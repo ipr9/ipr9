@@ -1,4 +1,5 @@
 
+
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 > **修行**，**旅行**，**结伴同行**，持续做正确有价值且难的事情...
 
@@ -20,6 +21,34 @@
 3. **价值观**：<ins>天道酬勤</ins>、<ins>人道酬善</ins>、<ins>商道酬信</ins>
 4. **路径**：高级程序员（技术）、专利代理师（法律）、职业经理人（商务），洞察人性
 
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    A-->D;
+    B-->E;
+    C-->E;
+    D-->E;
+```
+> 条条大道通罗马，这条不行，尝试另一条...
+
+```
+1. 个人 vs 团队
+2. 局部 vs 全局
+3. 当前 vs 长远
+4. 过程 vs 结果
+5. 事情 vs 关系
+6. 关系 vs 利益
+7. 本事 vs 脾气
+8. 奉献 vs 索取
+```
+
+<details>
+
+<summary>成长感悟</summary>
+
+### 底层逻辑
 
 ```
 1. 识不足则多虑
@@ -50,17 +79,7 @@
 26. 胸怀美好，重塑大脑，兼容升级
 ```
 
-
-```
-1. 个人 vs 团队
-2. 局部 vs 全局
-3. 当前 vs 长远
-4. 过程 vs 结果
-5. 事情 vs 关系
-6. 关系 vs 利益
-7. 本事 vs 脾气
-8. 奉献 vs 索取
-```
+### 格局胸怀
 
 
 ```
@@ -87,6 +106,11 @@
 ```
 
 
+</details>
+
+
+
+
 ---
 
 # Invest
@@ -94,6 +118,11 @@
 ![](https://github.com/user-attachments/assets/ac35cc5c-d9fe-4a63-8432-4127fb6418f8)
 ![](https://github.com/user-attachments/assets/76098f8f-a3ef-4ac7-818a-ac8eacd86697)
 > 盛世中华，成为、寻找及信赖专业人士
+
+
+<details>
+
+<summary>数字极简</summary>
 
 ```
 数字极简（TypeC口，兼容性）
@@ -107,6 +136,8 @@
 7、检索软件（Google）
 8、AI软件（Perplexity、秘塔）
 ```
+
+</details>
 
 1. 变现逻辑：能够为他人解决问题创造价值，解决他人问题进而解决自己问题
 2. 收入=本金*(1+利率)<sup>时长</sup>，复利的力量
@@ -158,6 +189,10 @@
 
 # Concept
 
+<details>
+
+<summary>基本概念</summary>
+
 1. 模块：有成熟的解决方案的局部
 2. 合作：各自放弃并把一小部分安全感交由合作方来保障
 3. 信任：相信对方不会利用主动放弃的那一部分安全感
@@ -181,14 +216,17 @@
 21. 经济：本质就是人类的劳动和价值的互换
 22. 可持续发展：有限需求、价值排序和权衡收益
 
+![](https://github.com/user-attachments/assets/64f3d816-672f-4298-887e-f9851cf16951)
+> Refresh Update Taste...
+
+</details>
+
 ---
 
 ![](https://github.com/user-attachments/assets/dc326fba-d9a8-42d8-87d5-81d7250cdbed)
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
 > 选择最难、也最有价值的路通往山顶...
 
-![](https://github.com/user-attachments/assets/64f3d816-672f-4298-887e-f9851cf16951)
-> Refresh Update Taste...
 
 # Record
 
