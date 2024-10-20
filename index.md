@@ -20,7 +20,7 @@
 3. **价值观**：<ins>天道酬勤</ins>、<ins>人道酬善</ins>、<ins>商道酬信</ins>
 4. **路径**：高级程序员（技术）、专利代理师（法律）、职业经理人（商务），洞察人性
 
-![](https://github.com/user-attachments/assets/7a6b96be-7cf1-41e7-b399-a8fc1bc9a94d)
+![](https://github.com/user-attachments/assets/67e44b86-aa63-48f4-8297-1470163c45ec)
 > 条条大道通罗马，Try...
 
 ```
