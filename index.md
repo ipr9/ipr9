@@ -11,6 +11,9 @@
 ![](https://github.com/user-attachments/assets/4032725e-7414-4bc3-8998-f4708576b2b6)
 > AHA<sup>TM</sup> 人事分离，从事到人，和颜悦色...
 
+![](https://github.com/user-attachments/assets/c9821652-b847-450a-82e5-5437dd3ebe74)
+> 总会花开：难题+解题思路
+
 ---
 
 # Evolution
