@@ -12,7 +12,7 @@
 > AHA<sup>TM</sup> 人事分离，从事到人，和颜悦色...
 
 ![](https://github.com/user-attachments/assets/c9821652-b847-450a-82e5-5437dd3ebe74)
-> 总会花开：难题+解题思路
+> 置身事中，抽离事外，静待花开，花总会开：难题+解题思路
 
 ---
 
