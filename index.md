@@ -153,6 +153,7 @@
 
 ![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
 ![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
+![](https://github.com/user-attachments/assets/b2d28018-0075-4c85-99a6-5de4c2944bfc)
 > 你眼里的他人才是自己，一切都会过去，一切都会来到...
 
 ---
@@ -173,13 +174,17 @@
 
 ---
 
+![](https://github.com/user-attachments/assets/1b436833-7594-4e10-9180-715d8d36f9a9)
+![](https://github.com/user-attachments/assets/0d7979d8-9dff-426e-8433-607ff258873b)
+> 世纪广场，世纪公园，Sisyphe
+
 ```
 1. 积极主动
-2. 要事第一
-3. 以终为始
+2. 以终为始
+3. 要事第一
 4. 双赢思维
 5. 知彼解己
-6. 综合统效
+6. 统合综效
 7. 不断更新
 ```
 
