@@ -209,6 +209,12 @@
 22. 可持续发展：有限需求、价值排序和权衡收益
 23. 宽容：容许别人有行动和判断的自由，对于不同于自己观点的见解要耐心、公正、包容
 24. 高质量信息：高保真（HiFi）、高专业性（HiEx）
+25. 自传式回应：随便一个话头接过来，都能谈自己半小时，或者用自己的价值观、对事情的有限认知，轻易地给出建议
+26. 人际沟通：仅有 7％通过语言来进行，38％取决于语调与声音，其余55％则得靠肢体语言
+27. 一个人一天的行为中，大约有5%是非习惯性的，而其它的95%的行为都是源自于习惯
+28. 养成好的习惯，本质上，就是把思考脑中的逻辑，通过反复训练，成为反射脑中的习惯
+29. 人脉：持续的给予价值。这是更新、积累人脉的唯一方法
+30. 给予，减去索取，等于人脉；付出，减去回报，等于胸怀
 
 ---
 ![](https://github.com/user-attachments/assets/64f3d816-672f-4298-887e-f9851cf16951)
@@ -217,6 +223,12 @@
 ![](https://github.com/user-attachments/assets/dc326fba-d9a8-42d8-87d5-81d7250cdbed)
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
 > 选择最难、也最有价值的路通往山顶...
+
+# Reference
+
+1. [高效能人士的七个习惯](https://www.dedao.cn/ebook/detail?id=MLk89Yv4kyM12eaG795DmKAponOvLVWvPlwZzdbYxN84JQR6XgEqBPljrbpzARlB)
+2. [坐享](https://github.com/xiaolai/zuoxiangqicheng)
+3. [韭菜的自我修养](https://lixiaolai.com/#/the-self-cultivation-of-leeks/cn/)
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
