@@ -231,8 +231,10 @@
 
 # Reference
 
-1. [高效能人士的七个习惯](https://www.dedao.cn/ebook/detail?id=MLk89Yv4kyM12eaG795DmKAponOvLVWvPlwZzdbYxN84JQR6XgEqBPljrbpzARlB)
-2. [坐享](https://github.com/xiaolai/zuoxiangqicheng)
+1. [habit](https://www.dedao.cn/ebook/detail?id=MLk89Yv4kyM12eaG795DmKAponOvLVWvPlwZzdbYxN84JQR6XgEqBPljrbpzARlB)
+2. [meditation](https://github.com/xiaolai/zuoxiangqicheng)
+3. [history](https://www.historyline.online)
+4. [consume](https://movie.douban.com/subject/25945379/?_dtcc=1)
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
