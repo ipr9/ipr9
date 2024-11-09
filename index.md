@@ -12,7 +12,7 @@
 > AHA<sup>TM</sup> 人事分离，从事到人，和颜悦色...
 
 ![](https://github.com/user-attachments/assets/c9821652-b847-450a-82e5-5437dd3ebe74)
-> 置身事中，抽离事外，静待花开，花总会开：难题+解题思路
+> 置身事中，抽离事外，静待花开，花总会开：难题+解题思路，上甘岭精神：体力，脑力及心力
 
 ---
 
@@ -237,6 +237,7 @@
 > Refresh Update Taste...
 
 ![](https://github.com/user-attachments/assets/a1012465-0844-4d11-89c9-12ec901b85ce)
+![](https://github.com/user-attachments/assets/59549a57-4e5f-46a2-9c76-4cf974031a8b)
 > Just Try your Best...
 
 ![](https://github.com/user-attachments/assets/dc326fba-d9a8-42d8-87d5-81d7250cdbed)
