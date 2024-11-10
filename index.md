@@ -12,7 +12,10 @@
 > AHA<sup>TM</sup> 人事分离，从事到人，和颜悦色...
 
 ![](https://github.com/user-attachments/assets/c9821652-b847-450a-82e5-5437dd3ebe74)
-> 置身事中，抽离事外，静待花开，花总会开：难题+解题思路，上甘岭精神：体力，脑力及心力
+> 置身事中，抽离事外，静待花开，花总会开：难题+解题思路
+
+![](https://github.com/user-attachments/assets/86162756-774d-44c3-8dfd-fa5ab4f5f731)
+> 上甘岭精神：体力，脑力及心力
 
 ---
 
@@ -240,6 +243,11 @@
 ![](https://github.com/user-attachments/assets/59549a57-4e5f-46a2-9c76-4cf974031a8b)
 > Just Try your Best...
 
+![](https://github.com/user-attachments/assets/347a94c3-e2d0-49ca-8dbe-58d37c51ad31)
+![](https://github.com/user-attachments/assets/2473ae67-b906-44c4-b37a-15b8d55e5ed8)
+![](https://github.com/user-attachments/assets/148d6dfb-ebde-48f4-87f0-5d4e1f63050b)
+> 虽经风雨，向阳而生
+
 ![](https://github.com/user-attachments/assets/dc326fba-d9a8-42d8-87d5-81d7250cdbed)
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
 > 选择最难、也最有价值的路通往山顶...
@@ -309,7 +317,7 @@
 | 2024     | 11       | 1         | 2         |
 | 2024     | 11       | 1         | 3         |
 | 2024     | 11       | 2         | 9         |
-
+| 2024     | 11       | 2         | 10        |
 
 # Reference
 
