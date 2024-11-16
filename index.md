@@ -1,7 +1,8 @@
+![](https://github.com/user-attachments/assets/093d33f3-1e6b-46cb-b7e3-b9f93ba8b947)
+> 修己安人，上帝视角
 
-![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
-> ahaip<sup>TM</sup> 此时此地，此人此事，修己安人...
+> ahaip<sup>TM</sup> 此时此地，此人此事...
 
 ![](https://github.com/user-attachments/assets/86162756-774d-44c3-8dfd-fa5ab4f5f731)
 > AHA<sup>TM</sup> 置身事中，抽离事外，人事分离...
@@ -132,6 +133,7 @@
 
 # Invest
 
+![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 > 成为、寻找及信赖专业人士
 
 ```
