@@ -7,7 +7,7 @@
 > AHA<sup>TM</sup> 置身事中，抽离事外，人事分离...
 
 ![](https://github.com/user-attachments/assets/2473ae67-b906-44c4-b37a-15b8d55e5ed8)
-> 静待花开，花总会开：难题+解题思路
+> 静待花开，花总会开：难题+解题思路，到达，在场
 
 
 ```
