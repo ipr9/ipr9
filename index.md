@@ -1,36 +1,26 @@
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
-> **修行**，**旅行**，**结伴同行**，持续做正确、有价值且难的事情...
-
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > ahaip<sup>TM</sup> 此时此地，此人此事，修己安人...
 
-![](https://github.com/user-attachments/assets/7a6b96be-7cf1-41e7-b399-a8fc1bc9a94d)
-![](https://github.com/user-attachments/assets/008bf1bc-fa0f-4f48-90ab-e84ca96484c1)
-![](https://github.com/user-attachments/assets/9ef3d87f-fde4-4cb8-b73c-de0191c51a3e)
-![](https://github.com/user-attachments/assets/4032725e-7414-4bc3-8998-f4708576b2b6)
-> AHA<sup>TM</sup> 人事分离，从事到人，和颜悦色...
+![](https://github.com/user-attachments/assets/86162756-774d-44c3-8dfd-fa5ab4f5f731)
+> AHA<sup>TM</sup> 置身事中，抽离事外，人事分离...
 
 ![](https://github.com/user-attachments/assets/c9821652-b847-450a-82e5-5437dd3ebe74)
-> 置身事中，抽离事外，静待花开，花总会开：难题+解题思路
-
-![](https://github.com/user-attachments/assets/86162756-774d-44c3-8dfd-fa5ab4f5f731)
-> 上甘岭精神：体力，脑力及心力
+![](https://github.com/user-attachments/assets/2473ae67-b906-44c4-b37a-15b8d55e5ed8)
+> 静待花开，花总会开：难题+解题思路
 
 
 ```
 此时此地，此人此事
+除了生死别无大事
+这根本不算啥子事
 沉浸其中，乐此不疲
 不忘初心，方得始终
 模式切换，注意力
 不是一个人在战斗
 一切一切都将过去
 一切一切都会来到
-这根本不算啥子事
-除了生死别无大事
-持续挑战扩大舒适区
-万事开头难，先干
-化整为零各个击破
 沟通、信任及授权
 高度，格局，胸怀
 冥想，睡眠，运动
@@ -38,8 +28,12 @@
 书店，大自然
 饮食，大脑血糖稳定
 健康，家人，事业
+关关难过关关过
+办法总比问题多
+化整为零各个击破
+万事开头难，先干
+持续扩大挑战区
 ```
-
 
 ---
 
@@ -60,8 +54,6 @@
 ```
 
 ![](https://github.com/user-attachments/assets/67e44b86-aa63-48f4-8297-1470163c45ec)
-![](https://github.com/user-attachments/assets/471d7c73-04a8-43de-92d3-b99beb3cea37)
-![](https://github.com/user-attachments/assets/0fedec4b-e767-45ea-8af3-31c72a1cf243)
 > 条条大道通罗马，Try...
 
 ```
@@ -138,9 +130,7 @@
 
 # Invest
 
-![](https://github.com/user-attachments/assets/ac35cc5c-d9fe-4a63-8432-4127fb6418f8)
-![](https://github.com/user-attachments/assets/76098f8f-a3ef-4ac7-818a-ac8eacd86697)
-> 盛世中华，成为、寻找及信赖专业人士
+> 成为、寻找及信赖专业人士
 
 ```
 数字极简，如TypeC口（兼容性）
@@ -184,7 +174,6 @@
 
 ![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
 ![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
-![](https://github.com/user-attachments/assets/b2d28018-0075-4c85-99a6-5de4c2944bfc)
 > 你眼里的他人才是自己，一切都会过去，一切都会来到...
 
 ---
@@ -205,10 +194,8 @@
 
 ---
 
-![](https://github.com/user-attachments/assets/1b436833-7594-4e10-9180-715d8d36f9a9)
-![](https://github.com/user-attachments/assets/0d7979d8-9dff-426e-8433-607ff258873b)
 ![](https://github.com/user-attachments/assets/ffda0ccf-e30b-48f9-8c26-719c799f12d8)
-> 世纪广场，世纪公园，Sisyphe
+
 
 ```
 1. 积极主动
@@ -259,18 +246,6 @@
 34. “三重专注力”，就​是除了关注自己，还需要理解他人以及理解更大的世界，就是专注于更广阔的生态、经济和社会系统。
 
 ---
-
-![](https://github.com/user-attachments/assets/64f3d816-672f-4298-887e-f9851cf16951)
-> Refresh Update Taste...
-
-![](https://github.com/user-attachments/assets/a1012465-0844-4d11-89c9-12ec901b85ce)
-![](https://github.com/user-attachments/assets/59549a57-4e5f-46a2-9c76-4cf974031a8b)
-> Just Try your Best...
-
-![](https://github.com/user-attachments/assets/347a94c3-e2d0-49ca-8dbe-58d37c51ad31)
-![](https://github.com/user-attachments/assets/2473ae67-b906-44c4-b37a-15b8d55e5ed8)
-![](https://github.com/user-attachments/assets/148d6dfb-ebde-48f4-87f0-5d4e1f63050b)
-> 虽经风雨，向阳而生
 
 ![](https://github.com/user-attachments/assets/dc326fba-d9a8-42d8-87d5-81d7250cdbed)
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
@@ -342,13 +317,7 @@
 | 2024     | 11       | 1         | 3         |
 | 2024     | 11       | 2         | 9         |
 | 2024     | 11       | 2         | 10        |
-
-# Reference
-
-1. [habit](https://www.dedao.cn/ebook/detail?id=MLk89Yv4kyM12eaG795DmKAponOvLVWvPlwZzdbYxN84JQR6XgEqBPljrbpzARlB)
-2. [meditation](https://github.com/xiaolai/zuoxiangqicheng)
-3. [history](https://www.historyline.online)
-4. [consume](https://movie.douban.com/subject/25945379/?_dtcc=1)
+| 2024     | 11       | 3         | 16        |
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
