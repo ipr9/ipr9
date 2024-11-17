@@ -1,5 +1,6 @@
+
 ![](https://github.com/user-attachments/assets/093d33f3-1e6b-46cb-b7e3-b9f93ba8b947)
-> 修己安人，上帝视角，隐，胜利，成长，回报
+> 修己安人，上帝视角，通透豁达，尽人之智，倾听的力量，隐，胜利，成长，回报...
 
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > ahaip<sup>TM</sup> 此时此地，此人此事...
@@ -325,6 +326,50 @@
 | 2024     | 11       | 2         | 10        |
 | 2024     | 11       | 3         | 16        |
 | 2024     | 11       | 3         | 17        |
+
+![](https://github.com/user-attachments/assets/9bdff471-5396-4b8c-9da0-eaf380f36f94)
+> [EARTH - THE BLUE MARBLE](https://zh.wikipedia.org/zh-cn/%E8%97%8D%E8%89%B2%E5%BD%88%E7%8F%A0#/media/File:Earth-BlueMarble-1997.jpg)
+
+```
+当我内心足够强大
+你指责我
+我感受到你的受伤
+你讨好我
+我看到你需要认可
+你超理智
+我体会你的脆弱和害怕
+你打岔
+我懂得你如此渴望被看到
+当我内心足够强大
+我不再防卫
+所有力量
+在我们之间自由流动
+委屈，沮丧，内疚，悲伤，愤怒，痛苦
+当他们自由流淌
+我在悲伤里感到温暖
+在愤怒里发现力量
+在痛苦里看到希望
+当我内心足够强大
+我不再攻击
+我知道
+当我不再伤害自己
+便没有人
+可以伤害我
+我放下武器
+敞开心
+当我的心，柔软起来
+便在爱和慈悲里
+与你明亮而温暖地相遇
+原来，让内心强大
+我只需要
+看到自己
+接纳我还不能做的
+欣赏我已经做到的
+并且相信
+走过这个历程
+终究可以活出自己，绽放自己。
+——萨提亚 Virginia Satir
+```
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
