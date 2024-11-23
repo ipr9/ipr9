@@ -15,21 +15,6 @@
 6. 不要有感性的烦恼
 ```
 
-
-```
-忽然之间，恍然大悟
-一声棒喝，醍醐灌顶
-尽人之智，倾听的力量，隐、默
-胜利，成长，回报
-
-温和轻松的争取，效果总是最好；
-真诚但不费力的关心，最能打动心房；
-拥有本地知识，就无需在意记者说啥；
-直觉上的掌握，胜过滔滔不绝的一课。
-来点松弛感，别紧张。举重若轻是最好的。
-```
-
-
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > ahaip<sup>TM</sup> 此时此地，此人此事...
 
@@ -358,6 +343,7 @@
 | 2024     | 11       | 2         | 10        |
 | 2024     | 11       | 3         | 16        |
 | 2024     | 11       | 3         | 17        |
+| 2024     | 11       | 4         | 23        |
 
 ![](https://github.com/user-attachments/assets/9bdff471-5396-4b8c-9da0-eaf380f36f94)
 > [EARTH - THE BLUE MARBLE](https://zh.wikipedia.org/zh-cn/%E8%97%8D%E8%89%B2%E5%BD%88%E7%8F%A0#/media/File:Earth-BlueMarble-1997.jpg)
@@ -402,6 +388,9 @@
 终究可以活出自己，绽放自己。
 ——萨提亚 Virginia Satir
 ```
+
+![](https://github.com/user-attachments/assets/93b30a22-f423-4800-8f85-07c9b3434af6)
+> One more time，成事...
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
