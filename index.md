@@ -7,6 +7,8 @@
 
 
 **Path 模型：目标，path，who/when/what，变化，风险**
+
+
 **贝叶斯公式：增加信息，更新概率，科学决策，动态迭代**
 
 
@@ -362,6 +364,7 @@
 | 2024     | 11       | 3         | 16        |
 | 2024     | 11       | 3         | 17        |
 | 2024     | 11       | 4         | 23        |
+| 2024     | 11       | 4         | 24        |
 
 ![](https://github.com/user-attachments/assets/9bdff471-5396-4b8c-9da0-eaf380f36f94)
 > [EARTH - THE BLUE MARBLE](https://zh.wikipedia.org/zh-cn/%E8%97%8D%E8%89%B2%E5%BD%88%E7%8F%A0#/media/File:Earth-BlueMarble-1997.jpg)
@@ -409,6 +412,11 @@
 
 ![](https://github.com/user-attachments/assets/93b30a22-f423-4800-8f85-07c9b3434af6)
 > One more time，成事...
+
+![](https://github.com/user-attachments/assets/bd66b3af-6933-49dd-80a7-9e0a4fc51958)
+![](https://github.com/user-attachments/assets/6cd3ef5a-cfcc-4297-b6fc-b94f48f20ba0)
+![](https://github.com/user-attachments/assets/0d472222-b33f-4759-8379-5a759f3adddb)
+> 魔都的魅力
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
