@@ -366,8 +366,6 @@
 | 2024     | 11       | 4         | 24        |
 | 2024     | 12       | 1         | 1         | 
 
-![](https://github.com/user-attachments/assets/9bdff471-5396-4b8c-9da0-eaf380f36f94)
-> [EARTH - THE BLUE MARBLE](https://zh.wikipedia.org/zh-cn/%E8%97%8D%E8%89%B2%E5%BD%88%E7%8F%A0#/media/File:Earth-BlueMarble-1997.jpg)
 
 ```
 当我内心足够强大
