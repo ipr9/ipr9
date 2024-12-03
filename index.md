@@ -320,7 +320,7 @@
 
 ![](https://github.com/user-attachments/assets/a5754718-8cb6-4fe1-b936-9a246bb03604)
 ![](https://github.com/user-attachments/assets/e015f032-e686-42bd-9c28-e3b547dce4a2)
-> 123，过关，花开，你眼里的他人才是自己，我见青山多妩媚，料青山见我应如是
+> 123，过关，花开，你眼里的他人才是自己，从自身找原因及方法，我见青山多妩媚，料青山见我应如是
 
 
 # Record
