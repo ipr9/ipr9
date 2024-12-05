@@ -37,6 +37,7 @@
 见自己（明归途，所以豁达）
 沟通、信任、支持及授权（欣赏的激励）
 头部、腰部、底部
+了解，适应及制定游戏规则
 关关难过关关过
 办法总比问题多
 问题一具体就好办
@@ -320,8 +321,10 @@
 
 ![](https://github.com/user-attachments/assets/a5754718-8cb6-4fe1-b936-9a246bb03604)
 ![](https://github.com/user-attachments/assets/e015f032-e686-42bd-9c28-e3b547dce4a2)
-> 123，过关，花开，你眼里的他人才是自己，从自身找原因及方法，我见青山多妩媚，料青山见我应如是
+> 123，过关花开，你眼里的他人才是自己，从自身找原因及方法
 
+![](https://github.com/user-attachments/assets/32a0e671-718b-4b9e-adba-535fbcf24fb2)
+> 芳草碧连天，我见青山多妩媚，料青山见我应如是
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
