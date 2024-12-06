@@ -17,6 +17,27 @@
 好好珍惜缘分
 ```
 
+```
+生命缘
+胸怀美好瞬间
+自己视野，视角局限
+傲慢与偏见
+衣食父母，兄弟姐妹
+广结善缘，成事在人
+关注行动，底层逻辑
+修养，胸怀格局
+狗眼看人低，仗势欺人
+眼泪洗涤灵魂
+指导（期望失望）
+下指令（结果实战）
+欣赏支持，信任授权
+平等尊重，平和谦卑
+真正豁达，过好当下
+理性智慧
+生死名利
+消费欲望
+社会意义
+```
 
 ```
 智者搭台、强者补台、弱者拆台
@@ -43,12 +64,14 @@
 问题一具体就好办
 化整为零各个击破
 万事开头难，先干
+先完成后完善再完美
 不行我再想想办法
 任何时候都来得及
 有话好好说，有事好好做
 破局：自求，外求而非他求
 错失机会，是成长条件
 不缺好机会，缺人才
+接纳、欣赏及打造自己
 ```
 
 
@@ -321,10 +344,17 @@
 
 ![](https://github.com/user-attachments/assets/a5754718-8cb6-4fe1-b936-9a246bb03604)
 ![](https://github.com/user-attachments/assets/e015f032-e686-42bd-9c28-e3b547dce4a2)
-> 123，过关花开，你眼里的他人才是自己，从自身找原因及方法
+> 123，过关花开，苦难+胜利✌️，你眼里的他人才是自己，从自身找原因及方法
 
 ![](https://github.com/user-attachments/assets/32a0e671-718b-4b9e-adba-535fbcf24fb2)
 > 芳草碧连天，我见青山多妩媚，料青山见我应如是
+
+![](https://github.com/user-attachments/assets/d8d03ab2-b8ee-4fce-86b0-06ec2e58a20e)
+![](https://github.com/user-attachments/assets/0858147d-a284-467d-8a9c-6da4144e5fd4)
+![](https://github.com/user-attachments/assets/ee1e62ef-917c-4d44-94cf-ff477e1bd42c)
+![](https://github.com/user-attachments/assets/090821e9-6295-48ad-a1b1-d265e2371b57)
+![](https://github.com/user-attachments/assets/61bf8c5d-5c41-42d9-8fa6-5c67614cc84b)
+> 真善美，交互界面，胸怀美好瞬间
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
