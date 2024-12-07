@@ -359,7 +359,8 @@
 
 ![](https://github.com/user-attachments/assets/c975add6-1232-43c1-9fb5-e9a13af138f9)
 ![](https://github.com/user-attachments/assets/1a8978ae-74bf-41fc-a395-1fc3425bea25)
-> 跳出来思考，走出去行动，仪式感，慢一点，停下脚步，深度欣赏
+![](https://github.com/user-attachments/assets/657d6519-0992-4a7c-937c-e51d2f22b769)
+> On My Way...跳出来思考，走出去行动，仪式感，慢一点，停下脚步，深度欣赏
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
