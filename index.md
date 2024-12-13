@@ -1,6 +1,6 @@
 
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
-> ahaip<sup>TM</sup>Something Bigger than Yourself...AHA<sub>TM</sub>
+> **ahaip**<sup>TM</sup>  *Something Bigger than Yourself...*  **AHA**<sub>TM</sub>
 
 ```
 此时此地，此人此事
@@ -268,6 +268,8 @@
 | 2024     | 12      | 1         | 1          | 
 | 2024     | 12      | 2         | 7          | 
 | 2024     | 12      | 2         | 8          | 
+| 2024     | 12      | 2         | 8          | 
+| 2024     | 12      | 3         | 14         | 
 
 ```
 当我内心足够强大
@@ -328,6 +330,11 @@
 ![](https://github.com/user-attachments/assets/1a8978ae-74bf-41fc-a395-1fc3425bea25)
 ![](https://github.com/user-attachments/assets/657d6519-0992-4a7c-937c-e51d2f22b769)
 > On My Way...跳出来思考，走出去行动，仪式感，慢一点，停下脚步，深度欣赏
+
+![](https://github.com/user-attachments/assets/32bec7f9-ce70-44f2-9352-38ef65fb253f)
+![](https://github.com/user-attachments/assets/66e17c1d-3e2c-4cce-8de2-39cfe29d86b6)
+![](https://github.com/user-attachments/assets/3713a035-4f0e-4763-a9cf-28bac95d1fe3)
+> 无🍌🟢，紫定行，一定橙
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
