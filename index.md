@@ -1,6 +1,9 @@
 
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
-> **ahaip**<sup>TM</sup>  *Something Bigger than Yourself...*  **AHA**<sub>TM</sub>
+> **ahaip**<sup>TM</sup>  *Something Bigger than Yourself...*  
+
+![](https://github.com/user-attachments/assets/258a5eab-728b-4052-9015-7077e5e10b2b)
+> **AHA**<sub>TM</sub> 寻觅，ReadMe
 
 ```
 此时此地，此人此事
