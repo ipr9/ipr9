@@ -288,6 +288,7 @@
 | 2024     | 12      | 3         | 14         | 
 | 2024     | 12      | 3         | 22         | 
 | 2024     | 12      | 3         | 23         | 
+| 2024     | 12      | 4         | 28         | 
 
 ```
 当我内心足够强大
@@ -358,6 +359,11 @@
 ![](https://github.com/user-attachments/assets/af163768-1cd1-4044-860d-403c69aca4d5)
 ![](https://github.com/user-attachments/assets/5ad7dba9-1651-43c0-8f11-dfdd716ad589)
 > 瞬间即永恒
+
+![](https://github.com/user-attachments/assets/32da908f-4953-4617-afdb-8f58cea0f3bd)
+![](https://github.com/user-attachments/assets/365d2b27-ac17-4d9c-8311-f0b83f17b0af)
+![](https://github.com/user-attachments/assets/c6ee1656-d767-4dd0-ac1c-fcd6345196a4)
+> HongKong, I'm Coming...
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
