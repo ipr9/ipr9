@@ -1,9 +1,9 @@
 
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
-> **ahaip**<sup>TM</sup>  *Something Bigger than Yourself...*  
+> **ahaip**<sup>TM</sup>  **Something Bigger than Yourself...**
 
 ![](https://github.com/user-attachments/assets/258a5eab-728b-4052-9015-7077e5e10b2b)
-> **AHA**<sub>TM</sub> 寻觅，ReadMe
+> **AHA**<sub>TM</sub> 寻觅，**ReadMe**
 
 ```
 此时此地，此人此事
@@ -223,51 +223,12 @@
 | 2024     | 12      | 3         | 23         | 
 | 2024     | 12      | 4         | 28         | 
 
-```
-当我内心足够强大
-你指责我
-我感受到你的受伤
-你讨好我
-我看到你需要认可
-你超理智
-我体会你的脆弱和害怕
-你打岔
-我懂得你如此渴望被看到
-当我内心足够强大
-我不再防卫
-所有力量
-在我们之间自由流动
-委屈，沮丧，内疚，悲伤，愤怒，痛苦
-当他们自由流淌
-我在悲伤里感到温暖
-在愤怒里发现力量
-在痛苦里看到希望
-当我内心足够强大
-我不再攻击
-我知道
-当我不再伤害自己
-便没有人
-可以伤害我
-我放下武器
-敞开心
-当我的心，柔软起来
-便在爱和慈悲里
-与你明亮而温暖地相遇
-原来，让内心强大
-我只需要
-看到自己
-接纳我还不能做的
-欣赏我已经做到的
-并且相信
-走过这个历程
-终究可以活出自己，绽放自己。
-——萨提亚 Virginia Satir
-```
+
 
 
 # Reference
 
-1.[Exam](/exam.md)
+1. [Exam](/exam.md)
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
