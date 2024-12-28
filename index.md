@@ -118,7 +118,6 @@
 ![](https://github.com/user-attachments/assets/d8158988-22f8-41f9-915a-701337b4fce8)
 > [HUAWEI Mate XT 非凡大师](https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/) 
 
-![](https://github.com/user-attachments/assets/ffda0ccf-e30b-48f9-8c26-719c799f12d8)
 ![](https://github.com/user-attachments/assets/dc326fba-d9a8-42d8-87d5-81d7250cdbed)
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
 > 选择最难、也最有价值的路通往山顶...
