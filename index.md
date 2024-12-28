@@ -91,9 +91,9 @@
 4. 过程 vs 结果
 5. 事情 vs 关系
 6. 关系 vs 利益
-7. 本事 vs 脾气
-8. 奉献 vs 索取
-9. 理性 vs 感性
+7. 脾气 vs 本事
+8. 索取 vs 奉献
+9. 感性 vs 理性
 ```
 
 ---
@@ -116,13 +116,18 @@
 ![](https://github.com/user-attachments/assets/f8b0fbfa-fd55-4c2e-9080-97e064789238)
 ![](https://github.com/user-attachments/assets/02300c04-32dd-491d-a68b-a83fe5a11d8a)
 ![](https://github.com/user-attachments/assets/d8158988-22f8-41f9-915a-701337b4fce8)
-> [HUAWEI Mate XT 非凡大师](https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/) 大气高雅，挚爱相伴，定格岁月华章，瞬间即是永⁠恒
+> [HUAWEI Mate XT 非凡大师](https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/) 
+
+![](https://github.com/user-attachments/assets/ffda0ccf-e30b-48f9-8c26-719c799f12d8)
+![](https://github.com/user-attachments/assets/dc326fba-d9a8-42d8-87d5-81d7250cdbed)
+![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
+> 选择最难、也最有价值的路通往山顶...
 
 ---
 
 ![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
 ![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
-> 你眼里的他人才是自己，一切都会过去，一切都会来到...
+> 你眼里的他人才是自己
 
 ---
 
@@ -142,11 +147,6 @@
 ```
 
 ---
-
-![](https://github.com/user-attachments/assets/ffda0ccf-e30b-48f9-8c26-719c799f12d8)
-![](https://github.com/user-attachments/assets/dc326fba-d9a8-42d8-87d5-81d7250cdbed)
-![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
-> 选择最难、也最有价值的路通往山顶...
 
 
 | 年份  | 月份 | 周数 | 日数 |
