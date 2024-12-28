@@ -226,10 +226,5 @@
 | 2024     | 12      | 3         | 23         | 
 | 2024     | 12      | 4         | 28         | 
 
-# Reference
-
-1. [Exam](/exam.md)
-2. [English](/english.md)
-
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
