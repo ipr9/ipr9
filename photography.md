@@ -18,6 +18,7 @@
 ![](https://github.com/user-attachments/assets/657d6519-0992-4a7c-937c-e51d2f22b769)
 > On My Way...跳出来思考，走出去行动，仪式感，慢一点，停下脚步，深度欣赏
 
+![](https://github.com/user-attachments/assets/ffda0ccf-e30b-48f9-8c26-719c799f12d8)
 ![](https://github.com/user-attachments/assets/32bec7f9-ce70-44f2-9352-38ef65fb253f)
 ![](https://github.com/user-attachments/assets/66e17c1d-3e2c-4cce-8de2-39cfe29d86b6)
 ![](https://github.com/user-attachments/assets/3713a035-4f0e-4763-a9cf-28bac95d1fe3)
