@@ -107,12 +107,16 @@
 ![](https://github.com/user-attachments/assets/760b34e6-ddb0-443b-be0a-8b74dd71e03a)
 > Why Work：专业事业、社会关系、价值回报、健康生活、投资理财...
 
+![](https://github.com/user-attachments/assets/28fa1e31-47a2-407f-9183-6d8f7cc2f08c)
+![](https://github.com/user-attachments/assets/6705faad-9576-4b7a-88a1-dfb6727fc1b7)
+![](https://github.com/user-attachments/assets/b45b11c2-f3bc-4690-9b84-67358a2a0d00)
+> [HUAWEI Mate 60 RS 非凡大师](https://consumer.huawei.com/cn/phones/mate60-rs-ultimate-design/)
+
 ![](https://github.com/user-attachments/assets/83bbd88b-dcd4-4219-935f-a2213e50553b)
 ![](https://github.com/user-attachments/assets/f8b0fbfa-fd55-4c2e-9080-97e064789238)
 ![](https://github.com/user-attachments/assets/02300c04-32dd-491d-a68b-a83fe5a11d8a)
 ![](https://github.com/user-attachments/assets/d8158988-22f8-41f9-915a-701337b4fce8)
-> 大气高雅，挚爱相伴，定格岁月华章，瞬间即是永⁠恒
-
+> [HUAWEI Mate XT 非凡大师](https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/) 大气高雅，挚爱相伴，定格岁月华章，瞬间即是永⁠恒
 
 ---
 
