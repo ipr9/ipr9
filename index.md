@@ -123,6 +123,11 @@
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
 > 选择最难、也最有价值的路通往山顶...
 
+```
+make it happen
+make it possible
+make it done
+```
 ---
 
 ![](https://github.com/user-attachments/assets/d938fa15-c760-4cfe-9ebd-00846b584303)
