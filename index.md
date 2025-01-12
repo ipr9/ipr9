@@ -66,6 +66,9 @@
 6. 勇不足则多劳
 7. 明不足则多察
 8. 理不足则多辩
+9. 人败皆因懒
+10. 事败皆因傲
+11. 家败皆因奢
 ```
 
 ![](https://github.com/user-attachments/assets/67e44b86-aa63-48f4-8297-1470163c45ec)
@@ -106,6 +109,9 @@
 10. 权力 vs 责任
 11. 权利 vs 义务
 12. 收获 vs 付出
+13. 懒惰 vs 勤奋
+14. 傲慢 vs 谦虚
+15. 奢侈 vs 节俭
 ```
 
 ---
@@ -151,6 +157,7 @@ make it done
 ![](https://github.com/user-attachments/assets/9165cb31-dcd3-4c8f-9799-fef213c1c0e7)
 ![](https://github.com/user-attachments/assets/e335e050-bd23-49b7-9c06-db13859f071f)
 ![](https://github.com/user-attachments/assets/ff528d26-6d49-43d3-a187-bbfe57839095)
+![](https://github.com/user-attachments/assets/eb17394a-d7d1-460c-a6aa-a8415ccaa30c)
 > 实事求是，执行者(做事)-->操盘手(做人)-->决策者(造势)
 
 ```
