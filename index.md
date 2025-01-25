@@ -1,6 +1,8 @@
 
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > **ahaip**<sup>TM</sup>  **Something Bigger than Yourself...**
+
+![](https://github.com/user-attachments/assets/b4b62b8d-1922-494f-a388-391712fd8ddf)
 > **AHA**<sub>TM</sub> **此时此地，此人此事**
 
 ```
