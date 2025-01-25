@@ -23,6 +23,7 @@
 深度沉浸，站起来办公
 人性，民意，社会性动物
 愿力大于业力大于能力
+断舍离，产品力，品牌力（定价权）
 
 谦卑理性、目中有人
 平等尊重，平和善良
@@ -258,6 +259,7 @@ make it done
 | 2025     | 1       | 2         | 11         | 
 | 2025     | 1       | 2         | 12         | 
 | 2025     | 1       | 3         | 17         | 
+| 2025     | 1       | 4         | 25         | 
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
