@@ -26,6 +26,7 @@
 断舍离，产品力，品牌力（定价权）
 这也是工作的一部分
 学之，好之，乐之，乐此不疲
+真善美，作品意识
 
 谦卑理性、目中有人
 平等尊重，平和善良
@@ -264,6 +265,7 @@ make it done
 | 2025     | 1       | 2         | 12         | 
 | 2025     | 1       | 3         | 17         | 
 | 2025     | 1       | 4         | 25         | 
+| 2025     | 1       | 4         | 26         | 
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
