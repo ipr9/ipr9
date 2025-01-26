@@ -77,6 +77,7 @@
 ```
 
 ![](https://github.com/user-attachments/assets/67e44b86-aa63-48f4-8297-1470163c45ec)
+![](https://github.com/user-attachments/assets/2eb305de-11cc-49d3-8db0-05e502243d73)
 > Just do it. <ins>**把英语用起来(Use English)**</ins>
 
 ```
