@@ -77,6 +77,7 @@
 ```
 
 ![](https://github.com/user-attachments/assets/67e44b86-aa63-48f4-8297-1470163c45ec)
+> Just do it. <ins>**把英语用起来(Use English)**</ins>
 
 ```
 1. 积极主动
