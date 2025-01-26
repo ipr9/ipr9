@@ -1,9 +1,9 @@
 
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
-> **ahaip**<sup>TM</sup>  **Something Bigger than Yourself...**
+> **ahaip**<sup>TM</sup><ins>**Something Bigger than Yourself...**</ins>
 
 ![](https://github.com/user-attachments/assets/b4b62b8d-1922-494f-a388-391712fd8ddf)
-> **AHA**<sub>TM</sub> **此时此地，此人此事**
+> **AHA**<sub>TM</sub><ins>**此时此地，此人此事**</ins>
 
 ```
 此时此地，此人此事
@@ -100,7 +100,7 @@
 4. **路径**：高级程序员（技术）、专利代理师（法律）、职业经理人（商务）、洞察人性、MVP、Why-What-How
 5. **系统**：可纠错的反馈闭环——初始信念（先验概率）-大胆行动（获得新信息）-更新信念（后验概率）
 6. **模型**：登山模型，各种path，多样性，条条大道通罗马，Try your best，尽人之智...
-7. **复利**：收入=本金*(1+利率)<sup>时长</sup>
+7. **复利**：<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 8. **成本**：注意力>时间>金钱，投资资产，税后收入，面向未来，避开沉没成本陷阱...
 
 
@@ -179,8 +179,6 @@ make it done
 ```
 
 ---
-
-
 
 | 年份  | 月份 | 周数 | 日数 |
 | ----- |  :------:  |  :------:  | :------:  |
