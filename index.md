@@ -129,6 +129,7 @@
 # Invest
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
+![](https://github.com/user-attachments/assets/01966b5a-b277-4c85-8d3a-2d86d8169d7f)
 > 成为、寻找及信赖专业人士
 
 ![](https://github.com/user-attachments/assets/ea2a9880-9027-478e-b5bf-9a9ccf2e05dc)
@@ -268,6 +269,7 @@ make it done
 | 2025     | 1       | 4         | 25         | 
 | 2025     | 1       | 4         | 26         | 
 | 2025     | 1       | 4         | 27         | 
+| 2025     | 1       | 4         | 28         | 
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
