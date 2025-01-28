@@ -1,8 +1,6 @@
 
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > **ahaip**<sup>TM</sup><ins>**Something Bigger than Yourself...**</ins>
-
-![](https://github.com/user-attachments/assets/b4b62b8d-1922-494f-a388-391712fd8ddf)
 > **AHA**<sub>TM</sub><ins>**此时此地，此人此事**</ins>
 
 ```
@@ -78,8 +76,7 @@
 ```
 
 ![](https://github.com/user-attachments/assets/67e44b86-aa63-48f4-8297-1470163c45ec)
-![](https://github.com/user-attachments/assets/2eb305de-11cc-49d3-8db0-05e502243d73)
-> Just do it. <ins>**把英语用起来(Use English)**</ins>
+> Just do it. <ins>**把英语用起来(Use English)**</ins>，条条大道通罗马，从量变到质变
 
 ```
 1. 积极主动
@@ -135,17 +132,6 @@
 ![](https://github.com/user-attachments/assets/ea2a9880-9027-478e-b5bf-9a9ccf2e05dc)
 ![](https://github.com/user-attachments/assets/760b34e6-ddb0-443b-be0a-8b74dd71e03a)
 > Why Work：专业事业、社会关系、价值回报、健康生活、投资理财...
-
-![](https://github.com/user-attachments/assets/28fa1e31-47a2-407f-9183-6d8f7cc2f08c)
-![](https://github.com/user-attachments/assets/6705faad-9576-4b7a-88a1-dfb6727fc1b7)
-![](https://github.com/user-attachments/assets/b45b11c2-f3bc-4690-9b84-67358a2a0d00)
-> [HUAWEI Mate 60 RS 非凡大师](https://consumer.huawei.com/cn/phones/mate60-rs-ultimate-design/)
-
-![](https://github.com/user-attachments/assets/83bbd88b-dcd4-4219-935f-a2213e50553b)
-![](https://github.com/user-attachments/assets/f8b0fbfa-fd55-4c2e-9080-97e064789238)
-![](https://github.com/user-attachments/assets/02300c04-32dd-491d-a68b-a83fe5a11d8a)
-![](https://github.com/user-attachments/assets/d8158988-22f8-41f9-915a-701337b4fce8)
-> [HUAWEI Mate XT 非凡大师](https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/) 
 
 ![](https://github.com/user-attachments/assets/dc326fba-d9a8-42d8-87d5-81d7250cdbed)
 ![](https://github.com/ipr9/ipr9/assets/163503847/b2687fda-2b10-4357-9ade-4d48a61916a7)
@@ -270,6 +256,7 @@ make it done
 | 2025     | 1       | 4         | 26         | 
 | 2025     | 1       | 4         | 27         | 
 | 2025     | 1       | 4         | 28         | 
+| 2025     | 1       | 4         | 29         | 
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
