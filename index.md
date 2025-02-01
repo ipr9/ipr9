@@ -6,7 +6,7 @@
 > **AHA**<sub>TM</sub><ins>**此时此地，此人此事**</ins>
 
 ![](https://github.com/user-attachments/assets/45b1659c-fb48-47c9-a783-542190e5d11d)
-> **七年一辈子，一切过去一切来到，除了生死，别无大事**
+> **一切皆过去及来到，除生死无大事**
 
 
 ```
@@ -32,7 +32,8 @@
 学之，好之，乐之，乐此不疲
 真善美，作品意识
 深圳，香港，上海
-了解，熟悉，欣赏，成为...
+hk了解，熟悉，欣赏，成为...
+感受情绪及能量的变化
 
 谦卑理性、目中有人
 平等尊重，平和善良
@@ -126,6 +127,8 @@
 14. 傲慢 vs 谦虚
 15. 奢侈 vs 节俭
 16. 人教人 vs 事教人
+17. 人性 vs 理性
+18. 信任 vs 监督
 ```
 
 ---
@@ -134,7 +137,6 @@
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 ![](https://github.com/user-attachments/assets/01966b5a-b277-4c85-8d3a-2d86d8169d7f)
-![](https://github.com/user-attachments/assets/6902442b-f3e2-46a4-9006-4fa71b20a38b)
 > 成为、寻找及信赖专业人士
 
 ![](https://github.com/user-attachments/assets/ea2a9880-9027-478e-b5bf-9a9ccf2e05dc)
@@ -267,6 +269,7 @@ make it done
 | 2025     | 1       | 4         | 29         | 
 | 2025     | 1       | 4         | 30         | 
 | 2025     | 1       | 4         | 31         | 
+| 2025     | 2       | 1         | 1          | 
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
