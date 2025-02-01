@@ -2,11 +2,8 @@
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > **ahaip**<sup>TM</sup><ins>**Something Bigger than Yourself...**</ins>
 
-![](https://github.com/user-attachments/assets/14da6f28-707e-4ed3-92fc-c2cd5ace3747)
-> **AHA**<sub>TM</sub><ins>**此时此地，此人此事**</ins>
-
-![](https://github.com/user-attachments/assets/45b1659c-fb48-47c9-a783-542190e5d11d)
-> **一切皆过去及来到，除生死无大事**
+![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
+> **AHA**<sub>TM</sub><ins>**此时此地，此人此事**</ins> 
 
 
 ```
@@ -34,6 +31,7 @@
 深圳，香港，上海
 hk了解，熟悉，欣赏，成为...
 感受情绪及能量的变化
+一切皆过去及来到，除生死无大事
 
 谦卑理性、目中有人
 平等尊重，平和善良
