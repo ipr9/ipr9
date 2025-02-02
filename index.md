@@ -32,6 +32,8 @@
 hk了解，熟悉，欣赏，成为...
 感受情绪及能量的变化
 一切皆过去及来到，除生死无大事
+问题，需求，价值
+一念天堂一念地狱
 
 谦卑理性、目中有人
 平等尊重，平和善良
@@ -82,7 +84,8 @@ hk了解，熟悉，欣赏，成为...
 ```
 
 ![](https://github.com/user-attachments/assets/67e44b86-aa63-48f4-8297-1470163c45ec)
-> Just do it. <ins>**把英语用起来(Use English)**</ins>，条条大道通罗马，从量变到质变
+![](https://github.com/user-attachments/assets/d4a09eb7-88ea-4a10-b18e-366b2257f41b)
+> Just do it. <ins>**把英语用起来(Use English)**</ins>，条条大道通罗马，从量变到质变，从预测到创造未来
 
 ```
 1. 积极主动
@@ -268,6 +271,18 @@ make it done
 | 2025     | 1       | 4         | 30         | 
 | 2025     | 1       | 4         | 31         | 
 | 2025     | 2       | 1         | 1          | 
+| 2025     | 2       | 1         | 2          | 
+
+# Experience
+
+1. [大沙河公园]()
+2. [莲花山公园]()
+3. [深圳湾公园]()
+4. [维多利亚港]()
+5. [世纪公园]()
+6. [西西弗书店]()
+7. [覔书店]()
+8. [言几又]()
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
