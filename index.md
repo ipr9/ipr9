@@ -3,8 +3,13 @@
 > **ahaip**<sup>TM</sup><ins>**Something Bigger than Yourself...**</ins>
 
 ![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
-> **AHA**<sub>TM</sub><ins>**此时此地，此人此事**</ins> 
+> **AHA**<sub>TM</sub><ins>**此时此地，此人此事，价值来自关系深度**</ins> 
 
+![](https://github.com/user-attachments/assets/2e08c520-545d-4675-bd22-1217b2ef40c8)
+![](https://github.com/user-attachments/assets/fb80858e-6f94-45aa-be5f-e9e1b68eb11a)
+![](https://github.com/user-attachments/assets/c6c49bc8-b753-4c51-9178-c73491563983)
+![](https://github.com/user-attachments/assets/b9ce6556-0e99-4858-a7f7-d9c3035a6482)
+> 投入地去爱一个人，投入地去做一件事，幸福就降临了。<sup>维克多·弗兰克尔</sup>  
 
 ```
 此时此地，此人此事
@@ -36,6 +41,9 @@ hk了解，熟悉，欣赏，成为...
 一念天堂一念地狱
 大智若愚，举重若轻
 AI 分析持仓，利其器善其事
+能力来自与某个事物建立了深度联系
+有才到有用
+依赖，独立及协作
 
 谦卑理性、目中有人
 平等尊重，平和善良
@@ -274,6 +282,7 @@ make it done
 | 2025     | 1       | 4         | 31         | 
 | 2025     | 2       | 1         | 1          | 
 | 2025     | 2       | 1         | 2          | 
+| 2025     | 2       | 1         | 3          | 
 
 # Experience
 
