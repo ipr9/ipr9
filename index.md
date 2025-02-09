@@ -305,6 +305,9 @@ make it done
 6. [西西弗书店]()
 7. [覔书店]()
 8. [言几又]()
+9. [深圳]()
+10. [香港]()
+11. [上海]()
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
