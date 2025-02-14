@@ -309,6 +309,10 @@ make it done
 
 # Experience
 
+![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
+![](https://github.com/user-attachments/assets/ebb33033-da47-4505-a12d-d581e992f9c4)
+> 天道酬勤，厚积薄发，量变质变，腹有诗书气自华，精神，果敢，从容，松弛，豁达，开朗，乐观，大方...
+
 1. [大沙河公园]()
 2. [莲花山公园]()
 3. [深圳湾公园]()
