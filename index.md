@@ -58,6 +58,9 @@ A 股，H 股，美股
 心力，信念，定力，选择，行动
 相信自己相信的，看见自己看见的
 深度，有效，从容，松弛
+腹有诗书气自华，精神，果敢，从容，松弛
+豁达，开朗，乐观，大方...
+看破不说破的高级智慧
 
 谦卑理性、目中有人
 平等尊重，平和善良
@@ -306,12 +309,15 @@ make it done
 | 2025     | 2       | 1         | 5          | 
 | 2025     | 2       | 2         | 9          | 
 | 2025     | 2       | 2         | 11         | 
+| 2025     | 2       | 3         | 15         | 
+
 
 # Experience
 
 ![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
 ![](https://github.com/user-attachments/assets/ebb33033-da47-4505-a12d-d581e992f9c4)
-> 天道酬勤，厚积薄发，量变质变，腹有诗书气自华，精神，果敢，从容，松弛，豁达，开朗，乐观，大方...
+![](https://github.com/user-attachments/assets/9c8aba6c-c01f-4aa1-b39e-0aece5fbfe04)
+> 天道酬勤，厚积薄发，量变质变
 
 1. [大沙河公园]()
 2. [莲花山公园]()
