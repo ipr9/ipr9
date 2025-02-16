@@ -112,6 +112,17 @@ Are you Ready? just do it!
 以事实说话，欣赏而非拥有
 ```
 
+
+```Why
+1. Luck，Choice，Relation
+2. HWPM，Meditation，Sleep，Walk，Diet...
+3. 不纠结，不后悔，此时此地，此人此事
+4. 创新尝试及体验，体系化沉淀
+5. 得到，多邻国，投资等习惯，替代其他的
+6. T 字型结构
+```
+
+
 ```
 1. 识不足则多虑
 2. 威不足则多怒
