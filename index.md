@@ -3,7 +3,6 @@
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > **ahaip**<sup>TM</sup><ins>**Something Bigger than Yourself...**</ins>
 
-
 ![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
 > **AHA**<sub>TM</sub><ins>**此时此地，此人此事，价值来自关系深度，我选择，我自由，我存在**</ins> 
 
@@ -72,6 +71,8 @@ A 股，H 股，美股
 沐浴，city walk，coffee，美食
 阅读，思考，music，movie，数码，摄影...
 延迟满足的成功实践
+Are you Ready? just do it!
+人生经历及故事
 
 谦卑理性、目中有人
 平等尊重，平和善良
