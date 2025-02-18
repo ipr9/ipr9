@@ -74,6 +74,7 @@ A 股，H 股，美股
 Are you Ready? just do it!
 人生经历及故事
 目标，指标，任务，资源，执行
+这生活，怎能不爱
 
 谦卑理性、目中有人
 平等尊重，平和善良
@@ -345,6 +346,7 @@ make it done
 ![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
 ![](https://github.com/user-attachments/assets/ebb33033-da47-4505-a12d-d581e992f9c4)
 ![](https://github.com/user-attachments/assets/9c8aba6c-c01f-4aa1-b39e-0aece5fbfe04)
+![](https://github.com/user-attachments/assets/abbfa1ad-5945-47c8-bea7-f15fc8ee4d00)
 > 天道酬勤，厚积薄发，量变质变
 
 1. [大沙河公园]()
