@@ -200,7 +200,7 @@ Are you Ready? just do it!
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 ![](https://github.com/user-attachments/assets/01966b5a-b277-4c85-8d3a-2d86d8169d7f)
-> 成为、寻找及信赖专业人士，投资专家团：李笑来，香帅，何刚，吴军，Guru，段永平，顾均辉，Ray Dalio，吴伯凡，但斌，任泽平
+> 成为、寻找及信赖专业人士，投资专家团：李笑来，香帅，何刚，吴军，Guru（陈守红），段永平，顾均辉，Ray Dalio，吴伯凡，但斌，任泽平
 
 ![](https://github.com/user-attachments/assets/ea2a9880-9027-478e-b5bf-9a9ccf2e05dc)
 ![](https://github.com/user-attachments/assets/760b34e6-ddb0-443b-be0a-8b74dd71e03a)
