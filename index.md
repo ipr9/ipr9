@@ -7,9 +7,15 @@
 > **AHA**<sub>TM</sub><ins>**此时此地，此人此事，价值来自关系深度，我选择，我自由，我存在**</ins> 
 
 
-1. 时间是最大的成本
-2. 进化持续突破上限
-3. Garbage in Garbage out
+<img width="1187" alt="image" src="https://github.com/user-attachments/assets/d0dc410b-aab0-497c-ae87-5b060152cb87" />
+<img width="1038" alt="image" src="https://github.com/user-attachments/assets/466263cf-be9b-4f4d-b486-482cfb56e900" />
+
+1. 时间是最大的成本，注意力>时间>金钱
+2. 进化持续突破上限，创新实战，能量及思绪等自然流动
+3. Garbage in Garbage out，少而精，真通透
+4. 少许白发，岁月的味道及痕迹，长期主义者
+5. 基本功，次数，创新；本金，利率及时长
+6. 从 t 到 π，再到挖井模型，持续深耕，工匠精神
 
 
 ```Thought
