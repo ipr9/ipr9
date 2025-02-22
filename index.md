@@ -7,7 +7,7 @@
 > **AHA**<sub>TM</sub><ins>**此时此地，此人此事，价值来自关系深度，我选择，我自由，我存在**</ins> 
 
 
-```
+```Thought
 此时此地，此人此事
 除了生死，别无大事
 实事求是，就事论事
@@ -129,7 +129,7 @@ Are you Ready? just do it!
 ```
 
 
-```
+```Logic
 1. 识不足则多虑
 2. 威不足则多怒
 3. 信不足则多言
@@ -167,13 +167,13 @@ Are you Ready? just do it!
 4. **路径**：高级程序员（技术）、专利代理师（法律）、职业经理人（商务）、洞察人性、MVP、Why-What-How
 5. **系统**：可纠错的反馈闭环——初始信念（先验概率）-大胆行动（获得新信息）-更新信念（后验概率）
 6. **模型**：登山模型，各种path，多样性，条条大道通罗马，Try your best，尽人之智...
-7. **复利**：<ins>收入=本金*(1+利率)<sup>时长</sup></ins>，投资专家团：李笑来，香帅，何刚，吴军，Guru，段永平，顾均辉，Ray Dalio，吴伯凡
+7. **复利**：<ins>收入=本金*(1+利率)<sup>时长</sup></ins>
 8. **成本**：注意力>时间>金钱，投资资产，税后收入，面向未来，避开沉没成本陷阱...
 9. **观念**：问题/需求就是机会/价值，我能为您做些什么？我能解决最难的问题是什么
 10. **共赢**：修己安人，独立自主，强强联合，协作共赢，专业，利益，人性，感情，关系
 
 
-```
+```Insight
 1. 个人 vs 团队
 2. 局部 vs 全局
 3. 当前 vs 长远
@@ -200,7 +200,7 @@ Are you Ready? just do it!
 
 ![](https://github.com/ipr9/ipr9/assets/163503847/1a31f258-954d-40cb-9fe4-5af193819957)
 ![](https://github.com/user-attachments/assets/01966b5a-b277-4c85-8d3a-2d86d8169d7f)
-> 成为、寻找及信赖专业人士
+> 成为、寻找及信赖专业人士，投资专家团：李笑来，香帅，何刚，吴军，Guru，段永平，顾均辉，Ray Dalio，吴伯凡，但斌，任泽平
 
 ![](https://github.com/user-attachments/assets/ea2a9880-9027-478e-b5bf-9a9ccf2e05dc)
 ![](https://github.com/user-attachments/assets/760b34e6-ddb0-443b-be0a-8b74dd71e03a)
@@ -230,7 +230,7 @@ make it done
 ![](https://github.com/user-attachments/assets/eb17394a-d7d1-460c-a6aa-a8415ccaa30c)
 > 实事求是，执行者(做事)-->操盘手(做人)-->决策者(造势)
 
-```
+```Trend
 顺势而安
 趁势而起
 造势而雄
@@ -340,6 +340,7 @@ make it done
 | 2025     | 2       | 2         | 11         | 
 | 2025     | 2       | 3         | 15         | 
 | 2025     | 2       | 3         | 16         | 
+| 2025     | 2       | 4         | 22         | 
 
 # Experience
 
