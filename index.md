@@ -1,5 +1,4 @@
 
-
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > **ahaip**<sup>TM</sup>  <ins>**Something Bigger than Yourself...**</ins>
 
@@ -20,9 +19,12 @@
 ![](https://github.com/user-attachments/assets/85ea495e-5ef6-4c19-817b-c3276596c09c)
 > 持续成长及创造价值，<ins>技能=基本功*(1+次数)<sup>创新</sup></ins>
 
-1. 从 t 到 π，再到挖井模型，持续深耕，工匠精神
+![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
+
+1. 从 t 到 π，再到开模型，持续深耕，工匠精神
 2. 重塑大脑，更新概念，7年一辈子，保护注意力及守护本金
 3. 需求及价值：What can I do for you；How can I help you？
+
 
 ```Logic
 1. 识不足则多虑
