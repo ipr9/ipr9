@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>北京时间实时时钟</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+
+        .clock-container {
+            background: white;
+            padding: 2rem 3rem;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        #date {
+            font-size: 1.8rem;
+            color: #666;
+            margin-bottom: 1rem;
+        }
+
+        #time {
+            font-size: 3.5rem;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .time-unit {
+            display: inline-block;
+            min-width: 80px;
+            padding: 0 10px;
+        }
+
+        .colon {
+            display: inline-block;
+            margin: 0 5px;
+            animation: blink 1s infinite;
+        }
+
+        @keyframes blink {
+            50% { opacity: 0.3; }
+        }
+    </style>
+</head>
+<body>
+    <div class="clock-container">
+        <div id="date">2025-03-01 星期六</div>
+        <div id="time">
+            <span class="time-unit" id="hours">00</span>
+            <span class="colon">:</span>
+            <span class="time-unit" id="minutes">00</span>
+            <span class="colon">:</span>
+            <span class="time-unit" id="seconds">00</span>
+        </div>
+    </div>
+
+    <script>
+        // 获取北京时间元素
+        const dateElement = document.getElementById('date');
+        const hoursElement = document.getElementById('hours');
+        const minutesElement = document.getElementById('minutes');
+        const secondsElement = document.getElementById('seconds');
+
+        // 格式化数字为两位显示
+        const formatNumber = (num) => num.toString().padStart(2, '0');
+
+        // 获取并更新北京时间
+        function updateBeijingTime() {
+            const now = new Date();
+            
+            // 使用Intl API获取格式化时间（兼容性更好）
+            const options = {
+                timeZone: 'Asia/Shanghai',
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: false
+            };
+            
+            // 获取完整日期时间字符串
+            const formatter = new Intl.DateTimeFormat('zh-CN', options);
+            const parts = formatter.formatToParts(now);
+            
+            // 解析日期时间组件
+            const timeValues = {};
+            parts.forEach(part => {
+                timeValues[part.type] = part.value;
+            });
+
+            // 更新显示
+            dateElement.textContent = `${timeValues.year}-${timeValues.month}-${timeValues.day} ${getWeekday(now)}`;
+            hoursElement.textContent = timeValues.hour;
+            minutesElement.textContent = timeValues.minute;
+            secondsElement.textContent = timeValues.second;
+        }
+
+        // 获取星期几
+        function getWeekday(date) {
+            const weekdays = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
+            return weekdays[date.getDay()];
+        }
+
+        // 初始立即执行
+        updateBeijingTime();
+        // 每秒更新一次
+        setInterval(updateBeijingTime, 1000);
+    </script>
+</body>
+</html>
