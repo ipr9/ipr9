@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>北京时间实时时钟</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: #2c3e50;
+            font-family: 'Segoe UI', system-ui, sans-serif;
+        }
+
+        .clock-container {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 2rem 3rem;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(10px);
+        }
+
+        #datetime {
+            color: #ecf0f1;
+            font-size: 2.5rem;
+            text-align: center;
+            letter-spacing: 2px;
+        }
+
+        .time-unit {
+            display: inline-block;
+            min-width: 2.2em;
+            text-align: center;
+        }
+
+        @media (max-width: 480px) {
+            #datetime {
+                font-size: 1.8rem;
+            }
+            .clock-container {
+                padding: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="clock-container">
+        <div id="datetime">
+            <span id="date"></span><br>
+            <span id="hours" class="time-unit"></span> :
+            <span id="minutes" class="timeunit"></span> :
+            <span id="seconds" class="time-unit"></span>
+        </div>
+    </div>
+
+    <script>
+        function updateClock() {
+            // 获取北京时间对象 
+            const options = {
+                timeZone: 'Asia/Shanghai',
+                year: 'numeric',
+                month: '2-digit',
+                day: '2-digit',
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: false
+            };
+            
+            // 格式化日期时间 
+            const formatter = new Intl.DateTimeFormat('zh-CN', options);
+            const parts = formatter.formatToParts(new Date()).reduce((acc, part) => {
+                acc[part.type] = part.value;
+                return acc;
+            }, {});
+
+            // 更新DOM元素 
+            document.getElementById('date').textContent = 
+                `${parts.year}-${parts.month}-${parts.day}`;
+            document.getElementById('hours').textContent = parts.hour;
+            document.getElementById('minutes').textContent = parts.minute;
+            document.getElementById('seconds').textContent = parts.second;
+
+            // 添加动态效果
+            const secondsElement = document.getElementById('seconds');
+            secondsElement.style.color = `hsl(${Date.now() / 50 % 360}, 70%, 65%)`;
+        }
+
+        // 初始加载并每秒更新 
+        updateClock();
+        setInterval(updateClock, 1000);
+
+        // 支持requestAnimationFrame实现更流畅动画
+        function animate() {
+            requestAnimationFrame(animate);
+            // 添加其他动画效果
+        }
+        animate();
+    </script>
+</body>
+</html>
