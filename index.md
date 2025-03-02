@@ -2,13 +2,11 @@
 ![](https://github.com/user-attachments/assets/0bce7a8d-159a-4a21-b5a2-c60bf032f294)
 > **ahaip**<sup>TM</sup>  <ins>**Something Bigger than Yourself...**</ins>
 
-
 ```AHA
 松弛了（R90，饮食，Walk，冥想，能量，情绪...）
 领悟了（概念，观念，关系，逻辑...）
 听懂了（话外之意，英语）
 ```
-
 
 1. **使命**：创造和运用IP，助力公司经营及发展
 2. **愿景**：成为产业界具有影响力的IP实务专家
@@ -88,7 +86,6 @@
 善用友者强
 仅用徒者亡
 ```
-
 
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
