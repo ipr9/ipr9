@@ -93,16 +93,4 @@
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
 
-<!-- 插入时钟容器 -->
-<!-- 在.md文件中直接插入以下代码 -->
-<div style="position: relative; min-height: 200px">
-<iframe 
-    src="/clock.html" 
-    style="border:none; width:100%; height:240px;"
-    scrolling="no"
-></iframe>
-</div>
-
-{% raw %}<iframe src="/assets/clock.html" style="border:none; width:100%; height:200px"></iframe>{% endraw %}
-
 
