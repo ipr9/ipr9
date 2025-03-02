@@ -30,7 +30,8 @@
 > 从 t 到 π，再到开模型，持续深耕，工匠精神
 
 ![](https://github.com/user-attachments/assets/9a56f4ad-6ad2-47f1-85f8-15b84e332b59)
-> Sisyphe书房，世纪公园，捕捉及体验美好瞬间
+![](https://github.com/user-attachments/assets/4e144115-2e08-4fa6-9627-fd0e46b93104)
+> Sisyphe书房，世纪公园，捕捉及体验美好瞬间，弹出自己的主旋律
 
 
 ```Logic
