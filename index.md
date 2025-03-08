@@ -3,7 +3,7 @@
 > **ahaip**<sup>TM</sup>  <ins>**Something Bigger than Yourself...**</ins>
 
 ![](https://github.com/user-attachments/assets/5795c952-e05e-472d-9a59-c388ea307a8d)
-> 此时此地，此人此事，化繁为简
+> 此时此地，此人此事，化繁为简，再深入一层，工匠精神
 
 ```AHA
 松弛了（R90，饮食，Walk，冥想，能量，情绪...）
