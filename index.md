@@ -106,7 +106,11 @@ No.1 & Only One——产品，投资
 仅用徒者亡
 ```
 
+
 # Record
 ![](https://repobeats.axiom.co/api/embed/33051853ccf6265eb7d31d271476fbb6ef9e95ef.svg "Repobeats analytics image")
+
+# Tools
+1. [GitHub](https://desktop.github.com/download/) + [Visual Studio Code](https://code.visualstudio.com/docs/setup/mac)
 
 
