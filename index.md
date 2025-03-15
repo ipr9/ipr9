@@ -1,4 +1,7 @@
 
+![](https://github.com/user-attachments/assets/09675f60-0b3d-488a-a076-cd4223e78f00)
+> 创造，体验及欣赏美好事物
+
 ![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
 > 从 t 到 π，再到开，<ins>技能=基本功*(1+次数)<sup>创新</sup></ins>
 
@@ -9,6 +12,7 @@
 春夏秋冬，生老病死
 自由流动，变化机会
 选我所爱，爱我所选
+厚积薄发，欲速不达
 ```
 
 ![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
