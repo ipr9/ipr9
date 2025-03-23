@@ -13,6 +13,15 @@
 自由流动，变化机会
 选我所爱，爱我所选
 厚积薄发，欲速不达
+garbage in, garbage out
+物品故事
+琢磨事，琢磨人
+搞定人，搞定事
+能用愚蠢解释的，就不要用恶意
+不回应就是一种回应
+不表态就是一种表态
+举重若轻，从容不迫
+心如止水，波澜不惊
 ```
 
 ![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
@@ -32,3 +41,8 @@
 
 ![](https://github.com/user-attachments/assets/69301001-2b18-4380-9ec4-0153b1f4a472)
 > 自然流动，无为无用...
+
+![](https://github.com/user-attachments/assets/e99c13e5-77b1-442a-9014-5877c3a2bbda)
+![](https://github.com/user-attachments/assets/dd874158-da5b-429a-96c8-c9f1d653bd0a)
+> 利他即利己，未来交易，大格局：多大范围多少人多久远，从事到人，真正关心人
+
