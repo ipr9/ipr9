@@ -1,10 +1,27 @@
 
-![](https://github.com/user-attachments/assets/7e0505fc-b560-4247-91fc-3657fbdc8126)
-> 人生只有900个月，创造，体验及欣赏美好事物，真诚，善良，美感...
 
+![](https://github.com/user-attachments/assets/46ceba68-e1f6-4091-af18-56969a113c5a)
+![](https://github.com/user-attachments/assets/52cf818c-e20f-4bb9-9f01-0c2094dcfdca)
+![](https://github.com/user-attachments/assets/6dc2a514-0402-4def-b062-59ffac6bb218)
+![](https://github.com/user-attachments/assets/f87937f5-1991-4696-897a-ddf78e2e7ff7)
+> 从事到人，从实到虚，从近到远，从令到辅——我们都是认知和习惯的囚徒；岁月如歌，专利如诗
+
+
+![](https://github.com/user-attachments/assets/6018c17a-ce01-428c-bb3a-81cfb8637377)
+> 一周是一年的2%；人生只有900个月...
+
+![](https://github.com/user-attachments/assets/7e0505fc-b560-4247-91fc-3657fbdc8126)
+> 创造，体验及欣赏美好事物，真诚，善良，美感...
+
+![](https://github.com/user-attachments/assets/35d55b96-6656-426c-a74c-c6d42e344e2d)
 ![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
 > 从 t 到 π，再到开，开启AI时代...<ins>技能=基本功*(1+次数)<sup>创新</sup></ins>
 
+
+![](https://github.com/user-attachments/assets/e05193a0-80dd-4ed9-8687-c87aecd18c24)
+![](https://github.com/user-attachments/assets/64646c79-977a-431b-bc48-ff868b2655eb)
+![](https://github.com/user-attachments/assets/bc37b3b7-a5a0-4614-ad6e-65e5559e3dd7)
+> 修己安人，小我，大我，忘我，人生真正的价值在于贡献…
 
 ```AHA
 此时此地，此人此事
@@ -65,6 +82,40 @@ garbage in, garbage out
 我这人很有趣。
 ```
 
+![](https://github.com/user-attachments/assets/a84a11a0-682f-4322-aba4-b8052cacda43)
+> 目‘未尝见全牛’，刀入牛身若‘无厚入有间’而游刃有余；翁曰：无他，但手熟尔。我亦无他，惟手熟尔。
+
+![](https://github.com/user-attachments/assets/7c7cb917-35ff-46fa-a1e5-da82280db8fd)
+> 一生干好一件事：高价值专利产品及经典案例，创造美感，沉浸并乐在其中…
+
+1. 我来
+2. 我不知道
+3. 你觉得呢
+4. 我讲个故事
+5. 我教你
+6. 失败了，恭喜你
+7. 我要改变什么
+8. 为什么
+9. 我是谁
+10. 我该是谁
+
+![](https://github.com/user-attachments/assets/0bebac5f-3689-4a32-b978-b11d5e7e2a40)
+![](https://github.com/user-attachments/assets/3ce31f67-b6aa-435e-94db-35f2e8961349)
+![](https://github.com/user-attachments/assets/8e79a2c0-d488-4cc1-98bf-ee655aaddcc8)
+> 登高望远，志当存高远，脚需踏实地
+
+1. 我可以贡献一个新的视角吗？
+2. 的确很难，你需要我如何支持你？
+3. 我想了解你的思考过程
+4. 先别慌，我们来看看怎么回事？
+5. 这是你第二次来问我，这次跟以前有什么不同？
+6. 你拿不准的点是什么？
+7. 你还需要多长时间完成？
+8. 这件事需要你的支持
+9. 这件事我考虑不周，邀请你一起制定下一步的计划
+10. 这件事你更专业，有解决方案吗？
+
+
 ![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
 > **AHA**<sub>TM</sub>  承一事成一事，节奏感，修己安人，提前量（咖啡，WC，Water，能量...）
 
@@ -80,6 +131,10 @@ garbage in, garbage out
 10. **观念**：问题/需求就是机会/价值，我能为您做些什么？想要我怎么帮您，我能解决最难的问题是什么
 11. **共赢**：修己安人，独立自主，强强联合，协作共赢，专业，利益，人性，感情，关系
 
+
+![](https://github.com/user-attachments/assets/9c80c625-93a8-4cf9-9c24-f0b8430b1200)
+> 茨威格，《人类群星闪耀时》：“一个人生命中最大的幸运，莫过于在他的人生中途，即在他年富力强的时候发现了自己的使命”。 天下事这么多，遇见一件热爱，擅长且能创造价值和成就的工作，多么幸运，响应使命召唤，专业，简洁及优雅，不浪费在地球上的短暂旅程，如果能给自己找到人生的愿景和使命，就可以长久地活的高峰体验，因为在选择奋斗的同时，也享受了…
+
 ![](https://github.com/user-attachments/assets/69301001-2b18-4380-9ec4-0153b1f4a472)
 > 自然流动，无为无用...
 
@@ -93,6 +148,13 @@ garbage in, garbage out
 ![](https://github.com/user-attachments/assets/cd0de6c2-9f34-46ea-8803-f72b5894adc8)
 > Live in the future, then build what's missing
 
+![](https://github.com/user-attachments/assets/56c25b2c-fa11-445b-a705-ae260d4b02a2)
+> 此乃时也、运也、命也。
+
+
+![](https://github.com/user-attachments/assets/9c4aba74-2df7-4f98-8fec-9d03ebb24b9b)
+> 古今多少事，都付笑谈中。
+
 ```
 天下风云出我辈
 一入江湖岁月催
@@ -102,4 +164,59 @@ garbage in, garbage out
 有恩怨就有江湖
 人就是江湖，你怎么退出
 ```
+
+![](https://github.com/user-attachments/assets/4403a747-b2f9-4bd9-84c0-e9c30f19ac2a)
+![](https://github.com/user-attachments/assets/367e29f3-58d2-46bc-abd6-1ac0fb3afe9b)
+![](https://github.com/user-attachments/assets/c824ca6d-bc6c-48f1-aeae-0eddb4275f50)
+![](https://github.com/user-attachments/assets/15ba1a96-658c-4ce9-91bd-966640979438)
+
+处理关键对话，有四个要点：
+第一是要明确对话目的；
+第二是要营造安全的对话氛围；
+第三是从事实入手开展对话；
+最后是了解对方的真实动机，从根本上解决问题。
+
+![](https://github.com/user-attachments/assets/fd40a012-fb95-47ed-bae3-bc5126fb8deb)
+
+```
+如何面对失误“四部曲”
+第一步是realize it ，真实认识到错误，之后你就可以少懊恼一点了，认识到就是一种收获。
+你还可以correct it，改正它、修正它，这又是一种收获。
+你还可以learn from it，从这个错误中学习到背后的原因。
+后来我又加了一个：forgive it——如果你已经完成了前三步，那么你应该放下它。
+面对错误，很多人强调痛定思痛，我是建议：不要过长时间进入到自我指责的状态中。
+```
+
+![](https://github.com/user-attachments/assets/5daa98a6-c821-406b-8bfd-5bca0b082b54)
+> 人生是一场马拉松，一时一刻的成败得失，都不那么重要。
+
+```
+像是跑长途的人
+一怕路上没人纠偏
+二怕心中没了彼岸
+使命是帮助我们纠偏的“辅助线”
+愿景就是我们的“彼岸”
+每走一步
+都要用使命和愿景来校准自己的决策和行动
+```
+
+![](https://github.com/user-attachments/assets/f2a8ee54-cbb3-4024-acb2-695c4fc723c6)
+![](https://github.com/user-attachments/assets/812d6c6a-099d-483e-83c8-bc6a73abe865)
+![](https://github.com/user-attachments/assets/b5581f24-d428-4917-a51a-48be169c4f4f)
+![](https://github.com/user-attachments/assets/448859a7-548b-445a-9ac7-1902291c1cf7)
+![](https://github.com/user-attachments/assets/5d02ba9c-1e9c-4b1c-a9c9-bfc8aa58b9a5)
+![](https://github.com/user-attachments/assets/2520f26f-be9c-48da-ab83-742a89f63a41)
+![](https://github.com/user-attachments/assets/ee3c6750-602b-46ba-af2b-cadc1092959a)
+![](https://github.com/user-attachments/assets/2bebee78-641a-48d7-9edc-d895c2422ae8)
+![](https://github.com/user-attachments/assets/b4dcdd29-b037-474d-9539-f09bba5c7cc0)
+![](https://github.com/user-attachments/assets/077d8f5f-d5c3-43a8-97cd-4dd46d53a360)
+
+![](https://github.com/user-attachments/assets/4ee5533f-1816-462f-ba33-e2ffe2542582)
+![](https://github.com/user-attachments/assets/66d2458b-b46f-4c83-9551-cc83dc348413)
+![](https://github.com/user-attachments/assets/2d744a41-320c-4170-bd15-f1b73261117d)
+> 只有认知突破，才能带来真正的成长。每一段经历，每一次蜕变，都是一次认知的突破，更是一次关键的成长。
+
+
+![](https://github.com/user-attachments/assets/e5bd9b40-6d3a-44cb-88d9-af490b76cdc8)
+> 在时代变迁的洪流中，如何获得内心的平静呢？我的答案是：成长。所有的人生难题，你都将在成长中找到答案。 人因梦想而伟大，又因坚持梦想而成长。 只有脚踏实地的成长，才有足够的自信、勇气与决心，去迎接所有未知的挑战； 也只有脚踏实地的成长，才能让自己内心充实，眼里有光，时时刻刻充满力量！
 
