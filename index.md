@@ -66,7 +66,7 @@ garbage in, garbage out
 ```
 
 ![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
-> **AHA**<sub>TM</sub>  承一事，成一事，节奏感，修己安人
+> **AHA**<sub>TM</sub>  承一事成一事，节奏感，修己安人，提前量（咖啡，WC，Water，能量...）
 
 1. **使命**：创造和运用IP，助力公司经营及发展
 2. **愿景**：成为产业界具有影响力的IP实务专家
