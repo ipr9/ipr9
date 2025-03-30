@@ -19,13 +19,10 @@ garbage in, garbage out
 琢磨事，琢磨人
 搞定人，搞定事
 能用愚蠢解释的，就不要用恶意
-
 不回应就是一种回应
 不表态就是一种表态
-
 举重若轻，从容不迫
 心如止水，波澜不惊
-
 面对复杂，保持喜欢
 急为心窄，先宽后容
 不看人说，看怎么做
@@ -43,16 +40,6 @@ garbage in, garbage out
 一种高高兴兴、简单明了的生活
 活在未来，然后造出现在还没有的部分
 
-Live in the future, then build what's missing
-
-天下风云出我辈
-一入江湖岁月催
-皇图霸业谈笑中
-不胜人生一场醉
-江湖，只要有人就有恩怨
-有恩怨就有江湖
-人就是江湖，你怎么退出
-
 压力本质上是我们对威胁或者挑战事件的身体和情绪反应
 自尊，是一个人对自我的全面评价
 气场，就是一个人表现出来自己的说服力和对抗说服能力的总和
@@ -60,6 +47,18 @@ Live in the future, then build what's missing
 爱是一种能力，也是一种实力
 情绪放下了，才能开始认真分析利益
 耐心就是不急躁、不厌烦
+
+谁痛苦，谁改变
+谁改变，谁受益
+接纳什么，什么就消失
+你对抗什么，什么就存在
+
+把“凭什么”改成“怎么办”才能解决问题
+区分别人和自己的课题
+只对自己的课题负责，不干涉别人课题
+改变自己关键在行动
+决定做一件事要在72小时内行动，否则可能不再做
+若改变困难，就拆解成微小事情逐步完成
 
 我挺忙，但很好；
 我很强，且有用；
@@ -87,4 +86,20 @@ Live in the future, then build what's missing
 ![](https://github.com/user-attachments/assets/e99c13e5-77b1-442a-9014-5877c3a2bbda)
 ![](https://github.com/user-attachments/assets/dd874158-da5b-429a-96c8-c9f1d653bd0a)
 > 利他即利己，未来交易，大格局：多大范围多少人多久远，从事到人，真正关心人
+
+
+![](https://github.com/user-attachments/assets/be8ec925-d4a5-477c-b008-4e9ceec9786d)
+![](https://github.com/user-attachments/assets/1d6ecb32-bc17-48fc-a354-9c1f584f0905)
+![](https://github.com/user-attachments/assets/cd0de6c2-9f34-46ea-8803-f72b5894adc8)
+> Live in the future, then build what's missing
+
+```
+天下风云出我辈
+一入江湖岁月催
+皇图霸业谈笑中
+不胜人生一场醉
+江湖，只要有人就有恩怨
+有恩怨就有江湖
+人就是江湖，你怎么退出
+```
 
