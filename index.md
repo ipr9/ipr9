@@ -11,7 +11,7 @@
 ![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
 > 从 t 到 π，再到开，开启AI时代...
 
-![](https://github.com/user-attachments/assets/bc37b3b7-a5a0-4614-ad6e-65e5559e3dd7)
+![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
 > “一个人生命中最大的幸运，莫过于在他的人生中途，即在他年富力强的时候发现了自己的使命”<sub>茨威格，《人类群星闪耀时》</sub>
 
 ---
