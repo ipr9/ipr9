@@ -137,6 +137,8 @@ garbage in, garbage out
 
 ---
 
+![](https://github.com/user-attachments/assets/e725ed5d-868b-4200-92e4-c8922abcd935)
+
 1. 我可以贡献一个新的视角吗？
 2. 的确很难，你需要我如何支持你？
 3. 我想了解你的思考过程
