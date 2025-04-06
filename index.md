@@ -1,28 +1,20 @@
 
 ![](https://github.com/user-attachments/assets/6018c17a-ce01-428c-bb3a-81cfb8637377)
-> 一周是一年的2%；人生只有900个月...创造，体验及欣赏美好事物，真诚，善良，美感...
+> 承担更大的责任，解决更难的问题，创造更多的价值，成就更好的自己，修己安人
 
-![](https://github.com/user-attachments/assets/52cf818c-e20f-4bb9-9f01-0c2094dcfdca)
-> 目‘未尝见全牛’，刀入牛身若‘无厚入有间’而游刃有余；翁曰：无他，但手熟尔。我亦无他，惟手熟尔
+![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
+> **AHA**<sub>TM</sub>  <ins>技能=基本功*(1+次数)<sup>创新</sup></ins>，摆脱惯性，每一次都重要
 
 ![](https://github.com/user-attachments/assets/f87937f5-1991-4696-897a-ddf78e2e7ff7)
-> 岁月如歌，专利如诗：从事到人，从实到虚，从近到远，从令到辅
-
-![](https://github.com/user-attachments/assets/35d55b96-6656-426c-a74c-c6d42e344e2d)
-> <ins>技能=基本功*(1+次数)<sup>创新</sup></ins>，从量变到质变
+> 大格局：多大范围、多少人，多久远，从事到人，真正关心人
 
 ![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
 > 从 t 到 π，再到开，开启AI时代...
 
 ![](https://github.com/user-attachments/assets/bc37b3b7-a5a0-4614-ad6e-65e5559e3dd7)
-> 修己安人，小我，大我，忘我，人生真正的价值在于贡献…
+> “一个人生命中最大的幸运，莫过于在他的人生中途，即在他年富力强的时候发现了自己的使命”<sub>茨威格，《人类群星闪耀时》</sub>
 
-![](https://github.com/user-attachments/assets/e99c13e5-77b1-442a-9014-5877c3a2bbda)
-![](https://github.com/user-attachments/assets/dd874158-da5b-429a-96c8-c9f1d653bd0a)
-> 利他即利己，未来交易，大格局：多大范围多少人多久远，从事到人，真正关心人
-
-![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
-> **AHA**<sub>TM</sub>  承一事成一事，节奏感，修己安人，提前量（咖啡，WC，Water，能量...）
+---
 
 1. **使命**：创造和运用IP，助力公司经营及发展
 2. **愿景**：成为产业界具有影响力的IP实务专家
@@ -44,6 +36,30 @@
 自由流动，变化机会
 选我所爱，爱我所选
 厚积薄发，欲速不达
+
+一周是一年的2%
+人生只有900个月
+承一事成一事，量变到质变
+事事有回音
+凡是有交代
+件件有着落
+游刃有余，惟手熟尔
+小我，大我，忘我
+人生真正的价值在于贡献
+
+从事到人
+从实到虚
+从近到远
+从令到辅
+
+节奏感
+提前量（咖啡，WC，Water，能量...）
+
+修己安人
+利他利己
+重复博弈
+未来交易
+
 garbage in, garbage out
 人生经历，物品故事
 琢磨事，琢磨人
@@ -89,13 +105,13 @@ garbage in, garbage out
 改变自己关键在行动
 决定做一件事要在72小时内行动，否则可能不再做
 若改变困难，就拆解成微小事情逐步完成
+不做认知和习惯的囚徒
 
-我们都是认知和习惯的囚徒
-如何获得内心的平静呢？我的答案是：成长。所
-有的人生难题，你都将在成长中找到答案。 
-人因梦想而伟大，又因坚持梦想而成长。 
-只有脚踏实地的成长，才有足够的自信、勇气与决心，去迎接所有未知的挑战；
-也只有脚踏实地的成长，才能让自己内心充实，眼里有光，时时刻刻充满力量！
+如何获得内心的平静呢？我的答案是：成长
+所有的人生难题，你都将在成长中找到答案。
+人因梦想而伟大，又因坚持梦想而成长
+脚踏实地的成长，才有足够的自信、勇气与决心，去迎接所有未知的挑战
+只有脚踏实地的成长，才能让自己内心充实，眼里有光，时时刻刻充满力量
 
 我挺忙，但很好；
 我很强，且有用；
@@ -103,8 +119,10 @@ garbage in, garbage out
 ```
 
 
-![](https://github.com/user-attachments/assets/7c7cb917-35ff-46fa-a1e5-da82280db8fd)
-> 一生干好一件事：高价值专利产品及经典案例，创造美感，沉浸并乐在其中…
+![](https://github.com/user-attachments/assets/2d744a41-320c-4170-bd15-f1b73261117d)
+> 脚踏实地的成长
+
+---
 
 1. 我来
 2. 我不知道
@@ -117,8 +135,7 @@ garbage in, garbage out
 9. 我是谁
 10. 我该是谁
 
-![](https://github.com/user-attachments/assets/3ce31f67-b6aa-435e-94db-35f2e8961349)
-> 登高望远，志当存高远，脚需踏实地
+---
 
 1. 我可以贡献一个新的视角吗？
 2. 的确很难，你需要我如何支持你？
@@ -131,12 +148,7 @@ garbage in, garbage out
 9. 这件事我考虑不周，邀请你一起制定下一步的计划
 10. 这件事你更专业，有解决方案吗？
 
+---
 
-![](https://github.com/user-attachments/assets/b311c6d0-df58-4fd7-ad86-9a5ab53c7478)
-![](https://github.com/user-attachments/assets/25052837-adfa-453e-9a4b-3364114f5c9c)
-![](https://github.com/user-attachments/assets/c79f24d0-d7a0-4690-8ba5-5fca43522eee)
-![](https://github.com/user-attachments/assets/8a0b6311-adb5-40cd-a1b4-76c94aa1b4c5)
-> [HUAWEI Pura X](https://consumer.huawei.com/cn/phones/pura-x/)，“一个人生命中最大的幸运，莫过于在他的人生中途，即在他年富力强的时候发现了自己的使命”<sub>茨威格，《人类群星闪耀时》</sub>
 
-![](https://github.com/user-attachments/assets/2d744a41-320c-4170-bd15-f1b73261117d)
-> 只有认知突破，才能带来真正的成长。每一段经历，每一次蜕变，都是一次认知的突破，更是一次关键的成长。
+
