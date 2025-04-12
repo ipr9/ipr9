@@ -152,5 +152,10 @@ garbage in, garbage out
 
 ---
 
+---
 
+![](https://github.com/user-attachments/assets/0dd6514d-d75c-40c7-909b-84463a25e5cc)
+> Milestone
+
+* [x] 2025.4.10，冰山模型——721原则——事业伙伴
 
