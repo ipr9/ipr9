@@ -162,7 +162,7 @@ garbage in, garbage out
 
 ---
 
-![](https://github.com/user-attachments/assets/0dd6514d-d75c-40c7-909b-84463a25e5cc)
+![](https://github.com/user-attachments/assets/083d284a-4ee4-4df2-8ff0-1bb8e699f26d)
 > Milestone
 
 ![](https://github.com/user-attachments/assets/6d242926-dcc8-4ecf-b929-75f55d9f8b83)
@@ -171,4 +171,4 @@ garbage in, garbage out
 ---
 
 * [x] 2025.4.10，冰山模型——721原则——事业伙伴
-* [x] 2025.4.13，拙，诚
+* [x] 2025.4.13，拙诚，繁花，律动
