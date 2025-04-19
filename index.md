@@ -14,7 +14,7 @@
 ![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
 > “一个人生命中最大的幸运，莫过于在他的人生中途，即在他年富力强的时候发现了自己的使命”<sub>茨威格，《人类群星闪耀时》</sub>
 
-![](https://github.com/user-attachments/assets/a60555a4-0078-4125-ada6-6965f6cdbd08)
+![](https://github.com/user-attachments/assets/2a9ce0d0-d717-414f-9cde-99d4ed091962)
 > Just do it right now <sup>MJ</sup>
 
 ---
@@ -179,3 +179,4 @@ garbage in, garbage out
 * [x] 2025.4.10，冰山，721，伙伴
 * [x] 2025.4.13，拙诚，繁花，律动
 * [x] 2025.4.19，场景，设备，心境
+* [x] 2025.4.20，
