@@ -67,6 +67,16 @@ garbage in, garbage out
 能用愚蠢解释的，就不要用恶意
 不回应就是一种回应
 不表态就是一种表态
+
+一视同仁，一如既往
+先宽后后容
+稳定的状态及输出
+稳定的预期及信任
+人教人教不会，事教人
+造势用人，取得结果
+
+
+
 举重若轻，从容不迫
 心如止水，波澜不惊
 面对复杂，保持喜欢
@@ -152,13 +162,13 @@ garbage in, garbage out
 
 ---
 
----
-
 ![](https://github.com/user-attachments/assets/0dd6514d-d75c-40c7-909b-84463a25e5cc)
 > Milestone
 
 ![](https://github.com/user-attachments/assets/6d242926-dcc8-4ecf-b929-75f55d9f8b83)
 > 拙，诚
+
+---
 
 * [x] 2025.4.10，冰山模型——721原则——事业伙伴
 * [x] 2025.4.13，拙，诚
