@@ -14,6 +14,9 @@
 ![](https://github.com/user-attachments/assets/4e0c2f6e-a8e1-4085-beed-ffa3b6f6f37a)
 > “一个人生命中最大的幸运，莫过于在他的人生中途，即在他年富力强的时候发现了自己的使命”<sub>茨威格，《人类群星闪耀时》</sub>
 
+![](https://github.com/user-attachments/assets/a60555a4-0078-4125-ada6-6965f6cdbd08)
+> Just do it right now <sup>MJ</sup>
+
 ---
 
 1. **使命**：创造和运用IP，助力公司经营及发展
@@ -76,7 +79,9 @@ garbage in, garbage out
 人教人教不会，事教人
 造势用人，取得结果
 
-
+化繁为简，少就是多
+简洁优雅，本质核心
+60/40集合，结果价值
 
 举重若轻，从容不迫
 心如止水，波澜不惊
