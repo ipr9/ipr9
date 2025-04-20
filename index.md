@@ -139,7 +139,7 @@ garbage in, garbage out
 
 
 ![](https://github.com/user-attachments/assets/2d744a41-320c-4170-bd15-f1b73261117d)
-> 脚踏实地的成长
+> 脚踏实地的成长，成长及奋斗道路上永不孤单
 
 ---
 
