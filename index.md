@@ -230,7 +230,7 @@ garbage in, garbage out
 > 演化博弈：在B发生的条件下，A发生的概率=（A本身的概率 × B在A发生时的概率）÷ B发生的总概率
 
 ![](https://github.com/user-attachments/assets/083d284a-4ee4-4df2-8ff0-1bb8e699f26d)
-> 繁花
+> 繁花，选我所爱，爱我所选
 
 ![](https://github.com/user-attachments/assets/6d242926-dcc8-4ecf-b929-75f55d9f8b83)
 > 拙诚，真诚，大智若愚
