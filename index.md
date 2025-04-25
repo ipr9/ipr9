@@ -235,9 +235,21 @@ garbage in, garbage out
 ![](https://github.com/user-attachments/assets/6d242926-dcc8-4ecf-b929-75f55d9f8b83)
 > 拙诚，真诚，大智若愚
 
+![](https://github.com/user-attachments/assets/3931ffd4-f353-4d06-b382-745d6ba32175)
+![](https://github.com/user-attachments/assets/bc594851-c3b4-4138-a1a8-cd8a06f34752)
+> to live , to err, to recreate，跳出来思考，走出去行动
+
+```
+想象终止，我便终止
+我们不必做诗人，但要做心中有诗的人
+无人为孤岛，一书一世界
+阅读是安静的自我觉醒，还有冥想，爬山...
+```
+
 ---
 
 * [x] 2025.4.10，冰山，721，伙伴
 * [x] 2025.4.13，拙诚，繁花，律动
 * [x] 2025.4.19，场景，设备，心境
 * [x] 2025.4.20，Jumpman简单平替
+* [x] 2025.4.26，IP Day，沉浸体验
