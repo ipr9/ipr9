@@ -21,7 +21,7 @@
 > “一个人生命中最大的幸运，莫过于在他的人生中途，即在他年富力强的时候发现了自己的使命”<sub>茨威格，《人类群星闪耀时》</sub>
 
 ![](https://github.com/user-attachments/assets/2a9ce0d0-d717-414f-9cde-99d4ed091962)
-> Just do it right now <sup>MJ</sup>
+> Just do it right now <sup>MJ</sup> 倾听，激励及行动的力量，从量变到质变，从神经链接到习惯
 
 ---
 
@@ -238,7 +238,7 @@ garbage in, garbage out
 > 演化博弈：在B发生的条件下，A发生的概率=（A本身的概率 × B在A发生时的概率）÷ B发生的总概率
 
 ![](https://github.com/user-attachments/assets/083d284a-4ee4-4df2-8ff0-1bb8e699f26d)
-> 繁花，选我所爱，爱我所选
+> 繁花，选我所爱，爱我所选，领导者：人才，利益，势能
 
 
 ```
