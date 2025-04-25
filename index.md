@@ -232,6 +232,20 @@ garbage in, garbage out
 ![](https://github.com/user-attachments/assets/083d284a-4ee4-4df2-8ff0-1bb8e699f26d)
 > 繁花，选我所爱，爱我所选
 
+
+```
+爱护健康
+陪伴家人
+三观正
+珍惜时间
+重视资产
+守护边界
+勤奋创新
+行动派
+长期主义
+```
+
+
 ![](https://github.com/user-attachments/assets/6d242926-dcc8-4ecf-b929-75f55d9f8b83)
 > 拙诚，真诚，大智若愚
 
@@ -244,6 +258,8 @@ garbage in, garbage out
 我们不必做诗人，但要做心中有诗的人
 无人为孤岛，一书一世界
 阅读是安静的自我觉醒，还有冥想，爬山...
+道阻且长，行则将至
+海纳百川，法力无边
 ```
 
 ---
