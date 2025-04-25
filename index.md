@@ -262,6 +262,9 @@ garbage in, garbage out
 海纳百川，法力无边
 ```
 
+![](https://github.com/user-attachments/assets/50c61530-66ce-4fc1-9e9e-45ef0add3d4c)
+> 千锤百炼，百炼成钢，自我雕塑
+
 ---
 
 * [x] 2025.4.10，冰山，721，伙伴
