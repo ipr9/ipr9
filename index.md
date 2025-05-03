@@ -2,13 +2,6 @@
 ![](https://github.com/user-attachments/assets/6018c17a-ce01-428c-bb3a-81cfb8637377)
 > 承担更大的责任，解决更难的问题，创造更多的价值，成就更好的自己，修己安人
 
-```
-不一厢情愿，而是始终理性地换位思考
-不执着于输赢，而是始终着眼于均衡分析
-不被原有结构限制，而是能用新的游戏规则重塑均衡结果
-皆凡发生，是利好利空，在于观念认知，选择行动，及审视调整
-```
-
 ![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
 > **AHA**<sub>TM</sub>  <ins>技能=基本功*(1+次数)<sup>创新</sup></ins>，摆脱惯性，每一次都重要
 
@@ -89,6 +82,10 @@ garbage in, garbage out
 简洁优雅，本质核心
 60/40集合，结果价值
 
+不一厢情愿，而是始终理性地换位思考
+不执着于输赢，而是始终着眼于均衡分析
+不被原有结构限制，而是能用新的游戏规则重塑均衡结果
+
 举重若轻，从容不迫
 心如止水，波澜不惊
 面对复杂，保持喜欢
@@ -116,6 +113,7 @@ garbage in, garbage out
 脚踏实地的成长，才有足够的自信、勇气与决心，去迎接所有未知的挑战
 只有脚踏实地的成长，才能让自己内心充实，眼里有光，时时刻刻充满力量
 
+皆凡发生，是利好利空，在于观念认知，选择行动，及审视调整
 
 我挺忙，但很好；
 我很强，且有用；
@@ -180,8 +178,17 @@ garbage in, garbage out
 > 拙诚，真诚，大智若愚
 
 ![](https://github.com/user-attachments/assets/3931ffd4-f353-4d06-b382-745d6ba32175)
-![](https://github.com/user-attachments/assets/bc594851-c3b4-4138-a1a8-cd8a06f34752)
+![](https://github.com/user-attachments/assets/5b9af633-034e-4a8c-96e0-b9ed2fc55dfc)
 > to live , to err, to recreate，跳出来思考，走出去行动
+
+![](https://github.com/user-attachments/assets/8cae7191-af0f-41f3-81ac-f7a5eedd7816)
+> Meeting is Romance. Less is more.
+
+![](https://github.com/user-attachments/assets/23b2d36e-5ea2-4cae-bd9c-23d484c00e1b)
+![](https://github.com/user-attachments/assets/f958e2fb-c192-4e6e-b520-0b084aebdeb4)
+![](https://github.com/user-attachments/assets/ceeaa189-c7a6-41fa-8230-0ebfc8daf3bb)
+![](https://github.com/user-attachments/assets/7d68d4b4-8c3e-4936-b4f8-ab5e9c2e888c)
+> 走进自然，自然会玩，人间烟火味，美好在发生
 
 ```
 想象终止，我便终止
@@ -202,4 +209,5 @@ garbage in, garbage out
 * [x] 2025.4.19，场景，设备，心境
 * [x] 2025.4.20，Jumpman简单平替
 * [x] 2025.4.26，IP Day，沉浸体验
-* [x] 2025.5.02，大海行，驭浪游
+* [x] 2025.5.01，大海行，驭浪游
+* [x] 2025.5.03，深圳书城，觅书店
