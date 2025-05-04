@@ -199,6 +199,17 @@ garbage in, garbage out
 海纳百川，法力无边
 ```
 
+![](https://github.com/user-attachments/assets/c9ae795a-69d8-4543-bc0f-9d5224717f04)
+![](https://github.com/user-attachments/assets/8e5714d1-0f15-48cc-a1b8-bb408e96fde0)
+![](https://github.com/user-attachments/assets/b06d3f0b-bc1f-4922-a2a5-10e95f4142d3)
+> 阅读与徒步，思考和践行，总有一个在路上...
+
+```
+所有生活的美学旨在抵抗一个字——忙。
+如果失去对生活美学的尊重，
+人活得再富有，也会对所拥有的东西没有安全感。
+```
+
 ![](https://github.com/user-attachments/assets/50c61530-66ce-4fc1-9e9e-45ef0add3d4c)
 > 千锤百炼，百炼成钢，自我雕塑
 
@@ -214,6 +225,12 @@ garbage in, garbage out
 
 ✅ 2025.4.26，IP Day，沉浸体验
 
-✅ 2025.5.01，大海行，驭浪游
+✅ 2025.5.01，大海行，驭浪游，和泰
+
+✅ 2025.5.02，NBA，宝体中心
 
 ✅ 2025.5.03，深圳书城，觅书店
+
+✅ 2025.5.04，仙桐体育公园，挖耳
+
+✅ 2025.5.05，方大城，觅书店
