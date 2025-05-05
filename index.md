@@ -2,6 +2,23 @@
 ![](https://github.com/user-attachments/assets/6018c17a-ce01-428c-bb3a-81cfb8637377)
 > 承担更大的责任，解决更难的问题，创造更多的价值，成就更好的自己，修己安人
 
+```MY
+
+存在合理
+自然发生
+时间朋友
+结果事实
+
+能量（血糖）
+心态（观念ABC）
+输出（执行）
+
+学之者
+好之者
+乐之者
+
+```
+
 ![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
 > **AHA**<sub>TM</sub>  <ins>技能=基本功*(1+次数)<sup>创新</sup></ins>，摆脱惯性，每一次都重要
 
@@ -209,6 +226,11 @@ garbage in, garbage out
 如果失去对生活美学的尊重，
 人活得再富有，也会对所拥有的东西没有安全感。
 ```
+
+![](https://github.com/user-attachments/assets/fa10fe7d-38ca-460b-884c-8d6745837baf)
+![](https://github.com/user-attachments/assets/188acebc-52b2-4825-8823-9f071cf78a68)
+![](https://github.com/user-attachments/assets/ecc58508-3bab-403c-889a-01dca33c0d34)
+> 不理解会支持，不对抗许发生
 
 ![](https://github.com/user-attachments/assets/50c61530-66ce-4fc1-9e9e-45ef0add3d4c)
 > 千锤百炼，百炼成钢，自我雕塑
