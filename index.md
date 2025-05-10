@@ -264,6 +264,10 @@ garbage in, garbage out
 ![](https://github.com/user-attachments/assets/ecc58508-3bab-403c-889a-01dca33c0d34)
 > 不理解会支持，不对抗许发生
 
+![](https://github.com/user-attachments/assets/177380d5-9ea4-4bf0-a133-3606ddd72dd4)
+![](https://github.com/user-attachments/assets/bd60f9e5-eab0-4724-b752-91a355266df9)
+> 多阅读，多思考，多落实，多沟通
+
 ![](https://github.com/user-attachments/assets/50c61530-66ce-4fc1-9e9e-45ef0add3d4c)
 > 千锤百炼，百炼成钢，自我雕塑
 
@@ -288,3 +292,5 @@ garbage in, garbage out
 ✅ 2025.5.04，仙桐体育公园，挖耳
 
 ✅ 2025.5.05，方大城，觅书店，🏀
+
+✅ 2025.5.10，方大城，觅书店，🏀
