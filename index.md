@@ -2,6 +2,15 @@
 ![](https://github.com/user-attachments/assets/6018c17a-ce01-428c-bb3a-81cfb8637377)
 > 承担更大的责任，解决更难的问题，创造更多的价值，成就更好的自己
 
+![](https://github.com/user-attachments/assets/177380d5-9ea4-4bf0-a133-3606ddd72dd4)
+
+```Common Sense
+
+Honesty is the best policy.
+
+```
+
+
 ```MY
 
 修己安人
@@ -264,7 +273,6 @@ garbage in, garbage out
 ![](https://github.com/user-attachments/assets/ecc58508-3bab-403c-889a-01dca33c0d34)
 > 不理解会支持，不对抗许发生
 
-![](https://github.com/user-attachments/assets/177380d5-9ea4-4bf0-a133-3606ddd72dd4)
 ![](https://github.com/user-attachments/assets/bd60f9e5-eab0-4724-b752-91a355266df9)
 > 多阅读，多思考，多落实，多沟通
 
