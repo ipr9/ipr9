@@ -276,6 +276,12 @@ garbage in, garbage out
 ![](https://github.com/user-attachments/assets/bd60f9e5-eab0-4724-b752-91a355266df9)
 > 多阅读，多思考，多落实，多沟通
 
+![](https://github.com/user-attachments/assets/906f2c0b-b62e-45fd-8798-a69c29d9d629)
+![](https://github.com/user-attachments/assets/d8f033f2-0cb3-4b48-8177-f59b8d25a0d4)
+![](https://github.com/user-attachments/assets/b697bf3f-7295-4655-a70b-b5c60cdc4f64)
+![](https://github.com/user-attachments/assets/3d796013-aea3-46a9-81db-243520b68432)
+> City Walk, Photography, Reading ...
+
 ![](https://github.com/user-attachments/assets/50c61530-66ce-4fc1-9e9e-45ef0add3d4c)
 > 千锤百炼，百炼成钢，自我雕塑
 
@@ -302,3 +308,5 @@ garbage in, garbage out
 ✅ 2025.5.05，方大城，觅书店，🏀
 
 ✅ 2025.5.10，方大城，觅书店，🏀
+
+✅ 2025.5.17，张江路，Peet's，🫧🫧🫧
