@@ -3,10 +3,16 @@
 > 承担更大的责任，解决更难的问题，创造更多的价值，成就更好的自己
 
 ![](https://github.com/user-attachments/assets/177380d5-9ea4-4bf0-a133-3606ddd72dd4)
+> 井底蛙，泡中人
+
 
 ```Common Sense
 
 Honesty is the best policy.
+选择一条少有、正确及价值之路，学着走，跟着走，领着走
+每个人都要先照顾好自己再说
+客户服务模式：客户，老板，自己
+
 
 ```
 
@@ -297,7 +303,7 @@ garbage in, garbage out
 
 ✅ 2025.4.26，IP Day，沉浸体验
 
-✅ 2025.5.01，大海行，驭浪游，和泰
+✅ 2025.5.01，Ultra-大海行，驭浪游，和泰
 
 ✅ 2025.5.02，NBA，宝体中心
 
