@@ -233,6 +233,11 @@ DeepSeek
 ![](https://github.com/user-attachments/assets/26998105-7534-41a0-b0e2-ef2d93881de6)
 > 一生自由，心安即是归处，志存高远，厚德惠人，心有笃定，知行合一<sub>笃合书局</sub>
 
+![](https://github.com/user-attachments/assets/94983099-8934-422a-a04b-c23e79ea586a)
+![](https://github.com/user-attachments/assets/5acc4b23-50ad-4a92-ad61-639bb74fcc9a)
+![](https://github.com/user-attachments/assets/c760e2bf-9cac-40b8-9051-74b6afa58713)
+> 历史与现代，city work -> city walk
+
 ## Reference
 
 1. [平常心](https://www.sohu.com/a/459267173_761946)
