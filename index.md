@@ -238,6 +238,9 @@ DeepSeek
 ![](https://github.com/user-attachments/assets/c760e2bf-9cac-40b8-9051-74b6afa58713)
 > 历史与现代，city work -> city walk
 
+![](https://github.com/user-attachments/assets/ee74b1d3-a3ef-40c8-ad74-539421e0e8a1)
+> 山，水，城
+
 ## Reference
 
 1. [平常心](https://www.sohu.com/a/459267173_761946)
