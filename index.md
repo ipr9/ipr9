@@ -239,7 +239,6 @@ DeepSeek
 ![](https://github.com/user-attachments/assets/b599b08f-e61e-4f00-8ec0-72d145e8810b)
 ![](https://github.com/user-attachments/assets/3a6b57d4-1b66-4f6a-aaaa-7ba9aacafc15)
 ![](https://github.com/user-attachments/assets/e1c1ff2e-b3b3-4401-b84d-77757244ddce)
-![](https://github.com/user-attachments/assets/af3ac4a2-cf14-42c6-bcf8-1594bcef39a9)
 ![](https://github.com/user-attachments/assets/6fca4f0b-e626-4179-a701-c8ea03eb1f09)
 > 历史与现代，city work -> city walk
 
