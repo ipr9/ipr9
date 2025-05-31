@@ -1,7 +1,7 @@
 
 
 ![](https://github.com/user-attachments/assets/2f4b9546-e79f-46f8-9b01-49ca293d6e7e)
-> Only One & No.1，因相信而看见，因行动而到达，因坚持而突破
+> Only One & No.1，沉浸当下，因相信而看见，因行动而到达，因坚持而突破
 
 ![](https://github.com/user-attachments/assets/6d242926-dcc8-4ecf-b929-75f55d9f8b83)
 > Fast is Slow， 拙诚，真诚，大智若愚
@@ -153,6 +153,9 @@
 只有脚踏实地的成长，才能让自己内心充实，眼里有光，时时刻刻充满力量
 
 皆凡发生，是利好利空，在于观念认知，选择行动，及审视调整
+
+发明——首次创造
+专属ai助手
 
 ```
 
