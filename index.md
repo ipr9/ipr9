@@ -248,6 +248,9 @@ DeepSeek
 ![](https://github.com/user-attachments/assets/ee74b1d3-a3ef-40c8-ad74-539421e0e8a1)
 > 山，水，城
 
+![](https://github.com/user-attachments/assets/2a4c0700-e518-47cd-94c7-0bcb3afe02c4)
+> 无负今日，读书最乐
+
 ## Reference
 
 1. [平常心](https://www.sohu.com/a/459267173_761946)
