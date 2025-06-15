@@ -83,14 +83,6 @@
 ![](https://github.com/user-attachments/assets/f87937f5-1991-4696-897a-ddf78e2e7ff7)
 > 大格局：多大范围、多少人，多久远，从事到人，真正关心人
 
-## Tools
-
-![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
-> 从 t 到 π，再到开，开启AI时代...
-
-![](https://github.com/user-attachments/assets/9fc82ad5-158d-49b5-9e4d-72db76ff92e5)
-> 自我进化...
-
 
 ```
 60/40比例
@@ -102,6 +94,14 @@
 不被原有结构限制，而是能用新的游戏规则重塑均衡结果
 
 ```
+
+## Tools
+
+![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
+> 从 t 到 π，再到开，开启AI时代...
+
+![](https://github.com/user-attachments/assets/9fc82ad5-158d-49b5-9e4d-72db76ff92e5)
+> 自我进化...
 
 ## Reference
 
