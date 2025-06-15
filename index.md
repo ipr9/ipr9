@@ -83,6 +83,15 @@
 ![](https://github.com/user-attachments/assets/f87937f5-1991-4696-897a-ddf78e2e7ff7)
 > 大格局：多大范围、多少人，多久远，从事到人，真正关心人
 
+## Tools
+
+![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
+> 从 t 到 π，再到开，开启AI时代...
+
+![](https://github.com/user-attachments/assets/9fc82ad5-158d-49b5-9e4d-72db76ff92e5)
+> 自我进化...
+
+
 ```
 60/40比例
 7/2/1原则
@@ -94,24 +103,12 @@
 
 ```
 
----
-
-## Tools
-
-![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
-> 从 t 到 π，再到开，开启AI时代...
-
-```
-ChatGPT
-DeepSeek
-秘塔AI
-```
-
-![](https://github.com/user-attachments/assets/9fc82ad5-158d-49b5-9e4d-72db76ff92e5)
-> 自我进化...
-
 ## Reference
 
 1. [平常心](https://www.sohu.com/a/459267173_761946)
 2. [好生意](https://mp.weixin.qq.com/s/VxbhRmntzpgZd5HN-SFR3Q)
 3. [价值投资](https://ahatop10.com/)
+4. [ChatGPT](https://chatgpt.com/)
+5. [Perplexity](https://www.perplexity.ai/)
+6. [秘塔AI](https://metaso.cn/)
+7. [DeepSeek](https://www.deepseek.com/)
