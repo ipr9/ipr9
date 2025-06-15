@@ -4,7 +4,7 @@
 > Only One & No.1，沉浸当下，因相信而看见，因行动而到达，因坚持而突破
 
 ![](https://github.com/user-attachments/assets/6d242926-dcc8-4ecf-b929-75f55d9f8b83)
-> Fast is Slow， 拙诚，真诚，大智若愚
+> Fast is Slow， 拙诚，真诚，大智若愚，够用就好
 
 ![](https://github.com/user-attachments/assets/23b2d36e-5ea2-4cae-bd9c-23d484c00e1b)
 > Think Big, Exchage Value，创新求变，迭代进化
