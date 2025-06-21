@@ -98,6 +98,7 @@
 ## Tools
 
 ![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
+![](https://github.com/user-attachments/assets/4c64f863-9bd2-4793-b684-779138c1f8e9)
 > 从 t 到 π，再到开，开启AI时代（从chat到agent）...
 
 ![](https://github.com/user-attachments/assets/9fc82ad5-158d-49b5-9e4d-72db76ff92e5)
