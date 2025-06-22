@@ -7,7 +7,10 @@
 > Fast is Slow， 拙诚，真诚，大智若愚，够用就好
 
 ![](https://github.com/user-attachments/assets/23b2d36e-5ea2-4cae-bd9c-23d484c00e1b)
-> Think Big, Exchage Value，创新求变，迭代进化
+> Think Big, Exchage Value
+
+![](https://github.com/user-attachments/assets/b3d928bc-1be6-486c-b56a-d22f28258b6f)
+> 创新求变，[迭代进化](https://www.honor.com/cn/brand/)
 
 ---
 
