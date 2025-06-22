@@ -99,7 +99,11 @@
 
 ![](https://github.com/user-attachments/assets/773f2714-731f-4891-8c8d-025bf7412077)
 ![](https://github.com/user-attachments/assets/4c64f863-9bd2-4793-b684-779138c1f8e9)
-> 从 t 到 π，再到开，开启AI时代（从chat到agent）...
+> 从 t 到 π，再到开，开启AI时代...
+
+![](https://github.com/user-attachments/assets/3ab1f4bf-416b-4d4d-890b-09d1c3f967ba)
+![](https://github.com/user-attachments/assets/a3ac4814-59e5-497b-9819-f81ab22f0f97)
+> 从chat到agent
 
 ![](https://github.com/user-attachments/assets/9fc82ad5-158d-49b5-9e4d-72db76ff92e5)
 > 自我进化...
@@ -115,3 +119,4 @@
 7. [DeepSeek](https://www.deepseek.com/)
 8. [元宝](https://yuanbao.tencent.com/chat/)
 9. [豆包](https://www.doubao.com/chat/)
+10. [MiniMax](https://agent.minimax.io/)
