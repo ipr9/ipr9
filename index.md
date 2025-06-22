@@ -101,7 +101,7 @@
 ![](https://github.com/user-attachments/assets/4c64f863-9bd2-4793-b684-779138c1f8e9)
 > 从 t 到 π，再到开，开启AI时代...
 
-![](https://github.com/user-attachments/assets/3ab1f4bf-416b-4d4d-890b-09d1c3f967ba)
+![](https://github.com/user-attachments/assets/15e7978c-4540-444a-a8a2-b7b8ecc1bc9f)
 ![](https://github.com/user-attachments/assets/a3ac4814-59e5-497b-9819-f81ab22f0f97)
 > 从chat到agent
 
