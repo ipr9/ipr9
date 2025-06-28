@@ -104,6 +104,12 @@
 ![](https://github.com/user-attachments/assets/4c64f863-9bd2-4793-b684-779138c1f8e9)
 > 从 t 到 π，再到开，开启AI时代...
 
+![](https://github.com/user-attachments/assets/a40148a3-808b-4759-af83-4ce365524c54)
+![](https://github.com/user-attachments/assets/816503ef-544c-4313-abe9-67fb7cbbdde1)
+![](https://github.com/user-attachments/assets/19b71e01-4cb4-4b4d-9e41-4c5c8d67cb5a)
+> 所谓学问，学学问问；所谓的痛苦，都只是想出来的；看得开，放得下，才是人生，人生不过吃吃喝喝……
+
+
 ![](https://github.com/user-attachments/assets/15e7978c-4540-444a-a8a2-b7b8ecc1bc9f)
 ![](https://github.com/user-attachments/assets/a3ac4814-59e5-497b-9819-f81ab22f0f97)
 > 从chat到agent
