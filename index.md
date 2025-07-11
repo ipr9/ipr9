@@ -12,6 +12,29 @@
 ![](https://github.com/user-attachments/assets/b3d928bc-1be6-486c-b56a-d22f28258b6f)
 > 创新求变，[迭代进化](https://www.honor.com/cn/brand/)
 
+
+```
+60/40比例
+7/2/1原则
+2/8原则
+
+不一厢情愿，而是始终理性地换位思考
+不执着于输赢，而是始终着眼于均衡分析
+不被原有结构限制，而是能用新的游戏规则重塑均衡结果
+
+```
+
+```
+1.价值交换
+2.理性沉浸当下
+3.勤奋踏实真诚
+4.和喜欢的人，做喜欢的事
+5.做难而正确的事情
+6.边界感：筛选，忽略，守护
+7.睡眠，胃口，二便，社会
+8.了解，理解，信任，支持，关系，口碑
+```
+
 ---
 
 ![](https://github.com/user-attachments/assets/fcccae48-b5c2-4287-952d-ba852f024fad)
@@ -87,16 +110,7 @@
 > 大格局：多大范围、多少人，多久远，从事到人，真正关心人
 
 
-```
-60/40比例
-7/2/1原则
-2/8原则
 
-不一厢情愿，而是始终理性地换位思考
-不执着于输赢，而是始终着眼于均衡分析
-不被原有结构限制，而是能用新的游戏规则重塑均衡结果
-
-```
 
 ## Tools
 
@@ -116,6 +130,11 @@
 
 ![](https://github.com/user-attachments/assets/9fc82ad5-158d-49b5-9e4d-72db76ff92e5)
 > 自我进化...
+
+![](https://github.com/user-attachments/assets/1334c5ba-9af6-44e2-8461-43e6b9206fa0)
+![](https://github.com/user-attachments/assets/b37283c1-f19d-464b-8057-b58389d00ac2)
+![](https://github.com/user-attachments/assets/79bd3def-b467-4e38-9862-044564088d81)
+> 视角，安全-成长-收益，事情-关系-利益...
 
 ## Reference
 
