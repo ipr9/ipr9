@@ -126,9 +126,14 @@
 > 所谓学问，学学问问；所谓的痛苦，都只是想出来的；看得开，放得下，才是人生，人生不过吃吃喝喝……
 
 
+![](https://github.com/user-attachments/assets/820bfcaa-c951-4725-9a31-4b79364b3a0c)
+> [ChatGPT](https://chatgpt.com/)
+
 ![](https://github.com/user-attachments/assets/15e7978c-4540-444a-a8a2-b7b8ecc1bc9f)
+> [Perplexity](https://www.perplexity.ai/)
+
 ![](https://github.com/user-attachments/assets/a3ac4814-59e5-497b-9819-f81ab22f0f97)
-> 从chat到agent
+> [MiniMax](https://agent.minimax.io/)  从chat到agent
 
 ![](https://github.com/user-attachments/assets/9fc82ad5-158d-49b5-9e4d-72db76ff92e5)
 > 自我进化...
