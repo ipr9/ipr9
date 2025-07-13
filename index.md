@@ -3,7 +3,7 @@
 ![](https://github.com/user-attachments/assets/c3926d73-e7d1-4d9c-860b-877c3d15d0da)
 > 3R: Repeat, Review, Result，大道至简，天道酬勤，开悟时刻
 
-![](https://github.com/user-attachments/assets/a78a372f-3e5f-4a74-8f77-a32180874dac)
+![](https://github.com/user-attachments/assets/82090360-67c9-4bdc-b49f-41e93937cb9f)
 > 除却生死，别无大事，心大事小，心小事大，人在事上磨，磨砺
 
 
