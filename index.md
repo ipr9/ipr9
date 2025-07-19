@@ -3,6 +3,15 @@
 ![](https://github.com/user-attachments/assets/c3926d73-e7d1-4d9c-860b-877c3d15d0da)
 > 4Re: Repeat, Review, Refresh, Result，大道至简，天道酬勤，开悟时刻
 
+![](https://github.com/user-attachments/assets/4e9fbe5e-89a3-4e5c-a91f-45f9a9326ffc)
+![](https://github.com/user-attachments/assets/791796ab-0461-4282-b118-4cd80fab024e)
+![](https://github.com/user-attachments/assets/044faf41-9e33-43b4-aa06-68f6cd232593)
+![](https://github.com/user-attachments/assets/6860c892-bce0-4256-98ff-100999009ded)
+![](https://github.com/user-attachments/assets/b31b4d06-f327-4395-bd68-5332fdbcbe2f)
+![](https://github.com/user-attachments/assets/322e6fe0-89e9-4a40-9dd3-865ed4e28985)
+> Think, Walk, Talk... 尽人之智
+
+
 ![](https://github.com/user-attachments/assets/82090360-67c9-4bdc-b49f-41e93937cb9f)
 > 除却生死，别无大事，每天突破进步一点点...世界如此美好，值得慢慢地，好好地，深深地体验
 
@@ -33,6 +42,11 @@
 注意力在哪里，问题，方案及财富等，就在哪里
 不要和重要的人计较不重要的事
 不要和不重要的人计较重要的事
+
+香薰，音箱，格调
+好的开始是成功的一半
+负重前行，轻装上阵
+急事缓办，三思而行
 ```
 
 ```
@@ -226,6 +240,9 @@
 
 我们不需要自怜自伤地关注自己是一个怎样的人，
 而是我怎么样无所谓，重要的是我要做成这样的事儿。
+
+松弛不是完全失去自我控制的松散形态，
+而是说在自己可以控制的一个边界里掌握自己的人生。
 
 ```
 
