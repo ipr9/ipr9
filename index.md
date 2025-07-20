@@ -9,7 +9,7 @@
 ![](https://github.com/user-attachments/assets/6860c892-bce0-4256-98ff-100999009ded)
 ![](https://github.com/user-attachments/assets/b31b4d06-f327-4395-bd68-5332fdbcbe2f)
 ![](https://github.com/user-attachments/assets/322e6fe0-89e9-4a40-9dd3-865ed4e28985)
-> Think, Walk, Talk... 尽人之智
+> Think, Walk, Talk... 尽人之智，智商，情商，财商
 
 
 ![](https://github.com/user-attachments/assets/82090360-67c9-4bdc-b49f-41e93937cb9f)
@@ -245,6 +245,12 @@
 而是说在自己可以控制的一个边界里掌握自己的人生。
 
 ```
+
+![](https://github.com/user-attachments/assets/92beb802-4f00-4c9c-9c72-943b4ddef7bf)
+![](https://github.com/user-attachments/assets/d08c743e-fb4b-4727-975d-89bb08ae53b1)
+![](https://github.com/user-attachments/assets/b9887b35-9931-468f-954a-1a64a05f512b)
+![](https://github.com/user-attachments/assets/d44fc6d5-3d30-4a18-852a-50fc35fc16e9)
+> 人潮人海，有你有我，熙熙攘攘，繁华一场
 
 ## Reference
 
