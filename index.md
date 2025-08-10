@@ -11,5 +11,19 @@
 
 ![](https://github.com/user-attachments/assets/043ce9e1-95fc-438f-abf0-09b9f48e4ade)
 ![](https://github.com/user-attachments/assets/c6c9c095-ee07-4e42-97bb-c06091d6f237)
-
 > enjoy your journey.
+
+![](https://github.com/user-attachments/assets/9dfea6b0-bd06-4d7e-beb2-06aacf741d04)
+> 选我所爱，爱我所选
+
+```
+自恋、性、攻击力
+事情、关系、利益
+冥想、睡眠、运动
+蔬菜、水果、鱼肉
+```
+
+![](https://github.com/user-attachments/assets/d73b4c29-f138-4b63-8681-06b9e66e1345)
+![](https://github.com/user-attachments/assets/b2fcc7c3-f3d9-4e4c-8922-cdf62208f92a)
+![](https://github.com/user-attachments/assets/1bd6a0d4-e475-4773-81ec-567e59462657)
+> 利益立场，视角各异，历史是如此相似，奋斗的道路上永远不孤单...
