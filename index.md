@@ -27,6 +27,7 @@
 蔬菜、水果、鱼肉
 天时、地利、人和
 问题、机会、价值
+音乐、香薰、读书
 ```
 
 
@@ -37,4 +38,6 @@
 
 ![](https://github.com/user-attachments/assets/1bd6a0d4-e475-4773-81ec-567e59462657)
 ![](https://github.com/user-attachments/assets/c6c9c095-ee07-4e42-97bb-c06091d6f237)
-> 历史是如此相似，奋斗的道路上永远不孤单...
+> 历史是如此相似，奋斗的道路上永远不孤单，烟火气...
+
+
