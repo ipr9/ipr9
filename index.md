@@ -3,6 +3,8 @@
 ![](https://github.com/user-attachments/assets/1db208a4-2d35-4c3f-9f0f-5311237f33cc)
 > 少有，正确及价值之旅，永怀探索<ins>**好奇心**，持续创造<ins>**经典作品**</ins></ins>...
 
+![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
+> **AHA**<sub>TM</sub>  <ins>技能=基本功*(1+次数)<sup>创新</sup></ins>，摆脱惯性，每一次都重要
 
 ```
 多就是少，少就是多
@@ -20,7 +22,7 @@
 ```
 
 ![](https://github.com/user-attachments/assets/f297446e-d656-4195-a01d-b6ad0310f823)
-> IP & AI，新赛道，生态位，价值点——实战出真知，自成一体
+> IP & AI，新赛道，生态位，价值点——实战出真知，自成一体（三部走）
 
 ```底层逻辑
 1. 价值交换
