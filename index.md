@@ -19,6 +19,14 @@
 过好自己的生活
 ```
 
+![](https://github.com/user-attachments/assets/f297446e-d656-4195-a01d-b6ad0310f823)
+> IP & AI，新赛道，生态位，价值点——实战出真知，自成一体
+
+```底层逻辑
+1. 价值交换
+2. 能量守恒
+3. 因果循环
+```
 
 ![](https://github.com/user-attachments/assets/cdcd888f-1007-41cf-bd21-174adba06828)
 > 超级个体：发现问题-->了解需求-->创造价值，60分-20分-100分
