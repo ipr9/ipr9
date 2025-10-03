@@ -1,4 +1,37 @@
 
+![](https://github.com/user-attachments/assets/3469e733-5505-496e-8066-2736c4e5f7cb)
+![](https://github.com/user-attachments/assets/8100c0ce-6c7b-462f-b7b4-48670af9f1b7)
+![](https://github.com/user-attachments/assets/77e71c6a-94d7-4847-a512-6673a2c10dba)
+> 今天，当下，礼物——Present；过去，现在，未来
+
+
+
+
+```
+1、过程与结果
+2、局部与全局
+3、观点与事实
+4、利己与利他
+5、静态与动态
+6、输入与输出
+7、消费与投资
+8、支出与储蓄
+9、负债与资产
+10、学习与指导
+11、劣币与良币
+12、短期与长期
+13、劳动与资本
+```
+
+```
+习惯一：积极主动
+习惯二：以终为始
+习惯三：要事第一
+习惯四：双赢思维
+习惯五：知彼解己
+习惯六：统合综效
+习惯七：不断更新
+```
 
 ![](https://github.com/user-attachments/assets/1db208a4-2d35-4c3f-9f0f-5311237f33cc)
 > 少有，正确及价值之旅，永怀探索<ins>**好奇心**，持续创造<ins>**经典作品**</ins></ins>...
@@ -19,6 +52,9 @@
 从小我到大我及大家
 做好自己的事情
 过好自己的生活
+创造性的合作 1＋1≥3
+太远无视
+太近放大
 ```
 
 ![](https://github.com/user-attachments/assets/f297446e-d656-4195-a01d-b6ad0310f823)
