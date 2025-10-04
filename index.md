@@ -2,9 +2,7 @@
 ![](https://github.com/user-attachments/assets/3469e733-5505-496e-8066-2736c4e5f7cb)
 ![](https://github.com/user-attachments/assets/8100c0ce-6c7b-462f-b7b4-48670af9f1b7)
 ![](https://github.com/user-attachments/assets/77e71c6a-94d7-4847-a512-6673a2c10dba)
-> 今天，当下，礼物——Present；过去，现在，未来
-
-
+> 今天，当下，礼物——Present
 
 
 ```
@@ -21,7 +19,34 @@
 11、劣币与良币
 12、短期与长期
 13、劳动与资本
+14、时间与精力
+15、边界与分寸
+16、绝对与相对
+17、多与少
+18、快与慢
+19、永恒与现在
+20、免费与最贵
+21、索取与奉献
+22、自私与分享
+23、知足与感恩
+24、看见与相信
+25、思考与行动
+26、小我与大我
+27、大我与大家
+28、工作与生活
+29、健康与幸福
+30、执行与协作
+31、过去与现在
+32、现在与未来
 ```
+
+
+
+![](https://github.com/user-attachments/assets/1db208a4-2d35-4c3f-9f0f-5311237f33cc)
+> 少有，正确及价值之旅，永怀探索<ins>**好奇心**，持续创造<ins>**经典作品**</ins></ins>...
+
+![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
+> **AHA**<sub>TM</sub>  <ins>技能=基本功*(1+次数)<sup>创新</sup></ins>，摆脱惯性，每一次都重要
 
 ```
 习惯一：积极主动
@@ -31,30 +56,6 @@
 习惯五：知彼解己
 习惯六：统合综效
 习惯七：不断更新
-```
-
-![](https://github.com/user-attachments/assets/1db208a4-2d35-4c3f-9f0f-5311237f33cc)
-> 少有，正确及价值之旅，永怀探索<ins>**好奇心**，持续创造<ins>**经典作品**</ins></ins>...
-
-![](https://github.com/user-attachments/assets/36f46d9c-9f08-4c1d-a135-d7bdaf7de400)
-> **AHA**<sub>TM</sub>  <ins>技能=基本功*(1+次数)<sup>创新</sup></ins>，摆脱惯性，每一次都重要
-
-```
-多就是少，少就是多
-快就是慢，慢就是快
-现在即永恒
-利他即利己
-最贵是免费
-知足常乐，感恩长存
-因相信而看见
-行动带来改变
-一起享受奋斗历程
-从小我到大我及大家
-做好自己的事情
-过好自己的生活
-创造性的合作 1＋1≥3
-太远无视
-太近放大
 ```
 
 ![](https://github.com/user-attachments/assets/f297446e-d656-4195-a01d-b6ad0310f823)
@@ -75,11 +76,4 @@
 ![](https://github.com/user-attachments/assets/3176e81f-add7-4f02-8c33-cc184723d143)
 > 此时此地此人此事，事情，关系及利益（价值交换），因果、局势...
 
-```
-1. 生命科学
-2. 社交沟通
-3. 专业技能
-4. 投资理财
-5. 人文修养
-6. 见识格局
-```
+
