@@ -150,3 +150,5 @@ day by day
 ![](https://github.com/user-attachments/assets/da620761-d975-480f-ab80-f474e902b2ee)
 > 希望，选择，行动
 
+<img width="1656" height="668" alt="" src="https://github.com/user-attachments/assets/81f0201a-f4c7-41e0-8473-45e968d1dd73" />
+
