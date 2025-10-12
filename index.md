@@ -66,6 +66,9 @@
 58、紧张与松弛
 59、说与做
 60、放弃与坚持
+61、喜欢与真爱
+62、是非与利益
+63、表面与实质
 ```
 
 
@@ -91,6 +94,18 @@
 
 凡事预则立，不预则废
 痛则变，变则通，通则久
+
+路虽远,行则将至
+事虽难,做则必成
+
+自从心定后
+无处不安然
+
+知止而后定
+定而后能静
+静而后能安
+安而后能虑
+虑而后能得
 
 one by one
 step by step
@@ -122,4 +137,7 @@ day by day
 ![](https://github.com/user-attachments/assets/3176e81f-add7-4f02-8c33-cc184723d143)
 > 此时此地、此人此事...
 
+![](https://github.com/user-attachments/assets/7c52558d-0eb5-48be-9bee-8de01c4775e4)
+![](https://github.com/user-attachments/assets/da620761-d975-480f-ab80-f474e902b2ee)
+> 希望，选择，行动
 
