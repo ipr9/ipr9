@@ -72,6 +72,10 @@
 64、肤浅与深邃
 65、禁锢与解放
 66、封闭与开放
+67、压力与动力
+68、焦虑与充实
+69、恐惧与勇敢
+70、快乐与幸福
 ```
 
 
@@ -135,6 +139,7 @@ day by day
 1. 价值交换
 2. 能量守恒
 3. 因果循环
+4. 劳动财富
 ```
 
 ![](https://github.com/user-attachments/assets/cdcd888f-1007-41cf-bd21-174adba06828)
@@ -153,4 +158,10 @@ day by day
 ![](https://github.com/user-attachments/assets/81f0201a-f4c7-41e0-8473-45e968d1dd73)
 ![](https://github.com/user-attachments/assets/7084634c-e956-464f-b31e-5506f416b5e9)
 > Harmony
+
+
+![](https://github.com/user-attachments/assets/dcf7513d-f7b6-4e71-aa6a-9808f4ee4b64)
+![](https://github.com/user-attachments/assets/7a7b7a10-b23f-4f51-ad7a-bbcb88c87c2f)
+![](https://github.com/user-attachments/assets/8a8ab264-6382-432d-a9d1-c77737721bee)
+> 不试试看，哪来的胜算
 
