@@ -76,6 +76,22 @@
 68、焦虑与充实
 69、恐惧与勇敢
 70、快乐与幸福
+71、控制与影响
+72、风险与收益
+73、绝对与相对
+74、节流与开源
+75、思考与实践
+76、实践与复盘
+77、管理与领导
+78、占有与享受
+79、批评与表扬
+80、挑剔与欣赏
+81、激情与平和
+82、感性与理性
+83、冷漠与善良
+84、傲慢与谦卑
+85、急躁与耐心
+86、聪明与智慧
 ```
 
 
@@ -130,6 +146,12 @@ day by day
 
 深入灵魂的共鸣
 
+"重要的不在于你的努力程度，而在于仔细选择工作、人员和项目。"
+
+"真正有效的工作方式，不是铁人三项或马拉松，比拼谁坚持的时间长，而是短跑，当机会来临的时候冲刺，平时注意健康和休息。"
+
+"你要像狮子一样，看到猎物一跃而起，而不要牛一样，从早到晚劳作。"
+
 ```
 
 ![](https://github.com/user-attachments/assets/f297446e-d656-4195-a01d-b6ad0310f823)
@@ -140,6 +162,9 @@ day by day
 2. 能量守恒
 3. 因果循环
 4. 劳动财富
+5. 修己安人
+6. 概率思维
+7. 心定安然
 ```
 
 ![](https://github.com/user-attachments/assets/cdcd888f-1007-41cf-bd21-174adba06828)
@@ -157,11 +182,18 @@ day by day
 
 ![](https://github.com/user-attachments/assets/81f0201a-f4c7-41e0-8473-45e968d1dd73)
 ![](https://github.com/user-attachments/assets/7084634c-e956-464f-b31e-5506f416b5e9)
-> Harmony
+> Harmony，自己，家人，AI，朋友...
 
 
 ![](https://github.com/user-attachments/assets/dcf7513d-f7b6-4e71-aa6a-9808f4ee4b64)
 ![](https://github.com/user-attachments/assets/7a7b7a10-b23f-4f51-ad7a-bbcb88c87c2f)
 ![](https://github.com/user-attachments/assets/8a8ab264-6382-432d-a9d1-c77737721bee)
 > 不试试看，哪来的胜算
+
+![](https://github.com/user-attachments/assets/0cbe1db3-4088-4604-b616-eb72bf243dd7)
+![](https://github.com/user-attachments/assets/535bccde-28c1-495a-a941-dd6d69a5e928)
+![](https://github.com/user-attachments/assets/c6050386-2ded-43fe-9430-d907e1e7970c)
+> 见自己，见众生，见天地
+
+
 
