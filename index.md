@@ -4,7 +4,8 @@
 ![](https://github.com/user-attachments/assets/77e71c6a-94d7-4847-a512-6673a2c10dba)
 > 今天，当下，礼物——Present
 
-![](https://github.com/user-attachments/assets/8a94b99d-357d-4345-9404-ceb6f57aa122)
+![](https://github.com/user-attachments/assets/a9daddb9-75d2-4fc2-8e6d-8d6067e3b841)
+> 三思而后行，Just do it，不试怎知...
 
 
 ```矛盾统一
