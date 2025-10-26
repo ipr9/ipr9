@@ -5,12 +5,18 @@
 ![](https://github.com/user-attachments/assets/b7ddc0b5-fdaa-4100-81bd-2d398f4b8dd1)
 > <ins>技能=知识*(1+创新实践)<sup>次数</sup></ins>
 
+![](https://github.com/user-attachments/assets/e93b8b41-0bf7-4414-b980-ee073ada7c22)
+> 无他，唯手熟尔
+
+
 ```底层逻辑
 1. 劳动财富
 2. 概率思维
 3. 价值交换
 4. 能量守恒
 5. 因果循环
+6. 量变质变
+7. 神经连接
 
 好奇心
 概率最大化
@@ -22,6 +28,9 @@ Be myself --> Make myself
 IP & AI
 修己安人
 ```
+
+![](https://github.com/user-attachments/assets/aae45f76-2f58-45a7-83cc-719fc8ff009c)
+> The Bund: Something bigger than yourself
 
 
 ```体系化
