@@ -1,4 +1,8 @@
 
+![](https://github.com/user-attachments/assets/6640cd8e-2589-4e2d-a1d2-934cbb68b04f)
+![](https://github.com/user-attachments/assets/0f48b149-d3fa-4164-9a71-6e353c2cfa74)
+> Life depends on your choice
+
 ![](https://github.com/user-attachments/assets/91e3dc4e-a7be-45fb-9e61-c6f2ff8b0399)
 > 此时此地，此人此时，☀️正能量
 
@@ -177,13 +181,18 @@ IP & AI
 
 ```
 
+![](https://github.com/user-attachments/assets/f9bd7352-15ad-4a5c-9587-503514fa90b5)
+![](https://github.com/user-attachments/assets/5195c1cc-c6b9-4e34-bc27-6eae15263fa9)
+![](https://github.com/user-attachments/assets/b8f149a0-fa12-465f-b3a1-2b09d71ab67c)
+
+
 ```周报
 
 书房+公园
 
 得到系列，认知格局
 科技周刊，阮一峰
-财经周刊，香帅
+财经周刊，香帅，顾均辉
 知识星球，卢克文
 财新，FTChinese
 博客、公众号、网站
