@@ -1,25 +1,15 @@
 
-![](https://github.com/user-attachments/assets/6640cd8e-2589-4e2d-a1d2-934cbb68b04f)
-![](https://github.com/user-attachments/assets/0f48b149-d3fa-4164-9a71-6e353c2cfa74)
-> Life depends on your choice
-
-![](https://github.com/user-attachments/assets/91e3dc4e-a7be-45fb-9e61-c6f2ff8b0399)
-> 此时此地，此人此时，☀️正能量
-
-![](https://github.com/user-attachments/assets/b7ddc0b5-fdaa-4100-81bd-2d398f4b8dd1)
-> <ins>技能=知识*(1+创新实践)<sup>次数</sup></ins>
-
-![](https://github.com/user-attachments/assets/e93b8b41-0bf7-4414-b980-ee073ada7c22)
-> 无他，唯手熟尔
+![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
+> 此时此地，此人此时，☀️正能量——修己安人
 
 
 ```底层逻辑
 1. 劳动财富
 2. 概率思维
-3. 价值交换
+3. 价值交换，我能为你做些什么
 4. 能量守恒
 5. 因果循环
-6. 量变质变
+6. 量变质变，耐得烦
 7. 神经连接
 8. 赛道规则
 9. 修己安人
@@ -28,36 +18,20 @@
 12. 幂律分布
 13. 均值回归
 14. 系统飞轮
-
-好奇心
-概率最大化
-one by one
-day by day
-Be myself --> Make myself
-有话好好说
-有事好好做
-IP & AI
-修己安人
-
-8/2原则
-7/2/1原则
-脑海中美好的回忆
-持续输出正能量
-恰恰好
-
+15. 给自己和家人更多选择和更好体验
 ```
 
 ![](https://github.com/user-attachments/assets/aae45f76-2f58-45a7-83cc-719fc8ff009c)
-> The Bund: Something bigger than yourself
+> <ins>技能=知识*(1+创新实践)<sup>次数</sup></ins> ——无他，唯手熟尔
+
+![](https://github.com/user-attachments/assets/79cbc322-0c04-45ff-9522-ac55d8ac6264)
+> 有话好好说——Make myself
 
 
 ```体系化
 
-
-给自己和家人更多选择和更好体验
-我能为你做些什么
-耐得烦
 安全，成长及收益
+事情，关系及利益
 
 习惯一：积极主动
 习惯二：以终为始
@@ -184,11 +158,9 @@ IP & AI
 ![](https://github.com/user-attachments/assets/f9bd7352-15ad-4a5c-9587-503514fa90b5)
 ![](https://github.com/user-attachments/assets/5195c1cc-c6b9-4e34-bc27-6eae15263fa9)
 ![](https://github.com/user-attachments/assets/b8f149a0-fa12-465f-b3a1-2b09d71ab67c)
-
+> 书房+公园
 
 ```周报
-
-书房+公园
 
 得到系列，认知格局
 科技周刊，阮一峰
