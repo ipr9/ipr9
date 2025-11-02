@@ -18,6 +18,7 @@
 12. 幂律分布
 13. 均值回归
 14. 系统飞轮
+15. 长期主义：回报，利率，增长率
 15. 给自己和家人更多选择和更好体验
 ```
 
@@ -120,6 +121,10 @@
 复杂与简单
 认知与高度
 免费与珍贵
+输入与输出
+
+工具与助理
+助手与智囊团
 
 见自己
 见众生
@@ -163,7 +168,7 @@
 
 ![](https://github.com/user-attachments/assets/8ed4d48b-090a-471d-8b17-770be1fcf9e0)
 ![](https://github.com/user-attachments/assets/47a4d0d3-ea18-408d-9993-426994410eb5)
-![](https://github.com/user-attachments/assets/7d7344c9-2633-4e96-bcf2-b9d22b2af26f)
+![](https://github.com/user-attachments/assets/22783643-6402-4d07-a646-5c84c3e619f4)
 > 山 水 城
 
 ```周报
