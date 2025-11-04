@@ -23,13 +23,14 @@
 17. 学习金字塔/费曼Feynman学习法
 18. 艾宾浩斯Ebbinghaus记忆曲线
 19. 马斯洛Maslow需求金字塔
+20. 每天变化及成长一点点
 ```
 
 ![](https://github.com/user-attachments/assets/aae45f76-2f58-45a7-83cc-719fc8ff009c)
 > <ins>技能=知识*(1+创新实践)<sup>次数</sup></ins> ——无他，唯手熟尔
 
 ![](https://github.com/user-attachments/assets/79cbc322-0c04-45ff-9522-ac55d8ac6264)
-> 做正确的事，正确地做事：譬如，有话好好说——Make myself
+> 做正确的事，正确地做事：譬如，有话好好说——Make Myself
 
 
 ```体系化
