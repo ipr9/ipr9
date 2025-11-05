@@ -1,7 +1,8 @@
 
 ![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
-> 此时此地，此人此时，☀️正能量——修己安人
+> 此时此地，此人此时，☀️正能量
 
+<div style="color:red">修己安人，有话好好说——Make Myself</div>
 
 ```底层逻辑
 1. 劳动财富
@@ -37,7 +38,7 @@
 > <ins>技能=知识*(1+创新实践)<sup>次数</sup></ins> ——无他，唯手熟尔，IP+AI，助力而非替代
 
 ![](https://github.com/user-attachments/assets/79cbc322-0c04-45ff-9522-ac55d8ac6264)
-> 做正确的事，正确地做事：譬如，有话好好说——Make Myself
+> 做正确的事，正确地做事
 
 
 ```体系化
