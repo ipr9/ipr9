@@ -2,7 +2,7 @@
 ![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
 > 此时此地，此人此时，☀️正能量
 
-<div style="color:red">修己安人，有话好好说——Make Myself</div>
+<div style="color:red">修己安人，有话好好说，每个人都是环境的产物——Make Myself</div>
 
 ```底层逻辑
 1. 劳动财富
