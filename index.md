@@ -2,36 +2,24 @@
 ![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
 > 此时此地，此人此时，☀️正能量
 
-<div style="color:red">修己安人，有话好好说，每个人都是环境的产物——Make Myself，关于未来的想象、判断和信念，会塑造你今天的状态。</div>
+<div style="color:red">修己安人Make Myself，每个人都是环境的产物</div>
+
+<div style="color:green">有话好好说，当时，当面，当事人</div>
+
+<div style="color:blue">随机随缘，每天生活改变一点点，竞争力精进一点点</div>
+
 
 ```底层逻辑
-1. 劳动财富
-2. 概率思维
-3. 价值交换，我能为您做些什么
-4. 能量守恒
-5. 因果循环，相对公平
-6. 量变质变，耐得烦
-7. 神经连接
-8. 赛道规则
-9. 修己安人
-10. 多样性/复杂度
-11. 经历体验
-12. 幂律分布
-13. 均值回归
-14. 系统飞轮
-15. 长期主义：回报，利率，增长率——复利
-16. 给自己和家人更多选择和更好体验
-17. 学习金字塔/费曼Feynman学习法
-18. 艾宾浩斯Ebbinghaus记忆曲线
-19. 马斯洛Maslow需求金字塔
-20. 每天变化及成长一点点
-21. 信息不对称
-22. 社会金字塔
-23. 随机运气
-24. 增大概率
-25. 马拉松而非一时一地
-26. 从0到1难
-27. 从有变无更难
+1. 劳动财富/价值交换：美好生活来自奋斗，我能为您做些什么
+2. 量变质变：神经连接，马拉松，1 万小时定律
+3. 复利效应：马太效应，系统飞轮，长期主义
+4. 概率思维：拼搏才有更大概率，经历体验
+5. 因果循环：全局及长期视角
+6. 科学思维：多样性/复杂度、信息不对称、均值回归、幂律分布
+7. 风险思维：修己安人，风控及保护，从有变无更难
+8、学习模型：马斯洛Maslow需求金字塔、费曼Feynman学习法、艾宾浩斯Ebbinghaus记忆曲线
+9. 能量守恒：高质量输入与输出
+10. 社会金字塔：赛道规则，参与及主导游戏规则
 ```
 
 ![](https://github.com/user-attachments/assets/aae45f76-2f58-45a7-83cc-719fc8ff009c)
@@ -198,8 +186,6 @@
 ![](https://github.com/user-attachments/assets/b8f149a0-fa12-465f-b3a1-2b09d71ab67c)
 > 书房+公园
 
-
-![](https://github.com/user-attachments/assets/8ed4d48b-090a-471d-8b17-770be1fcf9e0)
 ![](https://github.com/user-attachments/assets/47a4d0d3-ea18-408d-9993-426994410eb5)
 ![](https://github.com/user-attachments/assets/22783643-6402-4d07-a646-5c84c3e619f4)
 > 山 水 城
