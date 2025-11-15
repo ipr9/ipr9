@@ -2,11 +2,8 @@
 ![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
 > 此时此地，此人此时，☀️正能量
 
+![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
 <div style="color:red">修己安人Make Myself，每个人都是环境的产物</div>
-
-<div style="color:green">有话好好说，当时，当面，当事人</div>
-
-<div style="color:blue">随机随缘，每天生活改变一点点，竞争力精进一点点</div>
 
 
 ```底层逻辑
@@ -210,15 +207,6 @@
 ![](https://github.com/user-attachments/assets/22783643-6402-4d07-a646-5c84c3e619f4)
 > 山 水 城
 
-```周报
-
-得到系列，认知格局
-科技周刊，阮一峰
-财经周刊，香帅，顾均辉
-知识星球，卢克文
-财新，FTChinese
-博客、公众号、网站
-IT之家，ifanr，少数派
-
-```
+![](https://github.com/user-attachments/assets/a9af9018-30e4-4d5f-89c3-52f9d23ca35f)
+> 花
 
