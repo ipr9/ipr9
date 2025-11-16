@@ -196,6 +196,14 @@
 既要遵循一般规律，又要考虑具体情境；
 既要有谨慎保守的作风，又要有果敢决断的气质……
 
+管理的本质，其实就是激发和释放每一个人的善意。——彼得·德鲁克
+
+真正优秀的管理者，往往是以雷霆手段，显菩萨心肠:
+狠得下心，不怕得罪人，敢于做“恶人”，最终目的是让自己的下属变得更优秀。
+
+AI时代的“杠杆”就在于此。你用得越早,越懂得怎么提问、怎么利用工具，你就能把自己的能力放大几倍。
+你不需要变成一个AI专家，但你一定要知道怎么指挥AI千活。
+
 ```
 
 ![](https://github.com/user-attachments/assets/f9bd7352-15ad-4a5c-9587-503514fa90b5)
@@ -208,5 +216,8 @@
 > 山 水 城
 
 ![](https://github.com/user-attachments/assets/a9af9018-30e4-4d5f-89c3-52f9d23ca35f)
-> 花
+![](https://github.com/user-attachments/assets/cfcd4d4d-3e76-452c-a982-caf06fe50bb9)
+![](https://github.com/user-attachments/assets/a2d90654-8344-4192-a098-252eac68e692)
+![](https://github.com/user-attachments/assets/e74b7803-496a-47a9-9a3c-19b28e6599a6)
+> 花 海 人
 
