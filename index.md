@@ -1,7 +1,14 @@
 
+
+![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
+> 此时此地，此人此事，☀️正能量
+
+![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
+<div style="color:purple"> 修己安人 Make Myself，社会动物 环境产物 </div>
+
 ---
 
-![](https://github.com/user-attachments/assets/18103510-ed06-4929-aec5-91957e45e2d2)
+![](https://github.com/user-attachments/assets/0d4b9884-c85b-45d3-964a-efa8761e8a13)
 ![](https://github.com/user-attachments/assets/e1560513-ec31-469d-8585-8cf6809f8559)
 ![](https://github.com/user-attachments/assets/cca6a13e-b049-4312-9d47-9b62044f32e7)
 ![](https://github.com/user-attachments/assets/2edf696f-4d95-44b6-addd-2696ee6b8b49)
