@@ -38,6 +38,10 @@
 ![](https://github.com/user-attachments/assets/3de8867b-37ad-468b-ba0c-69b086835b2d)
 ![](https://github.com/user-attachments/assets/97b73899-7323-4964-9d3a-1eec06ebac49)
 
+
+![](https://github.com/user-attachments/assets/bf5e9470-4bba-443f-ba8c-d391398ca437)
+> 少而精，简而雅
+
 ---
 
 1. [ChatGPT](https://chatgpt.com/)
