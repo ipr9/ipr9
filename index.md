@@ -6,6 +6,9 @@
 ![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
 <div style="color:purple"> 修己安人 Make Myself，社会动物 环境产物 </div>
 
+![](https://github.com/user-attachments/assets/7dc16e14-a914-4035-9f44-05d4883b884c)
+> 经历见识-认知格局-观念行为-结果价值
+
 ---
 
 ![](https://github.com/user-attachments/assets/0d4b9884-c85b-45d3-964a-efa8761e8a13)
@@ -25,6 +28,10 @@
 ![](https://github.com/user-attachments/assets/2034ecac-ca7a-4b97-81cd-8d48556091cf)
 ![](https://github.com/user-attachments/assets/6a6ea035-9d2a-42a4-9a20-a2b8a7f86e14)
 ![](https://github.com/user-attachments/assets/c06409c2-3383-40e1-9376-44593e4497e8)
+
+![](https://github.com/user-attachments/assets/4661409e-e077-43aa-a346-270655e9e8db)
+![](https://github.com/user-attachments/assets/d6a5d9ba-08ae-4248-bfda-b04e0dbda51b)
+![](https://github.com/user-attachments/assets/fe65e99c-d084-4206-b2c1-ce9e8d3da515)
 
 ---
 
