@@ -6,6 +6,11 @@
 ![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
 <div style="color:purple"> 修己安人 Make Myself，社会动物 环境产物 </div>
 
+![](https://github.com/user-attachments/assets/b9e9e7f1-07a8-484a-8f60-38656d347e72)
+![](https://github.com/user-attachments/assets/d7f19d9f-8a49-4615-8bb3-4acaee0a6738)
+![](https://github.com/user-attachments/assets/27b7a809-9546-49d5-9155-cacc3e0c5279)
+> 小我，大我，大家
+
 ![](https://github.com/user-attachments/assets/7dc16e14-a914-4035-9f44-05d4883b884c)
 > 经历见识-认知格局-观念行为-结果价值
 
@@ -38,6 +43,9 @@
 ![](https://github.com/user-attachments/assets/3de8867b-37ad-468b-ba0c-69b086835b2d)
 ![](https://github.com/user-attachments/assets/97b73899-7323-4964-9d3a-1eec06ebac49)
 
+![](https://github.com/user-attachments/assets/d8ea2659-c472-497d-91c9-11d1d515fa41)
+
+---
 
 ![](https://github.com/user-attachments/assets/bf5e9470-4bba-443f-ba8c-d391398ca437)
 > 少而精，简而雅
