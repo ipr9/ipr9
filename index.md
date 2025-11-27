@@ -9,6 +9,7 @@
 ![](https://github.com/user-attachments/assets/b9e9e7f1-07a8-484a-8f60-38656d347e72)
 ![](https://github.com/user-attachments/assets/d7f19d9f-8a49-4615-8bb3-4acaee0a6738)
 ![](https://github.com/user-attachments/assets/27b7a809-9546-49d5-9155-cacc3e0c5279)
+![](https://github.com/user-attachments/assets/ef291c09-76df-4cbf-8f54-2307ab62cb53)
 > 小我，大我，大家
 
 ![](https://github.com/user-attachments/assets/7dc16e14-a914-4035-9f44-05d4883b884c)
