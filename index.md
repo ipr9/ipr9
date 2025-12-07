@@ -17,6 +17,20 @@
 
 ---
 
+人为什么活着
+> 好好生活，基因传承，社会价值
+
+人为什么奋斗
+> 面临困难或需求时，可以有更多选择
+
+什么是好好生活
+> 此时此地+此人此事+☀️正能量：好好说话，工作，及享受
+
+价值观是什么？
+> 重要级排序：健康，家人，工作，投资
+
+---
+
 ![](https://github.com/user-attachments/assets/0d4b9884-c85b-45d3-964a-efa8761e8a13)
 ![](https://github.com/user-attachments/assets/e1560513-ec31-469d-8585-8cf6809f8559)
 ![](https://github.com/user-attachments/assets/cca6a13e-b049-4312-9d47-9b62044f32e7)
