@@ -10,7 +10,7 @@
 ![](https://github.com/user-attachments/assets/d7f19d9f-8a49-4615-8bb3-4acaee0a6738)
 ![](https://github.com/user-attachments/assets/27b7a809-9546-49d5-9155-cacc3e0c5279)
 ![](https://github.com/user-attachments/assets/ef291c09-76df-4cbf-8f54-2307ab62cb53)
-> 小我，大我，大家
+> 小我，大我，大家；努力提升成事的概率...
 
 ![](https://github.com/user-attachments/assets/7dc16e14-a914-4035-9f44-05d4883b884c)
 > 经历见识-认知格局-观念行为-结果价值
