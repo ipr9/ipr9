@@ -3,7 +3,10 @@
 > 此时此地，此人此事，☀️正能量
 
 ![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
-> 修己安人 Make Myself
+> 修己安人
+
+![](https://github.com/user-attachments/assets/274fb14b-57aa-4d38-9527-2b783af0d770)
+> 实事求是
 
 ![](https://github.com/user-attachments/assets/061cf8f7-f959-403f-9c82-a96f9ec2e830)
 > 批判性思维
@@ -30,7 +33,7 @@
 替代者 vs 扩展器
 管理：激发善意
 服务：为他人做些什么
-
+科学常识，规律自控
 ```
 
 ![](https://github.com/user-attachments/assets/da9496d3-b1f5-477a-ac26-45393e9b9aaa)
@@ -51,5 +54,6 @@
 5. [Manus](https://manus.im/app)
 6. [Metaso](https://metaso.cn/)
 7. [Kimi](https://www.kimi.com/chat/)
+8. [DeepSeek](https://chat.deepseek.com/)
 
 ---
