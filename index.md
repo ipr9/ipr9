@@ -5,6 +5,9 @@
 ![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
 > 修己安人
 
+![](https://github.com/user-attachments/assets/177f3016-902c-4af3-9208-b08d6265cdd6)
+> 时间的玫瑰🌹🌹🌹
+
 ![](https://github.com/user-attachments/assets/274fb14b-57aa-4d38-9527-2b783af0d770)
 > 实事求是
 
@@ -26,6 +29,7 @@
 少有，正确，价值
 无它，唯手熟尔
 不害怕，不要脸，不着急
+利他 vs 利己
 愚蠢 vs 恶意
 反驳 vs 反思
 单一 vs 多样
@@ -34,6 +38,9 @@
 管理：激发善意
 服务：为他人做些什么
 科学常识，规律自控
+作品意识
+后发制人
+反馈，正向循环
 ```
 
 ![](https://github.com/user-attachments/assets/da9496d3-b1f5-477a-ac26-45393e9b9aaa)
