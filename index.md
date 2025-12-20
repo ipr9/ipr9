@@ -5,6 +5,9 @@
 ![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
 > 修己安人
 
+![](https://github.com/user-attachments/assets/5661a80b-9356-4d28-9506-9923d50c5646)
+> 乐观主义
+
 ![](https://github.com/user-attachments/assets/177f3016-902c-4af3-9208-b08d6265cdd6)
 > 时间的玫瑰🌹🌹🌹
 
@@ -55,6 +58,16 @@
 
 ![](https://github.com/user-attachments/assets/bf5e9470-4bba-443f-ba8c-d391398ca437)
 > 少而精，简而雅
+
+---
+
+AI生成内容检查、多工具合作，及人工复核
+
+1. 设计好问题（角色，需求，输出要求）
+2. 分别以MiniMax和ChatGPT输出为基础
+3. 再融合Gemini，Perplexity，Metaso的输出
+4. 然后再输入给MiniMax和ChatGPT进行交叉检查和分别输出
+5. 最后人工核验两份报告，及最终输出（word，ppt，pdf，md等格式）
 
 ---
 
