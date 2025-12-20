@@ -14,6 +14,10 @@
 ![](https://github.com/user-attachments/assets/061cf8f7-f959-403f-9c82-a96f9ec2e830)
 > 批判性思维
 
+![](https://github.com/user-attachments/assets/4c147844-0d6d-4954-a6cf-5b49aabc4308)
+![](https://github.com/user-attachments/assets/43a46edd-ca3b-4321-a3f9-4f7f0ebb2c68)
+![](https://github.com/user-attachments/assets/b703e5d5-9f6a-477f-8995-9d0be3c10315)
+> 山海城，烟火气
 
 ```
 选我所爱，爱我所选
