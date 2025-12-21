@@ -15,7 +15,8 @@
 > 实事求是
 
 ![](https://github.com/user-attachments/assets/061cf8f7-f959-403f-9c82-a96f9ec2e830)
-> 批判性思维
+![](https://github.com/user-attachments/assets/f2fb3cd5-a8c2-4f34-81d7-f0078f077f93)
+> 事实，观点，立场，信念
 
 ![](https://github.com/user-attachments/assets/4c147844-0d6d-4954-a6cf-5b49aabc4308)
 ![](https://github.com/user-attachments/assets/43a46edd-ca3b-4321-a3f9-4f7f0ebb2c68)
