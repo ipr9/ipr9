@@ -72,6 +72,9 @@ AI生成内容检查、多工具合作，及人工复核
 
 ---
 
+![](https://github.com/user-attachments/assets/f848299b-870e-4a73-9126-a6300561f167)
+> 选择大于努力，趋势大于选择
+
 1. [ChatGPT](https://chatgpt.com/)
 2. [Perplexity](https://www.perplexity.ai/)
 3. [Gemini](https://gemini.google.com/app)
