@@ -98,6 +98,12 @@
 ![](https://github.com/user-attachments/assets/bf5e9470-4bba-443f-ba8c-d391398ca437)
 > 少而精，简而雅
 
+![](https://github.com/user-attachments/assets/63d7c707-50d1-4d7f-8894-01f90b69a1fb)
+> 深度思考
+
+![](https://github.com/user-attachments/assets/8efd3e30-bb3b-4ccd-a6fc-ff96990e333d)
+> 有效行动
+
 ---
 
 AI生成内容检查、多工具合作，及人工复核
@@ -124,5 +130,8 @@ AI生成内容检查、多工具合作，及人工复核
 6. [Metaso](https://metaso.cn/)
 7. [Kimi](https://www.kimi.com/chat/)
 8. [DeepSeek](https://chat.deepseek.com/)
+9. [顶尖项目经理怎么做复杂的协调工作（上）?](https://www.douyin.com/video/7505573973304937780)
+10. [顶尖项目经理怎么做复杂的协调工作（下）?](https://www.douyin.com/video/7506129734095490338)
+11. [脱不花带你职场“开挂”](https://zhuanlan.zhihu.com/p/149948001)
 
 ---
