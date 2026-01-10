@@ -104,6 +104,9 @@
 ![](https://github.com/user-attachments/assets/8efd3e30-bb3b-4ccd-a6fc-ff96990e333d)
 > 有效行动
 
+![](https://github.com/user-attachments/assets/6744aa66-3bae-449e-84d5-dff5a2b26d14)
+> 量变质变
+
 ---
 
 AI生成内容检查、多工具合作，及人工复核
