@@ -46,6 +46,9 @@
 ![](https://github.com/user-attachments/assets/5661a80b-9356-4d28-9506-9923d50c5646)
 > 乐观主义
 
+![](https://github.com/user-attachments/assets/7d6511c6-5432-4536-b1e1-f137185c1a0d)
+> 夯实根基
+
 ![](https://github.com/user-attachments/assets/177f3016-902c-4af3-9208-b08d6265cdd6)
 > 时间的玫瑰🌹🌹🌹
 
