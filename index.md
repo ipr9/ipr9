@@ -137,6 +137,15 @@ AI生成内容检查、多工具合作，及人工复核
 > 从年初的DeepSeek震撼全球，到年末Manus被Meta收购，构成了25年最完整的注脚。
 
 
+<img width="2344" height="996" alt="" src="https://github.com/user-attachments/assets/458ce87d-dd23-4597-ad7e-7d0c3226621d" />
+<img width="2356" height="958" alt="" src="https://github.com/user-attachments/assets/8f4cfe65-7041-424f-9f8d-d42adf808d1f" />
+<img width="2362" height="1008" alt="" src="https://github.com/user-attachments/assets/8e849447-80f1-463d-9e93-ffe3fa23faad" />
+<img width="2352" height="998" alt="" src="https://github.com/user-attachments/assets/b7b9a841-ca6b-45a2-b7e6-f004808c8346" />
+<img width="2356" height="1008" alt="" src="https://github.com/user-attachments/assets/fd965779-db18-4fd5-9d39-9717c65872c5" />
+<img width="2338" height="990" alt="" src="https://github.com/user-attachments/assets/31b13cf8-35ca-41c8-a379-ffbcf0b96caf" />
+<img width="2326" height="978" alt="" src="https://github.com/user-attachments/assets/a67fbf62-1b06-44fc-ae3b-3c88e193b9b6" />
+
+
 ---
 
 1. [ChatGPT](https://chatgpt.com/)
