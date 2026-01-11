@@ -110,6 +110,17 @@
 ![](https://github.com/user-attachments/assets/6744aa66-3bae-449e-84d5-dff5a2b26d14)
 > 量变质变
 
+![](https://github.com/user-attachments/assets/1031b73b-3225-4957-aab1-811aa7cba9eb)
+![](https://github.com/user-attachments/assets/d79ad1f4-dcdd-4c3b-9a10-35e37d9b92cc)
+![](https://github.com/user-attachments/assets/ec44f73c-070d-4f1e-b08a-4dd346701d33)
+![](https://github.com/user-attachments/assets/137a9759-0038-445e-9b55-7c8152bfa59a)
+![](https://github.com/user-attachments/assets/6b34dd2d-cf30-4ae6-9a6e-7a06e0875e0d)
+![](https://github.com/user-attachments/assets/1e1f2ce7-d717-4c2c-9bcf-45647f885d5a)
+![](https://github.com/user-attachments/assets/d56f8f40-d146-444d-b615-69162aa72e12)
+![](https://github.com/user-attachments/assets/b729c010-bd03-4349-8e2e-a8fdf6919947)
+![](https://github.com/user-attachments/assets/a87cda8c-172d-44bf-8fa6-d219f23a1b73)
+> 健康根基
+
 ---
 
 AI生成内容检查、多工具合作，及人工复核
@@ -136,8 +147,8 @@ AI生成内容检查、多工具合作，及人工复核
 6. [Metaso](https://metaso.cn/)
 7. [Kimi](https://www.kimi.com/chat/)
 8. [DeepSeek](https://chat.deepseek.com/)
-9. [顶尖项目经理怎么做复杂的协调工作（上）?](https://www.douyin.com/video/7505573973304937780)
-10. [顶尖项目经理怎么做复杂的协调工作（下）?](https://www.douyin.com/video/7506129734095490338)
+9. [顶尖项目经理怎么做复杂的协调工作（上）](https://www.douyin.com/video/7505573973304937780)
+10. [顶尖项目经理怎么做复杂的协调工作（下）](https://www.douyin.com/video/7506129734095490338)
 11. [脱不花带你职场“开挂”](https://zhuanlan.zhihu.com/p/149948001)
 
 ---
