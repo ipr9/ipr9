@@ -2,8 +2,11 @@
 ![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
 > 此时此地，此人此事，☀️正能量
 
-![](https://github.com/user-attachments/assets/0a736080-207c-4d1b-9cd0-eb7eaea37f55)
+![](https://github.com/user-attachments/assets/b5f23ed6-45f2-447c-a572-48857ffecc47)
 > ☀️☀️☀️敞亮☀️☀️☀️
+
+![](https://github.com/user-attachments/assets/6b81be45-efed-42f7-b4cf-3c9b5eec0592)
+> 松弛感
 
 ![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
 > 修己安人，His Story
