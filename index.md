@@ -76,6 +76,8 @@
 > 有效行动
 
 ![](https://github.com/user-attachments/assets/6744aa66-3bae-449e-84d5-dff5a2b26d14)
+![](https://github.com/user-attachments/assets/78e81a11-08cc-440b-be31-86cda5e890af)
+![](https://github.com/user-attachments/assets/8dc9638e-c9ae-4f66-8d09-6c0d4f87544f)
 > 量变质变
 
 ![](https://github.com/user-attachments/assets/1031b73b-3225-4957-aab1-811aa7cba9eb)
