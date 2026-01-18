@@ -118,6 +118,7 @@ AI生成内容检查、多工具合作，及人工复核
 ![](https://github.com/user-attachments/assets/31b13cf8-35ca-41c8-a379-ffbcf0b96caf)
 ![](https://github.com/user-attachments/assets/a67fbf62-1b06-44fc-ae3b-3c88e193b9b6)
 
+![](https://github.com/user-attachments/assets/0e06a17c-bd8c-422b-8a06-e81a68c70bdc)
 ![](https://github.com/user-attachments/assets/c0b21010-e423-4f63-9692-f2004f243216)
 ![](https://github.com/user-attachments/assets/d56f4d5d-417c-4217-85ca-1268f69e8fd7)
 > 瞬间即永恒
