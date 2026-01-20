@@ -125,6 +125,13 @@ AI生成内容检查、多工具合作，及人工复核
 ![](https://github.com/user-attachments/assets/d56f4d5d-417c-4217-85ca-1268f69e8fd7)
 > 瞬间即永恒
 
+![](https://github.com/user-attachments/assets/6e8a2ed9-0c1f-4f98-a4f5-f577b35cf6d9)
+> 瑞雪兆丰年
+
+![](https://github.com/user-attachments/assets/437f1d8a-8a92-47d4-96e1-1c593d7e5e13)
+> 节奏感，带节奏，兴趣是最好的老师
+
+
 ![](https://github.com/user-attachments/assets/b8205e68-b1a7-415c-832b-25b55ae55c6a)
 ![](https://github.com/user-attachments/assets/3578c2ec-fb36-4cff-a16e-83db97cac710)
 > Go go go
