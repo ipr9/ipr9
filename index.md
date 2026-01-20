@@ -210,6 +210,9 @@ AI生成内容检查、多工具合作，及人工复核
 ![](https://github.com/user-attachments/assets/a58ef65f-ef60-4f48-b6c1-39507c9ac846)
 > 真善美
 
+![](https://github.com/user-attachments/assets/224736db-bb5d-4683-9e40-ebfd064f81c1)
+> 七年一辈子
+
 ---
 
 1. [ChatGPT](https://chatgpt.com/)
