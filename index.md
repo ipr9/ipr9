@@ -207,6 +207,9 @@ AI生成内容检查、多工具合作，及人工复核
 
 ```
 
+![](https://github.com/user-attachments/assets/a58ef65f-ef60-4f48-b6c1-39507c9ac846)
+> 真善美
+
 ---
 
 1. [ChatGPT](https://chatgpt.com/)
