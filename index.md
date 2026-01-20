@@ -134,7 +134,7 @@ AI生成内容检查、多工具合作，及人工复核
 
 ![](https://github.com/user-attachments/assets/b8205e68-b1a7-415c-832b-25b55ae55c6a)
 ![](https://github.com/user-attachments/assets/3578c2ec-fb36-4cff-a16e-83db97cac710)
-> Go go go
+> Go 手谈
 
 ```
 
