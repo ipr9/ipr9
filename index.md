@@ -38,7 +38,9 @@
 ```
 
 ![](https://github.com/user-attachments/assets/0b89d092-0e9f-4cc5-ac19-5dd40203714c)
-> “要进窄门，不要进宽门。宽门易进，所以人多，但必至灭亡；窄门里人少，方得永生。”
+![](https://github.com/user-attachments/assets/016e616a-830a-46ce-a06a-3f17183c6982)
+![](https://github.com/user-attachments/assets/5582094c-1eb1-4d0f-ab61-1714332faf3a)
+> 悦己利他，沉浸当下
 
 ---
 
