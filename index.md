@@ -35,6 +35,13 @@
 以教促学
 教学相长
 
+资源认知
+资源管理
+资源整合
+
+有限资源
+无限游戏
+
 ```
 
 ![](https://github.com/user-attachments/assets/0b89d092-0e9f-4cc5-ac19-5dd40203714c)
