@@ -49,6 +49,22 @@
 ![](https://github.com/user-attachments/assets/5582094c-1eb1-4d0f-ab61-1714332faf3a)
 > 悦己利他，沉浸当下
 
+```2025
+
+1、修己安人
+2、向上沟通
+3、团队培养
+4、AI工具
+5、价值投资
+6、简洁优雅
+7、节律概率
+8、科学常识
+9、沉浸当下
+10、超薄手机
+
+```
+
+
 ---
 
 1. [ChatGPT](https://chatgpt.com/)
