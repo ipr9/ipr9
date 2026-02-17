@@ -55,6 +55,12 @@
 ![](https://github.com/user-attachments/assets/5582094c-1eb1-4d0f-ab61-1714332faf3a)
 > 沉浸当下
 
+![](https://github.com/user-attachments/assets/c79699c8-d898-4b3f-8a75-207d2ce30665)
+![](https://github.com/user-attachments/assets/8fbeb6b6-3a79-43b4-b705-b2ddbf79eb01)
+![](https://github.com/user-attachments/assets/3e616a1f-75c0-4739-a309-69b3688078da)
+![](https://github.com/user-attachments/assets/f1d3bce0-c9e9-41ed-b0fd-57387ca66378)
+> 莲花山春早
+
 ```2025
 
 1、修己安人
