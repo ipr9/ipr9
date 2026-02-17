@@ -41,13 +41,19 @@
 
 有限资源
 无限游戏
+今日即今生
+当下即永恒
 
 ```
 
 ![](https://github.com/user-attachments/assets/0b89d092-0e9f-4cc5-ac19-5dd40203714c)
+> 悦己利他不ego
+
 ![](https://github.com/user-attachments/assets/016e616a-830a-46ce-a06a-3f17183c6982)
+> 创造及交换价值
+
 ![](https://github.com/user-attachments/assets/5582094c-1eb1-4d0f-ab61-1714332faf3a)
-> 悦己利他，沉浸当下
+> 沉浸当下
 
 ```2025
 
