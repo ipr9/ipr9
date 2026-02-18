@@ -41,8 +41,12 @@
 
 有限资源
 无限游戏
+
 今日即今生
 当下即永恒
+
+日行一善
+悦己利他
 
 ```
 
@@ -61,6 +65,10 @@
 ![](https://github.com/user-attachments/assets/f1d3bce0-c9e9-41ed-b0fd-57387ca66378)
 > 莲花山春早
 
+![](https://github.com/user-attachments/assets/c8f6d76d-df11-4cea-8537-12ba663e5b5a)
+![](https://github.com/user-attachments/assets/46552820-c697-4c4f-b7ff-1e2f2f7fedbe)
+> 前海观海
+
 ```2025
 
 1、修己安人
@@ -72,10 +80,18 @@
 7、节律概率
 8、科学常识
 9、沉浸当下
-10、超薄手机
+10、胸怀格局
 
 ```
 
+```2026
+
+山姆、OLE
+莲花山、前海湾
+春晚、太平年
+投资参考、大道
+
+```
 
 ---
 
