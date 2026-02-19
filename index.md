@@ -2,6 +2,7 @@
 ![](https://github.com/user-attachments/assets/84e29154-e50d-4313-a7f5-66eb5dffaf8d)
 > [每个人的平均寿命为 78 年](https://ri.firesbox.com/#/cn/)
 
+
 ```
 睡觉时间加起来大概是 28.3 年；
 工作时间只有 10.5 年 —— 这是大多数人可出售全部时间；
