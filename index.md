@@ -17,6 +17,47 @@
 ……
 ```
 
+
+![](https://github.com/user-attachments/assets/41d04c6c-081d-47a0-9cb0-bfa0fcdcce9e)
+> [约翰·费舍的变革曲线（Transition Curve）](https://ri.firesbox.com/#/cn/)
+
+```
+人们在接受变化的时候，在最早期的焦虑过后，很快就会进入一个比较亢奋的状态，因为他们觉得 “这一次终于能改变点什么了！” …… 
+然而，紧随其后的是很长的充满负面情绪的过程。
+在这里，人们会分化，有的人突然变得心比天高，随后遭遇更大的挫折；
+有些人会持续更久的彷徨之后产生幻觉，进而去做很多不现实的事情；
+还有的人不仅害怕，还会产生负罪感，甚至出现抑郁症状，最终干脆放弃…… 
+而另外一部分人会逐步接受，直至完全适应 —— 可这已经是很长很长时间之后了。
+```
+
+![](https://github.com/user-attachments/assets/5859c92d-7959-4a03-b668-6f5438425bb5)
+> [教是最好的学习方法。找到值得自己终生去做的事情，是一个人最好的护身符。](https://ri.firesbox.com/#/cn/?id=_31-%e5%b1%a1%e6%88%98%e5%b1%a1%e8%b4%a5%e4%b8%8d%e6%88%98%e5%88%99%e8%83%9c)
+
+![](https://github.com/user-attachments/assets/08a925f4-a376-4738-930c-d4ba0ab0645e)
+> [你是你自己最坏的敌人。](https://ri.firesbox.com/#/cn/?id=_31-%e5%b1%a1%e6%88%98%e5%b1%a1%e8%b4%a5%e4%b8%8d%e6%88%98%e5%88%99%e8%83%9c)
+
+```
+柏拉图的战车比喻 —— 因为车夫、白马、黑马、战车是一个能够统一的组合。
+我们的身体就好像是那辆战车，我们脑子里住着三个自我，一位车夫，一匹白马，和另外一匹黑马。
+他们三个不应该是相互的敌人，也不应该是相互的仇人，他们之间的关系最好是，也只能是，合作关系。
+他们三个之间相互合作的越紧密，那战车就越有效率；否则的话，战车就毫无用处。
+
+之前决策的时候，必然缺乏的是之后的丰富经验。
+“无论如何都要开始做、同时也只能边做边学”。
+越是早期的错误所造成的长期代价越高
+—— 因为在长期之后，那些代价会被无限放大……
+
+著名神父尼布尔的《宁静祷文》（The Serenity Prayer）事实上就是一个对于边界的深刻思考：
+O God and Heavenly Father, Grant to us the serenity of mind to accept that which cannot be changed;
+courage to change that which can be changed, and wisdom to know the one from the other, through Jesus Christ our Lord, Amen.
+
+神啊！
+请赐予我宁静，好让我能接受，我无法改变的事情；
+请赐予我勇气，好让我能改变，我能去改变的事情；
+请赐予我睿智，好让我能区别，以上这两者的不同……
+
+```
+
 ![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
 > ahaIP 此时此事：工作、专业及事业
 
@@ -75,7 +116,7 @@
 > 创造及交换价值
 
 ![](https://github.com/user-attachments/assets/5582094c-1eb1-4d0f-ab61-1714332faf3a)
-> 沉浸当下
+> 沉浸当下，知行合一
 
 ![](https://github.com/user-attachments/assets/c79699c8-d898-4b3f-8a75-207d2ce30665)
 ![](https://github.com/user-attachments/assets/8fbeb6b6-3a79-43b4-b705-b2ddbf79eb01)
@@ -88,6 +129,8 @@
 > 前海观海
 
 ![](https://github.com/user-attachments/assets/d6c77ccd-bc73-47ce-ba7a-5f0dbf495799)
+![](https://github.com/user-attachments/assets/f4116fdd-77d5-4854-b718-ff6ddb10ab6c)
+![](https://github.com/user-attachments/assets/26ffb73c-213c-4614-9f5c-9c9efa18d8eb)
 ![](https://github.com/user-attachments/assets/3e428659-e1c0-4b9c-990a-29dc2dc0f43d)
 > 西丽骑行
 
