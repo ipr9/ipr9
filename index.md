@@ -87,6 +87,10 @@
 ![](https://github.com/user-attachments/assets/46552820-c697-4c4f-b7ff-1e2f2f7fedbe)
 > 前海观海
 
+![](https://github.com/user-attachments/assets/d6c77ccd-bc73-47ce-ba7a-5f0dbf495799)
+![](https://github.com/user-attachments/assets/3e428659-e1c0-4b9c-990a-29dc2dc0f43d)
+> 西丽骑行
+
 ```2025
 
 1、修己安人
@@ -105,7 +109,7 @@
 ```2026
 
 山姆、OLE
-莲花山、前海湾
+莲花山、前海湾、西丽湖绿道
 春晚、太平年
 投资参考、大道
 
