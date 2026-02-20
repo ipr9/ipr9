@@ -1,9 +1,15 @@
 
+![](https://github.com/user-attachments/assets/dc739a48-fc80-4011-b270-44050a5eb31f)
+> [用正确的方法做正确的事情](https://lixiaolai.com/#/befriending-time/)
+
+![](https://github.com/user-attachments/assets/ab4b8a20-0db7-4491-a9ec-cee248114b81)
+> [“正确的事情”就是“习得”英语，“正确的方法”就是“用”](https://lixiaolai.com/#/everyone-can-use-english/)
+
 ![](https://github.com/user-attachments/assets/84e29154-e50d-4313-a7f5-66eb5dffaf8d)
 > [每个人的平均寿命为 78 年](https://ri.firesbox.com/#/cn/)
 
-
 ```
+
 睡觉时间加起来大概是 28.3 年；
 工作时间只有 10.5 年 —— 这是大多数人可出售全部时间；
 花在各种各样社交媒体上的时间有 9 年；
@@ -15,6 +21,10 @@
 花在照顾小孩的时间有 1.5 年；
 花在路上的时间有 1.3 年；
 ……
+
+我们无法管理时间。我们真正能够管理的，是我们自己。
+只有接受这个简单的事实，才有解决问题的希望。
+
 ```
 
 
@@ -151,10 +161,11 @@ courage to change that which can be changed, and wisdom to know the one from the
 
 ```2026
 
-山姆、OLE
-莲花山、前海湾、西丽湖绿道
-春晚、太平年
-投资参考、大道
+山姆、OLE、MINISO、无印良品、迪卡龙、小米之家
+莲花山、前海湾、西丽湖绿道、大沙河公园
+西西弗、书房、春晚、太平年
+何刚投资参考、段永平大道、李笑来定投
+柔先生、铜师傅、摆件
 
 ```
 
@@ -164,5 +175,11 @@ courage to change that which can be changed, and wisdom to know the one from the
 2. [Perplexity](https://www.perplexity.ai/)
 3. [Gemini](https://gemini.google.com/app)
 4. [Minimax](https://agent.minimax.io/)
+5. [Meditation冥想](https://github.com/xiaolai/zuoxiangqicheng)
+6. [把时间当作朋友](https://lixiaolai.com/#/befriending-time/)
+7. [定投改变命运](https://ri.firesbox.com/#/cn/)
+8. [韭菜的自我修养](https://lixiaolai.com/#/the-self-cultivation-of-leeks/cn/)
+9. [我也有话要说](https://lixiaolai.com/#/i-have-a-say/)
+10. [人人都能用英语](https://lixiaolai.com/#/everyone-can-use-english/)
 
 ---
