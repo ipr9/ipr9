@@ -144,6 +144,12 @@ courage to change that which can be changed, and wisdom to know the one from the
 ![](https://github.com/user-attachments/assets/3e428659-e1c0-4b9c-990a-29dc2dc0f43d)
 > 西丽骑行
 
+![](https://github.com/user-attachments/assets/9cd48781-9f3f-48bb-8975-13514047920a)
+![](https://github.com/user-attachments/assets/dd8a7fba-b7e8-4f8c-a5c7-e6e484b1c1f0)
+![](https://github.com/user-attachments/assets/c2694059-4a0d-42cb-869f-40b5e5246f71)
+![](https://github.com/user-attachments/assets/127281f2-8a2f-4e68-9ca8-2b40d504c40b)
+> 大沙河公园
+
 ```2025
 
 1、修己安人
@@ -158,6 +164,8 @@ courage to change that which can be changed, and wisdom to know the one from the
 10、胸怀格局
 
 ```
+
+
 
 ```2026
 
