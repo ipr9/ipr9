@@ -50,6 +50,9 @@
 
 ```
 
+![](https://github.com/user-attachments/assets/6f3ce9f5-0d6f-400d-be00-a56630562ea9)
+> 少有，正确及价值之旅，从头再出发
+
 ---
 
 1. [ChatGPT](https://chatgpt.com/)
