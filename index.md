@@ -1,6 +1,12 @@
 
+![](https://github.com/user-attachments/assets/83d08a97-b311-4089-b37f-9d4be1845229)
+> 修己安人，节律，概率，节奏
+
+![](https://github.com/user-attachments/assets/a50cd124-795e-49b8-88cf-a89ec6527e74)
+> Just do it -right -now
+
 ![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
-> ahaIP 此时此事：工作、专业及事业
+> ahaIP 理想沉浸当下：价值创造及交换
 
 ![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
 > HWPM 修己安人：学之、好之及乐之
@@ -8,9 +14,17 @@
 ![](https://github.com/user-attachments/assets/c0b21010-e423-4f63-9692-f2004f243216)
 > 3A 简洁节律：少有、正确及价值
 
-![](https://github.com/user-attachments/assets/9a75c6b3-9f64-4f59-97c8-2dbf11b4b446)
+![](https://github.com/user-attachments/assets/a3e4526b-0ce0-468c-9ee7-bfeb4bcec986)
 > 贝叶斯定理、奥卡姆剃刀、汉隆剃刀
 
+![](https://github.com/user-attachments/assets/fc2f4438-de58-4e8b-a0d0-a422aa3d154f)
+> Think Different
+
+![](https://github.com/user-attachments/assets/597c4114-9635-47ae-b808-24a7e9d1f45d)
+![](https://github.com/user-attachments/assets/a8d4a4aa-eaa0-4d1c-9f46-1a075ae73753)
+![](https://github.com/user-attachments/assets/0852d04d-a982-46c2-93f5-151590c40b36)
+![](https://github.com/user-attachments/assets/aedcdb45-84ed-4d4c-90ac-a54b8ba94a27)
+> 创新想象力、人际关系力，及品味审美力
 
 ```
 
@@ -86,15 +100,22 @@
 直接、间接、业务
 中立、欣赏、不喜欢
 
+实事求是
+一视同仁
+就事论事
+
+人生先广度，后深度，才能突破自我设限的壁垒
+事业先业余，后专业，才能积淀潜在的多面能力
+思维先类比，后迁移，才能触类旁通，厚积薄发
+
 ```
 
 ![](https://github.com/user-attachments/assets/6f3ce9f5-0d6f-400d-be00-a56630562ea9)
 > 少有，正确及价值之旅，从头再出发
 
-![](https://github.com/user-attachments/assets/597c4114-9635-47ae-b808-24a7e9d1f45d)
+![](https://github.com/user-attachments/assets/619ce9e1-0fee-4ad2-a9e1-761ee81f3621)
+![](https://github.com/user-attachments/assets/21b77fa6-75e2-49f6-895b-e94137c8722f)
 ![](https://github.com/user-attachments/assets/2f209d7c-f6fd-4037-9e16-9aa465e82e68)
-![](https://github.com/user-attachments/assets/2e278b96-831d-4a7a-b50f-7db1bc6e8263)
-![](https://github.com/user-attachments/assets/33ed8aa8-b870-4c8f-9a38-9e48d3646f22)
 > 经典作品，好产品会说话
 
 ![](https://github.com/user-attachments/assets/0536b621-f8a9-4298-ab6c-428797430510)
