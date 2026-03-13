@@ -6,7 +6,7 @@
 > Just do it -right -now
 
 ![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
-> ahaIP 理想沉浸当下：价值创造及交换
+> ahaIP 理性沉浸当下：价值创造及交换
 
 ![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
 > HWPM 修己安人：学之、好之及乐之
