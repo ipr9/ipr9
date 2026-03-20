@@ -111,6 +111,12 @@
 事业先业余，后专业，才能积淀潜在的多面能力
 思维先类比，后迁移，才能触类旁通，厚积薄发
 
+管中窥人
+盲人摸象
+井底之蛙
+横看成岭侧成峰
+远近高低各不同
+
 ```
 
 ![](https://github.com/user-attachments/assets/6f3ce9f5-0d6f-400d-be00-a56630562ea9)
@@ -121,14 +127,9 @@
 ![](https://github.com/user-attachments/assets/2f209d7c-f6fd-4037-9e16-9aa465e82e68)
 > 经典作品，好产品会说话
 
-![](https://github.com/user-attachments/assets/0536b621-f8a9-4298-ab6c-428797430510)
-![](https://github.com/user-attachments/assets/d9477801-da73-40c6-bec2-d7a570478054)
-![](https://github.com/user-attachments/assets/82906ba3-0e04-4edd-bc6d-147b6dab3c82)
-> 一天一天，一件一件，一次一次
-
-![](https://github.com/user-attachments/assets/ba4cb138-c149-4989-9e37-1ee417911adb)
-![](https://github.com/user-attachments/assets/fb4bcae6-637e-4d8d-a54a-60cb57484dee)
-> 金马踏春
+![](https://github.com/user-attachments/assets/ff54d91b-f5aa-43ad-a001-f0aa699d1587)
+![](https://github.com/user-attachments/assets/69980a7b-2653-45ee-89f6-afe71006648a)
+> 反思 vs 反驳
 
 ---
 
@@ -136,5 +137,6 @@
 2. [Perplexity](https://www.perplexity.ai/)
 3. [Gemini](https://gemini.google.com/app)
 4. [Minimax](https://agent.minimax.io/)
+5. [OpenClaw](https://console.cloud.tencent.com/lighthouse/instance/detail?rid=8&id=lhins-dxtl0o5k&tab=application)
 
 
