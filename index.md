@@ -1,4 +1,7 @@
 
+![](https://github.com/user-attachments/assets/8dac8f63-014e-44b8-9d6c-3f67ce8790fd)
+> AI Agent 智能体时代，趋势>选择>努力
+
 ![](https://github.com/user-attachments/assets/83d08a97-b311-4089-b37f-9d4be1845229)
 > 修己安人，节律，概率，节奏
 
