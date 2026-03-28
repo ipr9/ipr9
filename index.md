@@ -2,6 +2,9 @@
 ![](https://github.com/user-attachments/assets/a40f4739-a8a4-4610-a4e4-8672f085a2a9)
 > 一线城市不缺机会，缺人才，尤其是高端，更是如此
 
+![](https://github.com/user-attachments/assets/fc76348c-5f2a-4df5-842b-875e057e0617)
+> 成功是成功之父，失败是成功之母
+
 ![](https://github.com/user-attachments/assets/8dac8f63-014e-44b8-9d6c-3f67ce8790fd)
 > AI Agent 智能体时代，趋势>选择>努力
 
