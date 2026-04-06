@@ -1,39 +1,16 @@
 
 ![](https://github.com/user-attachments/assets/a40f4739-a8a4-4610-a4e4-8672f085a2a9)
-> 一线城市不缺机会，缺人才，尤其是高端，更是如此
+> 理性沉浸当下
 
 ![](https://github.com/user-attachments/assets/fc76348c-5f2a-4df5-842b-875e057e0617)
-> 成功是成功之父，失败是成功之母
-
-![](https://github.com/user-attachments/assets/8dac8f63-014e-44b8-9d6c-3f67ce8790fd)
-> AI Agent 智能体时代，趋势>选择>努力
-
-![](https://github.com/user-attachments/assets/83d08a97-b311-4089-b37f-9d4be1845229)
-> 修己安人，节律，概率，节奏
-
-![](https://github.com/user-attachments/assets/a50cd124-795e-49b8-88cf-a89ec6527e74)
-> Just do it -right -now
-
-![](https://github.com/user-attachments/assets/b5c9a61d-79cb-4567-9d1c-aab24a7e07a9)
-> ahaIP 理性沉浸当下：价值创造及交换
+> 少有，正确及价值之旅，从头再出发
 
 ![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
-> HWPM 修己安人：学之、好之及乐之
-
-![](https://github.com/user-attachments/assets/c0b21010-e423-4f63-9692-f2004f243216)
-> 3A 简洁节律：少有、正确及价值
+> 节律，概率，规律
 
 ![](https://github.com/user-attachments/assets/a3e4526b-0ce0-468c-9ee7-bfeb4bcec986)
 > 贝叶斯定理、奥卡姆剃刀、汉隆剃刀
 
-![](https://github.com/user-attachments/assets/fc2f4438-de58-4e8b-a0d0-a422aa3d154f)
-> Think Different
-
-![](https://github.com/user-attachments/assets/597c4114-9635-47ae-b808-24a7e9d1f45d)
-![](https://github.com/user-attachments/assets/a8d4a4aa-eaa0-4d1c-9f46-1a075ae73753)
-![](https://github.com/user-attachments/assets/0852d04d-a982-46c2-93f5-151590c40b36)
-![](https://github.com/user-attachments/assets/aedcdb45-84ed-4d4c-90ac-a54b8ba94a27)
-> 创新想象力、人际关系力，及品味审美力
 
 ```
 
@@ -117,25 +94,19 @@
 事业先业余，后专业，才能积淀潜在的多面能力
 思维先类比，后迁移，才能触类旁通，厚积薄发
 
+反思 vs 反驳
+
 管中窥人
 盲人摸象
 井底之蛙
 横看成岭侧成峰
 远近高低各不同
 
+创新想象力、人际关系力，及品味审美力
+修己安人，经典作品，好产品会说话
+
 ```
 
-![](https://github.com/user-attachments/assets/6f3ce9f5-0d6f-400d-be00-a56630562ea9)
-> 少有，正确及价值之旅，从头再出发
-
-![](https://github.com/user-attachments/assets/619ce9e1-0fee-4ad2-a9e1-761ee81f3621)
-![](https://github.com/user-attachments/assets/21b77fa6-75e2-49f6-895b-e94137c8722f)
-![](https://github.com/user-attachments/assets/2f209d7c-f6fd-4037-9e16-9aa465e82e68)
-> 经典作品，好产品会说话
-
-![](https://github.com/user-attachments/assets/ff54d91b-f5aa-43ad-a001-f0aa699d1587)
-![](https://github.com/user-attachments/assets/69980a7b-2653-45ee-89f6-afe71006648a)
-> 反思 vs 反驳
 
 ---
 
