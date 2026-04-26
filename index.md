@@ -1,16 +1,20 @@
 
+
+![](https://github.com/user-attachments/assets/5e5b6781-fccb-46ff-8238-ac93e15354c2)
+> 未来已来，当下即永恒
+
 ![](https://github.com/user-attachments/assets/e02e541e-c2e4-4f8d-b31c-adea8e2c1230)
 ![](https://github.com/user-attachments/assets/9665123b-5682-44d3-b542-6e714d3270c4)
 > 少就是多，慢就是快
 
 ![](https://github.com/user-attachments/assets/a40f4739-a8a4-4610-a4e4-8672f085a2a9)
-> 理性沉浸当下
+> 理性、沉浸，当下
 
 ![](https://github.com/user-attachments/assets/fc76348c-5f2a-4df5-842b-875e057e0617)
 > 少有，正确及价值之旅，从头再出发
 
 ![](https://github.com/user-attachments/assets/86a382f5-99c7-4af7-88fd-9527438f0570)
-> 节律，概率，规律
+> 节律（静息），概率（贝叶斯），规律（科学/常识）
 
 ![](https://github.com/user-attachments/assets/a3e4526b-0ce0-468c-9ee7-bfeb4bcec986)
 > 贝叶斯定理、奥卡姆剃刀、汉隆剃刀
@@ -110,6 +114,14 @@
 修己安人，经典作品，好产品会说话
 
 ```
+
+![](https://github.com/user-attachments/assets/89c05ca6-395a-424c-83d7-a62562286ff7)
+![](https://github.com/user-attachments/assets/3c0364cc-f5e3-4302-a18f-63c2fd72c45a)
+> 选择，行为，结果
+
+![](https://github.com/user-attachments/assets/2c2730a0-f4d8-431b-b275-88749763a42f)
+![](https://github.com/user-attachments/assets/6d229ede-5fd4-4bd9-a76b-684cc02b836f)
+> 场合，身份，选择
 
 
 ---
