@@ -5,7 +5,7 @@
 
 ![](https://github.com/user-attachments/assets/e02e541e-c2e4-4f8d-b31c-adea8e2c1230)
 ![](https://github.com/user-attachments/assets/9665123b-5682-44d3-b542-6e714d3270c4)
-> 少就是多，慢就是快
+> 少就是多，慢就是快，节奏感（能量）
 
 ![](https://github.com/user-attachments/assets/a40f4739-a8a4-4610-a4e4-8672f085a2a9)
 > 理性、沉浸，当下
