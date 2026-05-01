@@ -124,6 +124,11 @@
 > 场合，身份，选择
 
 
+
+![](https://github.com/user-attachments/assets/cc871304-02cc-4541-8f85-0595290aa2f0)
+![](https://github.com/user-attachments/assets/68bdbfd3-11fc-42a2-92d4-d060fbb75e72)
+> [OPPO Find X9 Ultra](https://www.oppo.com/cn/smartphones/series-find-x/find-x9-ultra/)
+
 ---
 
 1. [ChatGPT](https://chatgpt.com/)
