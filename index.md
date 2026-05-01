@@ -126,6 +126,7 @@
 ![](https://github.com/user-attachments/assets/cc871304-02cc-4541-8f85-0595290aa2f0)
 ![](https://github.com/user-attachments/assets/8bec188b-ce91-4554-b880-2342f2e0b1ea)
 ![](https://github.com/user-attachments/assets/68bdbfd3-11fc-42a2-92d4-d060fbb75e72)
+![](https://github.com/user-attachments/assets/5c798be6-cec9-40e9-a6ea-f994919c48ae)
 > [OPPO Find X9 Ultra](https://www.oppo.com/cn/smartphones/series-find-x/find-x9-ultra/)
 
 ---
