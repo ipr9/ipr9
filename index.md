@@ -129,6 +129,10 @@
 ![](https://github.com/user-attachments/assets/5c798be6-cec9-40e9-a6ea-f994919c48ae)
 > [OPPO Find X9 Ultra](https://www.oppo.com/cn/smartphones/series-find-x/find-x9-ultra/)
 
+![](https://github.com/user-attachments/assets/40cd29f8-d31f-416f-ba5e-67335832b9e8)
+> [HUAWEI Pura X Max](https://consumer.huawei.com/cn/phones/pura-x-max/)
+
+
 ---
 
 1. [ChatGPT](https://chatgpt.com/)
