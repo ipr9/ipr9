@@ -123,6 +123,10 @@
 ![](https://github.com/user-attachments/assets/6d229ede-5fd4-4bd9-a76b-684cc02b836f)
 > 场合，身份，选择
 
+![](https://github.com/user-attachments/assets/500e9235-6188-4e94-b94f-e73a5abe0bf6)
+![](https://github.com/user-attachments/assets/fd8615f1-4f16-438b-9404-3413f8ff0557)
+> 做正确的事情，正确地做事
+
 ![](https://github.com/user-attachments/assets/cc871304-02cc-4541-8f85-0595290aa2f0)
 ![](https://github.com/user-attachments/assets/8bec188b-ce91-4554-b880-2342f2e0b1ea)
 ![](https://github.com/user-attachments/assets/68bdbfd3-11fc-42a2-92d4-d060fbb75e72)
