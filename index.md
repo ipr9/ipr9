@@ -128,6 +128,7 @@
 > 做正确的事情，正确地做事
 
 ![](https://github.com/user-attachments/assets/a41617c2-ae99-4ce4-b224-336534b7f541)
+![](https://github.com/user-attachments/assets/c11fba1d-0dcb-4f8b-a2ce-8d40ab21ef50)
 > 平行世界，认知格局
 
 ![](https://github.com/user-attachments/assets/cc871304-02cc-4541-8f85-0595290aa2f0)
