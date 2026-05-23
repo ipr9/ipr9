@@ -1,7 +1,13 @@
 
 
 ![](https://github.com/user-attachments/assets/5e5b6781-fccb-46ff-8238-ac93e15354c2)
+![](https://github.com/user-attachments/assets/59ffb9e3-539e-4004-ad14-af73482cade4)
 > 未来已来，当下即永恒
+
+![](https://github.com/user-attachments/assets/4f92be2c-3c96-4150-9883-ea1343097328)
+![](https://github.com/user-attachments/assets/bedc2947-9e6a-40b2-aff8-7b3e22b45869)
+![](https://github.com/user-attachments/assets/cd5b0f4b-5fa4-4c37-98fd-7c66db300854)
+> 平常心，平凡人
 
 ![](https://github.com/user-attachments/assets/e02e541e-c2e4-4f8d-b31c-adea8e2c1230)
 ![](https://github.com/user-attachments/assets/9665123b-5682-44d3-b542-6e714d3270c4)
@@ -17,6 +23,7 @@
 > 节律（静息），概率（贝叶斯），规律（科学/常识）
 
 ![](https://github.com/user-attachments/assets/a3e4526b-0ce0-468c-9ee7-bfeb4bcec986)
+![](https://github.com/user-attachments/assets/442390d6-c264-4bca-a511-5c4961a4b675)
 > 贝叶斯定理、奥卡姆剃刀、汉隆剃刀
 
 
@@ -139,6 +146,10 @@
 
 ![](https://github.com/user-attachments/assets/40cd29f8-d31f-416f-ba5e-67335832b9e8)
 > [HUAWEI Pura X Max](https://consumer.huawei.com/cn/phones/pura-x-max/)
+
+
+![](https://github.com/user-attachments/assets/d016f0f1-541e-4397-9b1b-d290d1905695)
+> 青春
 
 
 ---
