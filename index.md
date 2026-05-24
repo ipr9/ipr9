@@ -9,6 +9,27 @@
 ![](https://github.com/user-attachments/assets/cd5b0f4b-5fa4-4c37-98fd-7c66db300854)
 > 平常心，平凡人
 
+![](https://github.com/user-attachments/assets/9430d4e5-d7b9-40ef-90df-1c2c62d0b282)
+![](https://github.com/user-attachments/assets/4425ae44-711e-4a1d-95a2-9f3ea8c418fd)
+![](https://github.com/user-attachments/assets/3741011e-0db4-45aa-8201-078af8c022fb)
+![](https://github.com/user-attachments/assets/d73b9102-12f8-4fca-8ce7-745bbf34457f)
+> 从t 到π，再到开，当下即永恒；利他即利己，人生马拉松...
+
+
+```《七律·长征》
+
+红军不怕远征难，
+万水千山只等闲。
+五岭逶迤腾细浪，
+乌蒙磅礴走泥丸。
+金沙水拍云崖暖，
+大渡桥横铁索寒。
+更喜岷山千里雪，
+三军过后尽开颜。
+
+```
+
+
 ![](https://github.com/user-attachments/assets/e02e541e-c2e4-4f8d-b31c-adea8e2c1230)
 ![](https://github.com/user-attachments/assets/9665123b-5682-44d3-b542-6e714d3270c4)
 > 少就是多，慢就是快，节奏感（能量）
