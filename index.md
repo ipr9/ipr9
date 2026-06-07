@@ -1,4 +1,7 @@
 
+![](https://github.com/user-attachments/assets/8ecdd521-f304-441c-9873-a664125b78d3)
+![](https://github.com/user-attachments/assets/ba7ec660-a319-4a52-b74f-2f13360ba516)
+> 人生如戏，角色体验
 
 ![](https://github.com/user-attachments/assets/5e5b6781-fccb-46ff-8238-ac93e15354c2)
 ![](https://github.com/user-attachments/assets/59ffb9e3-539e-4004-ad14-af73482cade4)
@@ -170,13 +173,18 @@
 ![](https://github.com/user-attachments/assets/5c798be6-cec9-40e9-a6ea-f994919c48ae)
 > [OPPO Find X9 Ultra](https://www.oppo.com/cn/smartphones/series-find-x/find-x9-ultra/)
 
+![](https://github.com/user-attachments/assets/2553ff15-3b1e-413e-83ef-622cc10ee27e)
+![](https://github.com/user-attachments/assets/26689e46-0666-47a8-a58f-cb1b1a86757c)
+![](https://github.com/user-attachments/assets/484cb6d7-9f66-4e1e-92a5-38102b1b487a)
+![](https://github.com/user-attachments/assets/e3fccf61-9a61-4b28-b4bf-efdc1274e85f)
+![](https://github.com/user-attachments/assets/6f89969c-c884-45a8-886e-3e4a8c25a448)
+> [VIVO X300 Ultra](https://www.vivo.com.cn/vivo/x300ultra/)
+
 ![](https://github.com/user-attachments/assets/40cd29f8-d31f-416f-ba5e-67335832b9e8)
 > [HUAWEI Pura X Max](https://consumer.huawei.com/cn/phones/pura-x-max/)
 
-
 ![](https://github.com/user-attachments/assets/d016f0f1-541e-4397-9b1b-d290d1905695)
 > 青春
-
 
 ---
 
@@ -185,8 +193,9 @@
 3. [Gemini](https://gemini.google.com/app)
 4. [Minimax](https://agent.minimax.io/)
 5. [LightClaw](https://console.cloud.tencent.com/lighthouse/instance/detail?rid=8&id=lhins-dxtl0o5k&tab=application)
-6. [OpenClaw](https://openclaw.ai/)
-7. [Hermes Agent](https://hermes-agent.nousresearch.com/)
-8. [Ollama](https://ollama.com/)
+6. [LightVela](https://lightvela.com/)
+7. [OpenClaw](https://openclaw.ai/)
+8. [Hermes Agent](https://hermes-agent.nousresearch.com/)
+9. [Ollama](https://ollama.com/)
 
 
