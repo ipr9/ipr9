@@ -1,4 +1,16 @@
 
+![](https://github.com/user-attachments/assets/4a587b06-d19b-4e5c-95f9-28d82edc513d)
+![](https://github.com/user-attachments/assets/d74d5c06-cce2-463f-bccf-e6f765d57bb0)
+![](https://github.com/user-attachments/assets/baccc6e3-fc9f-4136-bc17-19d27413b321)
+![](https://github.com/user-attachments/assets/287d5726-15e7-46d7-9245-7d52445a52cc)
+> 读万卷书，行万里路，识万千人
+
+![](https://github.com/user-attachments/assets/fd0e54d3-d48c-40ce-9368-7ca375c2b329)
+![](https://github.com/user-attachments/assets/619e944e-9058-4970-8411-e0f4865088b0)
+![](https://github.com/user-attachments/assets/ffeb22fa-ceaf-4f65-8299-0561805b355a)
+![](https://github.com/user-attachments/assets/55a8f580-337f-4b37-85fd-70d9feac6eda)
+> 知行合一，知足常乐，感恩长存
+
 ![](https://github.com/user-attachments/assets/8ecdd521-f304-441c-9873-a664125b78d3)
 ![](https://github.com/user-attachments/assets/ba7ec660-a319-4a52-b74f-2f13360ba516)
 > 人生如戏，角色体验
@@ -148,6 +160,12 @@
 
 创新想象力、人际关系力，及品味审美力
 修己安人，经典作品，好产品会说话
+
+敬畏之心
+执行纪律
+
+己所不欲
+勿施于人
 
 ```
 
