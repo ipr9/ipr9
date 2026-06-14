@@ -1,6 +1,8 @@
 
 
 ![](https://github.com/user-attachments/assets/0e111b61-d744-4b6b-b3ee-9f4e6c4d5880)
+> 人生不过三万天，活了一天算一天，一切都是概率...
+
 ![](https://github.com/user-attachments/assets/51dd24a3-94c8-4981-9b56-be95e3c45804)
 > 做正确的事，正确地做事...
 
