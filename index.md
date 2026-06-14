@@ -1,4 +1,9 @@
 
+
+![](https://github.com/user-attachments/assets/0e111b61-d744-4b6b-b3ee-9f4e6c4d5880)
+![](https://github.com/user-attachments/assets/51dd24a3-94c8-4981-9b56-be95e3c45804)
+> 做正确的事，正确地做事...
+
 ![](https://github.com/user-attachments/assets/4a587b06-d19b-4e5c-95f9-28d82edc513d)
 ![](https://github.com/user-attachments/assets/d74d5c06-cce2-463f-bccf-e6f765d57bb0)
 ![](https://github.com/user-attachments/assets/baccc6e3-fc9f-4136-bc17-19d27413b321)
@@ -166,6 +171,12 @@
 
 己所不欲
 勿施于人
+
+选我所爱
+爱我所选
+做好自己的事情
+过好自己一生
+
 
 ```
 
