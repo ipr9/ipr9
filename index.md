@@ -1,5 +1,17 @@
 
 
+![](https://github.com/user-attachments/assets/80f663ba-8ba3-41bd-8e8b-ebc382ebdd4d)
+> 六项精进，打造新习惯的神经连接
+
+```
+付出不亚于任何人的努力
+要谦虚，不要骄傲
+要每天反省
+活着就要感谢
+积善行，思利他
+不要有感性的烦恼
+```
+
 ![](https://github.com/user-attachments/assets/0e111b61-d744-4b6b-b3ee-9f4e6c4d5880)
 > 人生不过三万天，活了一天算一天，一切都是概率...
 
