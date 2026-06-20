@@ -8,6 +8,34 @@
 ![](https://github.com/user-attachments/assets/89f64849-c0e2-42f4-9d5b-17dd9823fdcf)
 > 少就是多，慢就是快，利他即利己————通透人性
 
+![](https://github.com/user-attachments/assets/5431d166-03ec-402a-8275-41210d5aa4c8)
+![](https://github.com/user-attachments/assets/072ef6f4-0aad-4e2c-a097-5ee00837ad11)
+![](https://github.com/user-attachments/assets/fc4a208e-8242-49d4-a22c-2597acd5018a)
+> 行者无疆，遇见世界，也遇见自己...
+
+
+```
+书房
+公园
+旅行
+
+冥想
+睡眠
+徒步
+
+音乐
+电影
+摄影
+
+篮球
+军事
+美食
+...
+```
+
+![](https://github.com/user-attachments/assets/008cb34e-5bff-4c29-a933-4772e672f065)
+> 经典永流传...
+
 
 ---
 
