@@ -1,9 +1,6 @@
 
 ![](https://github.com/user-attachments/assets/bed74e0c-a9c9-477e-a0c7-07af71a35536)
-> 乐在其中...
-
-![](https://github.com/user-attachments/assets/c0eb4d31-baf6-4613-ab51-4f4354e8f47e)
-> 天道酬勤，从量变到质变
+> 乐在其中，天道酬勤，从量变到质变————大脑神经连接
 
 ![](https://github.com/user-attachments/assets/b958e63c-16c1-459a-9359-9f3118432837)
 > 节律，概率，当下————心怀及体验美好（真善美）
@@ -21,6 +18,10 @@
 
 
 ```
+
+不威则多怒
+不信则多言
+不智则多虑
 
 祛魅共鸣
 能量状态
