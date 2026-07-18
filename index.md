@@ -5,6 +5,9 @@
 ![](https://github.com/user-attachments/assets/b958e63c-16c1-459a-9359-9f3118432837)
 > 节律，概率，当下————心怀及体验美好（真善美）
 
+![](https://github.com/user-attachments/assets/9161d255-0703-4c39-ae75-9ad6cc4763be)
+> AHA飞轮体系：得到大脑（输入），小虾小马（进化），公众号（输出）————高质量输入，高质量输出（训练大脑）
+
 ![](https://github.com/user-attachments/assets/30bed6c3-cd0f-4f66-835c-c8e7cdcd3158)
 > 事情，关系，利益————拥有及创造价值（作品意识）
 
