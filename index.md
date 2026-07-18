@@ -34,6 +34,10 @@
 冥想、睡眠、徒步
 音乐、电影、摄影
 篮球、军事、美食
+
+关关难过关关过
+办法总比问题多
+
 ...
 ```
 
@@ -47,8 +51,7 @@
 2. [Perplexity](https://www.perplexity.ai/)
 3. [Gemini](https://gemini.google.com/app)
 4. [Minimax](https://agent.minimax.io/)
-5. [LightClaw](https://console.cloud.tencent.com/lighthouse/instance/detail?rid=8&id=lhins-dxtl0o5k&tab=application)
-6. [LightVela](https://lightvela.com/)
-7. [OpenClaw](https://openclaw.ai/)
-8. [Hermes Agent](https://hermes-agent.nousresearch.com/)
-9. [Ollama](https://ollama.com/)
+5. [LightVela](https://lightvela.com/)
+6. [OpenClaw](https://openclaw.ai/)
+7. [Hermes Agent](https://hermes-agent.nousresearch.com/)
+8. [Ollama](https://ollama.com/)
