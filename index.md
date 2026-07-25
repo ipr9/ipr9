@@ -51,6 +51,56 @@
 > 经典永流传...
 
 
+
+![](https://github.com/user-attachments/assets/4f878fef-11fb-4d49-92fc-904ddd85d0d6)
+> 本金，利率及时长
+
+![](https://github.com/user-attachments/assets/ac21df9f-bd43-4802-b1e6-2aecee0e7abc)
+> All in AI， 轻资产、高盈利及平台性企业，做对的事情比勤奋更重要，选择优于努力。
+
+```资产配置
+
+如果10年前你有100万，买不同资产，你知道差距有多大吗？
+
+​如果买英伟达，拿到现在，4300万元。
+​特斯拉​：3100万元
+​苹果​：1100万元
+​茅台：900万元
+​纳斯达克指数​：500万元
+​黄金​：330万元
+​国内一线城市房子：200万
+​国债​：140万
+存银行：130万
+沪深300指数​：104万
+三四线城市房地产：100万
+钢铁股票：80万
+​如果你在10年前买P2P，财富归0。
+
+```
+
+
+![](https://github.com/user-attachments/assets/b4c26285-92b3-4150-9d7c-b1ebac8893c2)
+> 健康、家人、工作，理性价值投资 <ins>收入=本金*(1+利率)<sup>时长</sup></ins>，3年，5年，10年...
+
+![](https://github.com/user-attachments/assets/fa0c024e-3d1d-4057-9f6c-32cc0bf1ae3c)
+> 股东思维：长期定投好公司（谷歌、苹果、英伟达；腾讯、小米、阿里，美团...）
+
+
+```企业价值
+
+1，规模的增长性；
+2，盈利性；
+3，业务线增长能力以及更新能力；
+4，业绩增长的稳定性；
+5，抗周期性，是否具有逆周期增长的能力。
+
+宽和窄的关系：
+T字型一横很长，但那竖很短，不行；
+同样，竖很长，横很短，也是不行的。
+
+```
+
+
 ---
 
 1. [ChatGPT](https://chatgpt.com/)
@@ -60,4 +110,7 @@
 5. [LightVela](https://lightvela.com/)
 6. [OpenClaw](https://openclaw.ai/)
 7. [Hermes Agent](https://hermes-agent.nousresearch.com/)
-8. [Ollama](https://ollama.com/)
+8. [李笑来](https://lixiaolai.com/#/)
+9. [段永平](https://xueqiu.com/u/1247347556)
+10. [但斌](https://xueqiu.com/u/1102105103)
+
