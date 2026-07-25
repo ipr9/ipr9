@@ -1,9 +1,12 @@
 
+![](https://github.com/user-attachments/assets/388f91fb-ac05-4680-9b4a-c179da54c996)
+> 凡墙皆是门，把自己活成作品————ahaip
+
 ![](https://github.com/user-attachments/assets/bed74e0c-a9c9-477e-a0c7-07af71a35536)
 > 乐在其中，天道酬勤，从量变到质变————大脑神经连接
 
 ![](https://github.com/user-attachments/assets/b958e63c-16c1-459a-9359-9f3118432837)
-> 节律，概率，当下————心怀及体验美好（真善美）
+> 节律，概率，当下美好————真善美
 
 ![](https://github.com/user-attachments/assets/9161d255-0703-4c39-ae75-9ad6cc4763be)
 > AHA飞轮体系：得到大脑（输入），小虾小马（进化），公众号（输出）————高质量输入，高质量输出（训练大脑）
