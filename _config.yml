@@ -11,11 +11,11 @@ plugins:
 # midnight@v0.2.0
 
 title: Now
-description: One
+description: Wow
 show_downloads: false
-logo: https://github.com/user-attachments/assets/2c851bda-be09-49f4-9afe-089ed1a6c1dc
+logo: https://github.com/user-attachments/assets/2fdfd7f5-c566-4528-b11f-a79dc462e8c2
 #https://github.com/user-attachments/assets/241a0b47-6812-483f-a4fa-2fcb52842182
-
+#https://github.com/user-attachments/assets/2c851bda-be09-49f4-9afe-089ed1a6c1dc
 
 # ```yaml
 #    safe:
