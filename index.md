@@ -226,7 +226,7 @@ T字型一横很长，但那竖很短，不行；
 > 发现，解决，调动
 
 
-![]()
+![](https://github.com/user-attachments/assets/2ac544b8-2682-429c-81f8-61bd0f999007)
 > 语法，语义，时序
 
 ---
