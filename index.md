@@ -222,6 +222,16 @@ T字型一横很长，但那竖很短，不行；
 
 ```
 
+
+![](https://github.com/user-attachments/assets/c782c614-1119-46c7-b2a0-8f8cda20bd8b)
+![](https://github.com/user-attachments/assets/ebba89a4-7d41-4719-b1d9-10c25178bd9f)
+
+
+
+![]()
+![]()
+
+
 ![](https://github.com/user-attachments/assets/2bfd8523-800b-4e95-94fa-97e94c7bcfdd)
 > 发现，解决，调动
 
