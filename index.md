@@ -226,12 +226,8 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/c782c614-1119-46c7-b2a0-8f8cda20bd8b)
 ![](https://github.com/user-attachments/assets/ebba89a4-7d41-4719-b1d9-10c25178bd9f)
 ![](https://github.com/user-attachments/assets/ed01a837-a6fb-4969-9a1c-5e0c3bc50fd2)
-
-
-
-![]()
-
-
+![](https://github.com/user-attachments/assets/b0fcd827-c8af-4e96-a51c-ca1f9b2af957)
+> HWPM
 
 ![](https://github.com/user-attachments/assets/2bfd8523-800b-4e95-94fa-97e94c7bcfdd)
 > 发现，解决，调动
@@ -240,9 +236,13 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/2ac544b8-2682-429c-81f8-61bd0f999007)
 > 语法，语义，时序
 
+
+
+
+
+![]()
 ![](https://github.com/user-attachments/assets/4a2c0c72-712e-4ee5-adfa-96cfc4cbaa19)
-
-
+> 当下美好
 
 ---
 
