@@ -232,6 +232,14 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/2bfd8523-800b-4e95-94fa-97e94c7bcfdd)
 > 发现，解决，调动
 
+![](https://github.com/user-attachments/assets/3d743551-be95-419e-afdd-6490f5f1a82c)
+![](https://github.com/user-attachments/assets/29f4fdeb-3597-4bd2-90b7-8c0dab2a75cc)
+![](https://github.com/user-attachments/assets/7b000549-041f-46c1-90c6-d5a5aa8f6b83)
+![](https://github.com/user-attachments/assets/169196c3-3502-4da2-b5c4-a6ce58e33171)
+> 基于信任合作，基于价值交换，基于组织共生
+
+![](https://github.com/user-attachments/assets/74ed727f-c257-43ac-880f-a498921c9b99)
+> 向上沟通，向下赋能，共创共享
 
 ![](https://github.com/user-attachments/assets/2ac544b8-2682-429c-81f8-61bd0f999007)
 > 语法，语义，时序
