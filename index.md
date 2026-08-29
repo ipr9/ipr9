@@ -247,8 +247,6 @@ T字型一横很长，但那竖很短，不行；
 
 
 
-![](https://github.com/user-attachments/assets/e4ea2cdc-db59-4de0-a9b5-04419f3dd144)
-
 
 ![](https://github.com/user-attachments/assets/64c5bac4-0200-4546-b53a-1e9cb5fef731)
 ![](https://github.com/user-attachments/assets/ec1a19bb-013f-4fd1-a5e0-8868e35df8c5)
