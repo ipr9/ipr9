@@ -245,6 +245,7 @@ T字型一横很长，但那竖很短，不行；
 > 语法，语义，时序
 
 
+![](https://github.com/user-attachments/assets/ec1a19bb-013f-4fd1-a5e0-8868e35df8c5)
 ![](https://github.com/user-attachments/assets/0a3c6449-11cf-4a40-8ab5-cbe11498a12b)
 > 天道酬勤
 
