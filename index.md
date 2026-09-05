@@ -244,16 +244,12 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/2ac544b8-2682-429c-81f8-61bd0f999007)
 > 语法，语义，时序
 
-
 ![](https://github.com/user-attachments/assets/7c60aa86-79b2-4076-9911-cb3788b5a436)
 ![](https://github.com/user-attachments/assets/b0c60df6-a7ef-401c-a37e-0feeb79aa3ff)
 ![](https://github.com/user-attachments/assets/64c5bac4-0200-4546-b53a-1e9cb5fef731)
 ![](https://github.com/user-attachments/assets/ec1a19bb-013f-4fd1-a5e0-8868e35df8c5)
 ![](https://github.com/user-attachments/assets/0a3c6449-11cf-4a40-8ab5-cbe11498a12b)
 > 天道酬勤
-
-<img width="1672" height="941" alt="9cddb8b5d6ab238629f5ba12d5bed292" src="" />
-<img width="1672" height="941" alt="93faaaf902988c6e4aef564a4a1db58f" src="" />
 
 ![](https://github.com/user-attachments/assets/21070efd-5a63-4b03-8eb7-828c3af9fa48)
 ![](https://github.com/user-attachments/assets/6ce178e3-ba02-4350-a6fc-dbdd6ab2426d)
@@ -275,4 +271,10 @@ T字型一横很长，但那竖很短，不行；
 8. [李笑来](https://lixiaolai.com/#/)
 9. [段永平](https://xueqiu.com/u/1247347556)
 10. [但斌](https://xueqiu.com/u/1102105103)
+11. [ahaip](https://www.ahaip.com/)
+12. [ahaipr](https://ahaipr.com/)
+13. [coolipr](https://coolipr.com/)
+14. [ahasep](https://ahasep.com/)
+15. [ahapatent](https://ahapatent.com/)
+16. [hazyman](https://hazyman.com/)
 
