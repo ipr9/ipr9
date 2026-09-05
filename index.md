@@ -252,6 +252,13 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/0a3c6449-11cf-4a40-8ab5-cbe11498a12b)
 > 天道酬勤
 
+<img width="1672" height="941" alt="9cddb8b5d6ab238629f5ba12d5bed292" src="" />
+<img width="1672" height="941" alt="93faaaf902988c6e4aef564a4a1db58f" src="" />
+
+![](https://github.com/user-attachments/assets/21070efd-5a63-4b03-8eb7-828c3af9fa48)
+![](https://github.com/user-attachments/assets/6ce178e3-ba02-4350-a6fc-dbdd6ab2426d)
+> 给位子，给胆子，给梯子
+
 ![](https://github.com/user-attachments/assets/f74fa19a-b56d-42cc-b90b-6d7cc46557b7)
 ![](https://github.com/user-attachments/assets/4a2c0c72-712e-4ee5-adfa-96cfc4cbaa19)
 > 当下美好
