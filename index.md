@@ -255,6 +255,10 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/6ce178e3-ba02-4350-a6fc-dbdd6ab2426d)
 > 给位子，给胆子，给梯子
 
+![](https://github.com/user-attachments/assets/8f4ccb02-02e0-4898-8517-e1f91011e0c6)
+![](https://github.com/user-attachments/assets/2a3e64d7-8247-40af-95e9-6dc2bb081153)
+> 让你成长的人都是贵人：勿近，勿正，勿多。
+
 ![](https://github.com/user-attachments/assets/f74fa19a-b56d-42cc-b90b-6d7cc46557b7)
 ![](https://github.com/user-attachments/assets/4a2c0c72-712e-4ee5-adfa-96cfc4cbaa19)
 > 当下美好
