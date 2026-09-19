@@ -259,6 +259,12 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/2a3e64d7-8247-40af-95e9-6dc2bb081153)
 > 让你成长的人都是贵人：勿近，勿正，勿多。
 
+![](https://github.com/user-attachments/assets/0b9e832e-2bd6-488c-b856-542984e1f8f7)
+![](https://github.com/user-attachments/assets/c996b6da-3de2-4cd1-be38-41abb1cbf6b4)
+![](https://github.com/user-attachments/assets/87a5ecd5-42f7-4ee1-873a-48cf73ec6781)
+![](https://github.com/user-attachments/assets/f1d4af75-23b4-45b7-8f4d-d94ef5008318)
+> 断舍离，避免劣币驱逐良币
+
 ![](https://github.com/user-attachments/assets/f74fa19a-b56d-42cc-b90b-6d7cc46557b7)
 ![](https://github.com/user-attachments/assets/4a2c0c72-712e-4ee5-adfa-96cfc4cbaa19)
 > 当下美好
