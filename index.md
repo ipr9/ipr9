@@ -265,6 +265,9 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/f1d4af75-23b4-45b7-8f4d-d94ef5008318)
 > 断舍离，避免劣币驱逐良币
 
+![](https://github.com/user-attachments/assets/0986a5b1-301d-4c62-b45d-e2bf09f5cfc4)
+> 光明正大，正大光明
+
 ![](https://github.com/user-attachments/assets/f74fa19a-b56d-42cc-b90b-6d7cc46557b7)
 ![](https://github.com/user-attachments/assets/4a2c0c72-712e-4ee5-adfa-96cfc4cbaa19)
 > 当下美好
