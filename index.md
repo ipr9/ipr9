@@ -268,6 +268,13 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/0986a5b1-301d-4c62-b45d-e2bf09f5cfc4)
 > 光明正大，正大光明
 
+![](https://github.com/user-attachments/assets/52deaccb-8714-4f6a-b611-5eba0d3d5952)
+![](https://github.com/user-attachments/assets/87558a32-90ba-4b62-ba17-cf42b029f1ae)
+> 实事求是
+
+
+
+
 ![](https://github.com/user-attachments/assets/f74fa19a-b56d-42cc-b90b-6d7cc46557b7)
 ![](https://github.com/user-attachments/assets/4a2c0c72-712e-4ee5-adfa-96cfc4cbaa19)
 > 当下美好
