@@ -272,6 +272,9 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/87558a32-90ba-4b62-ba17-cf42b029f1ae)
 > 实事求是
 
+![](https://github.com/user-attachments/assets/94df69a3-5e11-408f-bbba-5c3ba066c08a)
+![]()
+> 修己安人
 
 
 
