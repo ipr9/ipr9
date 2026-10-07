@@ -276,6 +276,10 @@ T字型一横很长，但那竖很短，不行；
 ![](https://github.com/user-attachments/assets/1d2b7466-876c-43b8-94c6-162f83b7edce)
 > 修己安人
 
+![](https://github.com/user-attachments/assets/08c4b7b3-e566-418f-a8ff-ba3974e4bce6)
+![](https://github.com/user-attachments/assets/4b84dc0a-007c-440d-823a-91bd8af0935d)
+> 知足不辱，知止不殆，自律自由
+
 ![](https://github.com/user-attachments/assets/f74fa19a-b56d-42cc-b90b-6d7cc46557b7)
 ![](https://github.com/user-attachments/assets/4a2c0c72-712e-4ee5-adfa-96cfc4cbaa19)
 > 当下美好
