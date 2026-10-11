@@ -282,10 +282,9 @@ T字型一横很长，但那竖很短，不行；
 > 知足不辱，知止不殆，自律自由
 
 ![](https://github.com/user-attachments/assets/05ad2042-d144-490b-8fa4-81c6e21b201d)
-![]()
+![](https://github.com/user-attachments/assets/5fa43ad0-0d6d-4eaf-b7d9-f81d0dec3bd8)
 ![](https://github.com/user-attachments/assets/8a5d3536-d394-4832-be0a-a366f255986c)
 > 个人与系统，趋势>选择>努力
-
 
 ![](https://github.com/user-attachments/assets/f74fa19a-b56d-42cc-b90b-6d7cc46557b7)
 ![](https://github.com/user-attachments/assets/4a2c0c72-712e-4ee5-adfa-96cfc4cbaa19)
