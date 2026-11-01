@@ -31,6 +31,8 @@ Slogan：洞察创新，智护价值。
 
 ```
 
+![](https://github.com/user-attachments/assets/ad8e8bd8-ef6c-4174-8146-3ef3a0e666d4)
+>从t 到π，再到开
 
 ```
 
