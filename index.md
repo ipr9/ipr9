@@ -1,6 +1,10 @@
 
-![](https://github.com/user-attachments/assets/70bf7a79-b47a-4e7e-986d-a83d52724ec8)
+
+![](https://github.com/user-attachments/assets/3268de2d-ce3d-4927-8933-0d1a857fbffd)
 > 凡墙皆是门，把自己活成作品
+
+
+
 
 ```
 
@@ -9,6 +13,9 @@
 做好自己的事情
 
 ```
+
+
+
 
 ![](https://github.com/user-attachments/assets/d36cf8ea-ff68-4daf-b738-6ed2b6131124)
 > AHA 飞轮体系，起点、终点及破局关键都是ME
