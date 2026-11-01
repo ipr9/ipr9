@@ -3,8 +3,8 @@
 ![](https://github.com/user-attachments/assets/3268de2d-ce3d-4927-8933-0d1a857fbffd)
 > 凡墙皆是门，把自己活成作品
 
-
-
+![](https://github.com/user-attachments/assets/235b7464-07c0-4339-9479-fa6fb1b20fa8)
+> 今天乃今生，当下即永恒
 
 ```
 
@@ -17,10 +17,8 @@
 
 
 
-![](https://github.com/user-attachments/assets/d36cf8ea-ff68-4daf-b738-6ed2b6131124)
+
 > AHA 飞轮体系，起点、终点及破局关键都是ME
-
-
 
 
 ```
