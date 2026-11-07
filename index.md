@@ -14,6 +14,7 @@
 
 ```
 
+![](https://github.com/user-attachments/assets/e52c8700-6144-425e-9099-fdda327dc5fc)
 ![](https://github.com/user-attachments/assets/ea2eb2cc-d80a-4058-94de-3910096489f6)
 > AHA 飞轮体系，起点、终点及破局关键都是ME
 
