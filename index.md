@@ -4,7 +4,8 @@
 > 凡墙皆是门，把自己活成作品
 
 ![](https://github.com/user-attachments/assets/235b7464-07c0-4339-9479-fa6fb1b20fa8)
-> 今天乃今生，当下即永恒
+![](https://github.com/user-attachments/assets/59eecf30-5476-4ffb-9417-648bdd848c8d)
+> 今天乃今生，当下即永恒，体验人生
 
 ```
 
