@@ -38,6 +38,9 @@ Slogan：洞察创新，智护价值。
 ![](https://github.com/user-attachments/assets/ad8e8bd8-ef6c-4174-8146-3ef3a0e666d4)
 > 从t 到π，再到开
 
+![](https://github.com/user-attachments/assets/005bfee5-52e2-4873-b2e6-b244553e7d53)
+> 五位一体
+
 ```
 
 ‌1.‌付出不亚于任何人的努力‌：持续拼命工作，比谁都刻苦。
